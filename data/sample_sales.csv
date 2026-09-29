@@ -1,0 +1,2921 @@
+date,product_id,product_name,category,sales,price,inventory,promotion,holiday,weather,lead_time
+2025-09-01,P001,Espresso Beans 1kg,Beverages,53.0,18.0,667,0,0,cloudy,5
+2025-09-02,P001,Espresso Beans 1kg,Beverages,59.0,18.0,608,0,0,sunny,5
+2025-09-03,P001,Espresso Beans 1kg,Beverages,67.0,18.0,541,0,0,rainy,5
+2025-09-04,P001,Espresso Beans 1kg,Beverages,51.0,18.0,490,0,0,rainy,5
+2025-09-05,P001,Espresso Beans 1kg,Beverages,52.0,18.0,438,0,0,rainy,5
+2025-09-06,P001,Espresso Beans 1kg,Beverages,69.0,18.0,369,0,0,rainy,5
+2025-09-07,P001,Espresso Beans 1kg,Beverages,77.0,18.0,1492,0,0,sunny,5
+2025-09-08,P001,Espresso Beans 1kg,Beverages,72.0,18.0,1420,0,0,rainy,5
+2025-09-09,P001,Espresso Beans 1kg,Beverages,57.0,18.0,1363,0,0,sunny,5
+2025-09-10,P001,Espresso Beans 1kg,Beverages,75.0,18.0,1288,0,0,rainy,5
+2025-09-11,P001,Espresso Beans 1kg,Beverages,67.0,18.0,1221,0,0,sunny,5
+2025-09-12,P001,Espresso Beans 1kg,Beverages,48.0,18.0,1173,0,0,cloudy,5
+2025-09-13,P001,Espresso Beans 1kg,Beverages,78.0,18.0,1095,0,0,rainy,5
+2025-09-14,P001,Espresso Beans 1kg,Beverages,72.0,18.0,1023,0,0,sunny,5
+2025-09-15,P001,Espresso Beans 1kg,Beverages,54.0,18.0,969,0,0,sunny,5
+2025-09-16,P001,Espresso Beans 1kg,Beverages,58.0,18.0,911,0,0,rainy,5
+2025-09-17,P001,Espresso Beans 1kg,Beverages,73.0,18.0,838,0,0,sunny,5
+2025-09-18,P001,Espresso Beans 1kg,Beverages,93.0,15.3,745,1,0,cloudy,5
+2025-09-19,P001,Espresso Beans 1kg,Beverages,69.0,18.0,676,0,0,rainy,5
+2025-09-20,P001,Espresso Beans 1kg,Beverages,80.0,18.0,596,0,0,cloudy,5
+2025-09-21,P001,Espresso Beans 1kg,Beverages,89.0,18.0,507,0,0,cloudy,5
+2025-09-22,P001,Espresso Beans 1kg,Beverages,55.0,18.0,452,0,0,cloudy,5
+2025-09-23,P001,Espresso Beans 1kg,Beverages,68.0,18.0,384,0,0,cloudy,5
+2025-09-24,P001,Espresso Beans 1kg,Beverages,75.0,18.0,309,0,0,cloudy,5
+2025-09-25,P001,Espresso Beans 1kg,Beverages,41.0,18.0,1468,0,0,cloudy,5
+2025-09-26,P001,Espresso Beans 1kg,Beverages,45.0,18.0,1423,0,0,sunny,5
+2025-09-27,P001,Espresso Beans 1kg,Beverages,87.0,18.0,1336,0,0,cloudy,5
+2025-09-28,P001,Espresso Beans 1kg,Beverages,119.0,15.3,1217,1,0,rainy,5
+2025-09-29,P001,Espresso Beans 1kg,Beverages,70.0,18.0,1147,0,0,rainy,5
+2025-09-30,P001,Espresso Beans 1kg,Beverages,73.0,18.0,1074,0,0,sunny,5
+2025-10-01,P001,Espresso Beans 1kg,Beverages,,18.0,1018,0,0,rainy,5
+2025-10-02,P001,Espresso Beans 1kg,Beverages,87.0,18.0,931,0,1,rainy,5
+2025-10-03,P001,Espresso Beans 1kg,Beverages,68.0,18.0,863,0,0,sunny,5
+2025-10-04,P001,Espresso Beans 1kg,Beverages,71.0,18.0,792,0,0,rainy,5
+2025-10-05,P001,Espresso Beans 1kg,Beverages,73.0,18.0,719,0,0,cloudy,5
+2025-10-06,P001,Espresso Beans 1kg,Beverages,68.0,18.0,651,0,0,cloudy,5
+2025-10-07,P001,Espresso Beans 1kg,Beverages,69.0,18.0,582,0,0,rainy,5
+2025-10-08,P001,Espresso Beans 1kg,Beverages,78.0,18.0,504,0,0,cloudy,5
+2025-10-09,P001,Espresso Beans 1kg,Beverages,58.0,18.0,446,0,0,cloudy,5
+2025-10-10,P001,Espresso Beans 1kg,Beverages,66.0,18.0,380,0,0,sunny,5
+2025-10-11,P001,Espresso Beans 1kg,Beverages,88.0,18.0,1492,0,0,rainy,5
+2025-10-12,P001,Espresso Beans 1kg,Beverages,79.0,18.0,1413,0,0,rainy,5
+2025-10-13,P001,Espresso Beans 1kg,Beverages,73.0,18.0,1340,0,0,sunny,5
+2025-10-14,P001,Espresso Beans 1kg,Beverages,85.0,18.0,1255,0,0,rainy,5
+2025-10-15,P001,Espresso Beans 1kg,Beverages,69.0,18.0,1186,0,0,sunny,5
+2025-10-16,P001,Espresso Beans 1kg,Beverages,68.0,18.0,1118,0,0,cloudy,5
+2025-10-17,P001,Espresso Beans 1kg,Beverages,58.0,18.0,1060,0,0,rainy,5
+2025-10-18,P001,Espresso Beans 1kg,Beverages,81.0,18.0,979,0,0,sunny,5
+2025-10-19,P001,Espresso Beans 1kg,Beverages,90.0,18.0,889,0,0,cloudy,5
+2025-10-20,P001,Espresso Beans 1kg,Beverages,68.0,18.0,821,0,0,sunny,5
+2025-10-21,P001,Espresso Beans 1kg,Beverages,63.0,18.0,758,0,0,rainy,5
+2025-10-22,P001,Espresso Beans 1kg,Beverages,90.0,15.3,668,1,0,cloudy,5
+2025-10-23,P001,Espresso Beans 1kg,Beverages,69.0,18.0,599,0,0,cloudy,5
+2025-10-24,P001,Espresso Beans 1kg,Beverages,64.0,18.0,535,0,0,rainy,5
+2025-10-25,P001,Espresso Beans 1kg,Beverages,91.0,18.0,444,0,0,cloudy,5
+2025-10-26,P001,Espresso Beans 1kg,Beverages,94.0,18.0,350,0,0,rainy,5
+2025-10-27,P001,Espresso Beans 1kg,Beverages,67.0,18.0,1483,0,0,sunny,5
+2025-10-28,P001,Espresso Beans 1kg,Beverages,73.0,18.0,1410,0,0,sunny,5
+2025-10-29,P001,Espresso Beans 1kg,Beverages,76.0,18.0,1334,0,0,rainy,5
+2025-10-30,P001,Espresso Beans 1kg,Beverages,73.0,18.0,1261,0,0,rainy,5
+2025-10-31,P001,Espresso Beans 1kg,Beverages,73.0,18.0,1188,0,0,cloudy,5
+2025-11-01,P001,Espresso Beans 1kg,Beverages,134.0,18.0,1054,0,1,cloudy,5
+2025-11-02,P001,Espresso Beans 1kg,Beverages,103.0,18.0,951,0,0,sunny,5
+2025-11-03,P001,Espresso Beans 1kg,Beverages,62.0,18.0,889,0,0,rainy,5
+2025-11-04,P001,Espresso Beans 1kg,Beverages,84.0,18.0,805,0,0,rainy,5
+2025-11-05,P001,Espresso Beans 1kg,Beverages,68.0,18.0,737,0,0,sunny,5
+2025-11-06,P001,Espresso Beans 1kg,Beverages,65.0,18.0,672,0,0,cloudy,5
+2025-11-07,P001,Espresso Beans 1kg,Beverages,81.0,18.0,591,0,0,cloudy,5
+2025-11-08,P001,Espresso Beans 1kg,Beverages,122.0,15.3,469,1,0,cloudy,5
+2025-11-09,P001,Espresso Beans 1kg,Beverages,97.0,18.0,372,0,0,rainy,5
+2025-11-10,P001,Espresso Beans 1kg,Beverages,72.0,18.0,300,0,0,sunny,5
+2025-11-11,P001,Espresso Beans 1kg,Beverages,71.0,18.0,1429,0,0,sunny,5
+2025-11-12,P001,Espresso Beans 1kg,Beverages,81.0,18.0,1348,0,0,sunny,5
+2025-11-13,P001,Espresso Beans 1kg,Beverages,80.0,18.0,1268,0,0,rainy,5
+2025-11-14,P001,Espresso Beans 1kg,Beverages,94.0,15.3,1174,1,0,cloudy,5
+2025-11-15,P001,Espresso Beans 1kg,Beverages,85.0,18.0,1089,0,0,rainy,5
+2025-11-16,P001,Espresso Beans 1kg,Beverages,98.0,18.0,991,0,0,cloudy,5
+2025-11-17,P001,Espresso Beans 1kg,Beverages,76.0,18.0,915,0,0,sunny,5
+2025-11-18,P001,Espresso Beans 1kg,Beverages,62.0,18.0,853,0,0,cloudy,5
+2025-11-19,P001,Espresso Beans 1kg,Beverages,76.0,18.0,777,0,0,sunny,5
+2025-11-20,P001,Espresso Beans 1kg,Beverages,67.0,18.0,710,0,0,rainy,5
+2025-11-21,P001,Espresso Beans 1kg,Beverages,92.0,18.0,618,0,0,rainy,5
+2025-11-22,P001,Espresso Beans 1kg,Beverages,89.0,18.0,529,0,0,rainy,5
+2025-11-23,P001,Espresso Beans 1kg,Beverages,98.0,18.0,431,0,0,cloudy,5
+2025-11-24,P001,Espresso Beans 1kg,Beverages,106.0,15.3,325,1,0,sunny,5
+2025-11-25,P001,Espresso Beans 1kg,Beverages,72.0,18.0,1453,0,0,sunny,5
+2025-11-26,P001,Espresso Beans 1kg,Beverages,82.0,18.0,1371,0,0,cloudy,5
+2025-11-27,P001,Espresso Beans 1kg,Beverages,83.0,18.0,1288,0,0,cloudy,5
+2025-11-28,P001,Espresso Beans 1kg,Beverages,61.0,18.0,1227,0,0,rainy,5
+2025-11-29,P001,Espresso Beans 1kg,Beverages,100.0,18.0,1127,0,0,rainy,5
+2025-11-30,P001,Espresso Beans 1kg,Beverages,111.0,18.0,1016,0,0,sunny,5
+2025-12-01,P001,Espresso Beans 1kg,Beverages,87.0,18.0,929,0,0,sunny,5
+2025-12-02,P001,Espresso Beans 1kg,Beverages,80.0,18.0,849,0,0,cloudy,5
+2025-12-03,P001,Espresso Beans 1kg,Beverages,82.0,18.0,767,0,0,cloudy,5
+2025-12-04,P001,Espresso Beans 1kg,Beverages,76.0,18.0,691,0,0,sunny,5
+2025-12-05,P001,Espresso Beans 1kg,Beverages,81.0,18.0,610,0,0,rainy,5
+2025-12-06,P001,Espresso Beans 1kg,Beverages,97.0,18.0,513,0,0,rainy,5
+2025-12-07,P001,Espresso Beans 1kg,Beverages,104.0,18.0,409,0,0,cloudy,5
+2025-12-08,P001,Espresso Beans 1kg,Beverages,76.0,18.0,333,0,0,sunny,5
+2025-12-09,P001,Espresso Beans 1kg,Beverages,79.0,18.0,1454,0,0,rainy,5
+2025-12-10,P001,Espresso Beans 1kg,Beverages,83.0,18.0,1371,0,0,sunny,5
+2025-12-11,P001,Espresso Beans 1kg,Beverages,75.0,18.0,1296,0,0,cloudy,5
+2025-12-12,P001,Espresso Beans 1kg,Beverages,84.0,18.0,1212,0,0,rainy,5
+2025-12-13,P001,Espresso Beans 1kg,Beverages,110.0,18.0,1102,0,0,rainy,5
+2025-12-14,P001,Espresso Beans 1kg,Beverages,87.0,18.0,1015,0,0,sunny,5
+2025-12-15,P001,Espresso Beans 1kg,Beverages,80.0,18.0,935,0,0,cloudy,5
+2025-12-16,P001,Espresso Beans 1kg,Beverages,88.0,18.0,847,0,0,sunny,5
+2025-12-17,P001,Espresso Beans 1kg,Beverages,77.0,18.0,770,0,0,sunny,5
+2025-12-18,P001,Espresso Beans 1kg,Beverages,81.0,18.0,689,0,0,cloudy,5
+2025-12-19,P001,Espresso Beans 1kg,Beverages,79.0,18.0,610,0,0,rainy,5
+2025-12-20,P001,Espresso Beans 1kg,Beverages,85.0,18.0,525,0,0,rainy,5
+2025-12-21,P001,Espresso Beans 1kg,Beverages,113.0,18.0,412,0,0,cloudy,5
+2025-12-22,P001,Espresso Beans 1kg,Beverages,78.0,18.0,334,0,0,sunny,5
+2025-12-23,P001,Espresso Beans 1kg,Beverages,69.0,18.0,1465,0,0,sunny,5
+2025-12-24,P001,Espresso Beans 1kg,Beverages,88.0,18.0,1377,0,0,sunny,5
+2025-12-25,P001,Espresso Beans 1kg,Beverages,124.0,18.0,1253,0,1,sunny,5
+2025-12-26,P001,Espresso Beans 1kg,Beverages,91.0,18.0,1162,0,0,sunny,5
+2025-12-27,P001,Espresso Beans 1kg,Beverages,94.0,18.0,1068,0,0,rainy,5
+2025-12-28,P001,Espresso Beans 1kg,Beverages,115.0,18.0,953,0,0,sunny,5
+2025-12-29,P001,Espresso Beans 1kg,Beverages,82.0,18.0,871,0,0,sunny,5
+2025-12-30,P001,Espresso Beans 1kg,Beverages,96.0,18.0,775,0,0,cloudy,5
+2025-12-31,P001,Espresso Beans 1kg,Beverages,75.0,18.0,700,0,0,sunny,5
+2026-01-01,P001,Espresso Beans 1kg,Beverages,106.0,18.0,594,0,1,cloudy,5
+2026-01-02,P001,Espresso Beans 1kg,Beverages,77.0,18.0,517,0,0,sunny,5
+2026-01-03,P001,Espresso Beans 1kg,Beverages,135.0,15.3,382,1,0,sunny,5
+2026-01-04,P001,Espresso Beans 1kg,Beverages,117.0,18.0,1465,0,0,cloudy,5
+2026-01-05,P001,Espresso Beans 1kg,Beverages,67.0,18.0,1398,0,0,rainy,5
+2026-01-06,P001,Espresso Beans 1kg,Beverages,88.0,18.0,1310,0,0,cloudy,5
+2026-01-07,P001,Espresso Beans 1kg,Beverages,80.0,18.0,1230,0,0,cloudy,5
+2026-01-08,P001,Espresso Beans 1kg,Beverages,88.0,18.0,1142,0,0,cloudy,5
+2026-01-09,P001,Espresso Beans 1kg,Beverages,79.0,18.0,1063,0,0,sunny,5
+2026-01-10,P001,Espresso Beans 1kg,Beverages,102.0,18.0,961,0,0,sunny,5
+2026-01-11,P001,Espresso Beans 1kg,Beverages,98.0,18.0,863,0,0,cloudy,5
+2026-01-12,P001,Espresso Beans 1kg,Beverages,73.0,18.0,790,0,0,sunny,5
+2026-01-13,P001,Espresso Beans 1kg,Beverages,81.0,18.0,709,0,0,rainy,5
+2026-01-14,P001,Espresso Beans 1kg,Beverages,106.0,15.3,603,1,0,cloudy,5
+2026-01-15,P001,Espresso Beans 1kg,Beverages,83.0,18.0,520,0,0,sunny,5
+2026-01-16,P001,Espresso Beans 1kg,Beverages,95.0,18.0,425,0,0,cloudy,5
+2026-01-17,P001,Espresso Beans 1kg,Beverages,97.0,18.0,328,0,0,sunny,5
+2026-01-18,P001,Espresso Beans 1kg,Beverages,103.0,18.0,1425,0,0,cloudy,5
+2026-01-19,P001,Espresso Beans 1kg,Beverages,84.0,18.0,1341,0,0,rainy,5
+2026-01-20,P001,Espresso Beans 1kg,Beverages,76.0,18.0,1265,0,0,sunny,5
+2026-01-21,P001,Espresso Beans 1kg,Beverages,77.0,18.0,1188,0,0,cloudy,5
+2026-01-22,P001,Espresso Beans 1kg,Beverages,93.0,18.0,1095,0,0,sunny,5
+2026-01-23,P001,Espresso Beans 1kg,Beverages,83.0,18.0,1012,0,0,cloudy,5
+2026-01-24,P001,Espresso Beans 1kg,Beverages,110.0,18.0,902,0,0,sunny,5
+2026-01-25,P001,Espresso Beans 1kg,Beverages,106.0,18.0,796,0,0,cloudy,5
+2026-01-26,P001,Espresso Beans 1kg,Beverages,125.0,18.0,671,0,1,cloudy,5
+2026-01-27,P001,Espresso Beans 1kg,Beverages,72.0,18.0,599,0,0,sunny,5
+2026-01-28,P001,Espresso Beans 1kg,Beverages,93.0,15.3,506,1,0,cloudy,5
+2026-01-29,P001,Espresso Beans 1kg,Beverages,102.0,18.0,404,0,0,rainy,5
+2026-01-30,P001,Espresso Beans 1kg,Beverages,79.0,18.0,325,0,0,rainy,5
+2026-01-31,P001,Espresso Beans 1kg,Beverages,126.0,18.0,1399,0,0,sunny,5
+2026-02-01,P001,Espresso Beans 1kg,Beverages,75.0,18.0,1324,0,0,cloudy,5
+2026-02-02,P001,Espresso Beans 1kg,Beverages,63.0,18.0,1261,0,0,rainy,5
+2026-02-03,P001,Espresso Beans 1kg,Beverages,80.0,18.0,1181,0,0,cloudy,5
+2026-02-04,P001,Espresso Beans 1kg,Beverages,60.0,18.0,1121,0,0,sunny,5
+2026-02-05,P001,Espresso Beans 1kg,Beverages,77.0,18.0,1044,0,0,cloudy,5
+2026-02-06,P001,Espresso Beans 1kg,Beverages,85.0,18.0,959,0,0,sunny,5
+2026-02-07,P001,Espresso Beans 1kg,Beverages,93.0,18.0,866,0,0,sunny,5
+2026-02-08,P001,Espresso Beans 1kg,Beverages,96.0,18.0,770,0,0,cloudy,5
+2026-02-09,P001,Espresso Beans 1kg,Beverages,66.0,18.0,704,0,0,cloudy,5
+2026-02-10,P001,Espresso Beans 1kg,Beverages,79.0,18.0,625,0,0,rainy,5
+2026-02-11,P001,Espresso Beans 1kg,Beverages,104.0,15.3,521,1,0,cloudy,5
+2026-02-12,P001,Espresso Beans 1kg,Beverages,89.0,18.0,432,0,0,rainy,5
+2026-02-13,P001,Espresso Beans 1kg,Beverages,74.0,18.0,358,0,0,cloudy,5
+2026-02-14,P001,Espresso Beans 1kg,Beverages,97.0,18.0,1461,0,0,rainy,5
+2026-02-15,P001,Espresso Beans 1kg,Beverages,89.0,18.0,1372,0,0,sunny,5
+2026-02-16,P001,Espresso Beans 1kg,Beverages,94.0,18.0,1278,0,0,sunny,5
+2026-02-17,P001,Espresso Beans 1kg,Beverages,77.0,18.0,1201,0,0,rainy,5
+2026-02-18,P001,Espresso Beans 1kg,Beverages,67.0,18.0,1134,0,0,rainy,5
+2026-02-19,P001,Espresso Beans 1kg,Beverages,51.0,18.0,1083,0,0,rainy,5
+2026-02-20,P001,Espresso Beans 1kg,Beverages,80.0,18.0,1003,0,0,sunny,5
+2026-02-21,P001,Espresso Beans 1kg,Beverages,98.0,18.0,905,0,0,sunny,5
+2026-02-22,P001,Espresso Beans 1kg,Beverages,107.0,18.0,798,0,0,rainy,5
+2026-02-23,P001,Espresso Beans 1kg,Beverages,115.0,15.3,683,1,0,cloudy,5
+2026-02-24,P001,Espresso Beans 1kg,Beverages,66.0,18.0,617,0,0,sunny,5
+2026-02-25,P001,Espresso Beans 1kg,Beverages,87.0,18.0,530,0,0,rainy,5
+2026-02-26,P001,Espresso Beans 1kg,Beverages,91.0,18.0,439,0,0,rainy,5
+2026-02-27,P001,Espresso Beans 1kg,Beverages,72.0,18.0,367,0,0,sunny,5
+2026-02-28,P001,Espresso Beans 1kg,Beverages,89.0,18.0,1478,0,0,rainy,5
+2026-03-01,P001,Espresso Beans 1kg,Beverages,97.0,18.0,1381,0,0,rainy,5
+2026-03-02,P001,Espresso Beans 1kg,Beverages,73.0,18.0,1308,0,0,cloudy,5
+2026-03-03,P001,Espresso Beans 1kg,Beverages,59.0,18.0,1249,0,0,cloudy,5
+2026-03-04,P001,Espresso Beans 1kg,Beverages,70.0,18.0,1179,0,0,sunny,5
+2026-03-05,P001,Espresso Beans 1kg,Beverages,64.0,18.0,1115,0,0,rainy,5
+2026-03-06,P001,Espresso Beans 1kg,Beverages,79.0,18.0,1036,0,0,rainy,5
+2026-03-07,P001,Espresso Beans 1kg,Beverages,87.0,18.0,949,0,0,rainy,5
+2026-03-08,P001,Espresso Beans 1kg,Beverages,94.0,18.0,855,0,0,rainy,5
+2026-03-09,P001,Espresso Beans 1kg,Beverages,63.0,18.0,792,0,0,sunny,5
+2026-03-10,P001,Espresso Beans 1kg,Beverages,64.0,18.0,728,0,0,cloudy,5
+2026-03-11,P001,Espresso Beans 1kg,Beverages,75.0,18.0,653,0,0,cloudy,5
+2026-03-12,P001,Espresso Beans 1kg,Beverages,85.0,18.0,568,0,0,rainy,5
+2026-03-13,P001,Espresso Beans 1kg,Beverages,73.0,18.0,495,0,0,cloudy,5
+2026-03-14,P001,Espresso Beans 1kg,Beverages,83.0,18.0,412,0,0,cloudy,5
+2026-03-15,P001,Espresso Beans 1kg,Beverages,92.0,18.0,320,0,0,sunny,5
+2026-03-16,P001,Espresso Beans 1kg,Beverages,76.0,18.0,1444,0,0,rainy,5
+2026-03-17,P001,Espresso Beans 1kg,Beverages,64.0,18.0,1380,0,0,cloudy,5
+2026-03-18,P001,Espresso Beans 1kg,Beverages,65.0,18.0,1315,0,0,sunny,5
+2026-03-19,P001,Espresso Beans 1kg,Beverages,72.0,18.0,1243,0,0,rainy,5
+2026-03-20,P001,Espresso Beans 1kg,Beverages,75.0,18.0,1168,0,0,sunny,5
+2026-03-21,P001,Espresso Beans 1kg,Beverages,90.0,18.0,1078,0,0,sunny,5
+2026-03-22,P001,Espresso Beans 1kg,Beverages,88.0,18.0,990,0,0,sunny,5
+2026-03-23,P001,Espresso Beans 1kg,Beverages,78.0,18.0,912,0,0,cloudy,5
+2026-03-24,P001,Espresso Beans 1kg,Beverages,91.0,15.3,821,1,0,sunny,5
+2026-03-25,P001,Espresso Beans 1kg,Beverages,81.0,18.0,740,0,0,rainy,5
+2026-03-26,P001,Espresso Beans 1kg,Beverages,74.0,18.0,666,0,0,cloudy,5
+2026-03-27,P001,Espresso Beans 1kg,Beverages,90.0,18.0,576,0,0,sunny,5
+2026-03-28,P001,Espresso Beans 1kg,Beverages,77.0,18.0,499,0,0,sunny,5
+2026-03-29,P001,Espresso Beans 1kg,Beverages,100.0,18.0,399,0,0,cloudy,5
+2026-03-30,P001,Espresso Beans 1kg,Beverages,67.0,18.0,332,0,0,sunny,5
+2026-03-31,P001,Espresso Beans 1kg,Beverages,79.0,18.0,1453,0,0,rainy,5
+2026-04-01,P001,Espresso Beans 1kg,Beverages,68.0,18.0,1385,0,0,sunny,5
+2026-04-02,P001,Espresso Beans 1kg,Beverages,73.0,18.0,1312,0,0,cloudy,5
+2026-04-03,P001,Espresso Beans 1kg,Beverages,69.0,18.0,1243,0,0,sunny,5
+2026-04-04,P001,Espresso Beans 1kg,Beverages,92.0,18.0,1151,0,0,sunny,5
+2026-04-05,P001,Espresso Beans 1kg,Beverages,74.0,18.0,1077,0,0,sunny,5
+2026-04-06,P001,Espresso Beans 1kg,Beverages,63.0,18.0,1014,0,0,sunny,5
+2026-04-07,P001,Espresso Beans 1kg,Beverages,78.0,18.0,936,0,0,rainy,5
+2026-04-08,P001,Espresso Beans 1kg,Beverages,61.0,18.0,875,0,0,rainy,5
+2026-04-09,P001,Espresso Beans 1kg,Beverages,67.0,18.0,808,0,0,rainy,5
+2026-04-10,P001,Espresso Beans 1kg,Beverages,68.0,18.0,740,0,0,sunny,5
+2026-04-11,P001,Espresso Beans 1kg,Beverages,80.0,18.0,660,0,0,rainy,5
+2026-04-12,P001,Espresso Beans 1kg,Beverages,78.0,18.0,582,0,0,cloudy,5
+2026-04-13,P001,Espresso Beans 1kg,Beverages,54.0,18.0,528,0,0,sunny,5
+2026-04-14,P001,Espresso Beans 1kg,Beverages,69.0,18.0,459,0,0,sunny,5
+2026-04-15,P001,Espresso Beans 1kg,Beverages,109.0,15.3,350,1,0,cloudy,5
+2026-04-16,P001,Espresso Beans 1kg,Beverages,52.0,18.0,1498,0,0,cloudy,5
+2026-04-17,P001,Espresso Beans 1kg,Beverages,75.0,18.0,1423,0,0,sunny,5
+2026-04-18,P001,Espresso Beans 1kg,Beverages,71.0,18.0,1352,0,0,rainy,5
+2026-04-19,P001,Espresso Beans 1kg,Beverages,79.0,18.0,1273,0,0,rainy,5
+2026-04-20,P001,Espresso Beans 1kg,Beverages,57.0,18.0,1216,0,0,cloudy,5
+2026-04-21,P001,Espresso Beans 1kg,Beverages,62.0,18.0,1154,0,0,rainy,5
+2026-04-22,P001,Espresso Beans 1kg,Beverages,66.0,18.0,1088,0,0,rainy,5
+2026-04-23,P001,Espresso Beans 1kg,Beverages,51.0,18.0,1037,0,0,rainy,5
+2026-04-24,P001,Espresso Beans 1kg,Beverages,57.0,18.0,980,0,0,sunny,5
+2026-04-25,P001,Espresso Beans 1kg,Beverages,98.0,18.0,882,0,0,rainy,5
+2026-04-26,P001,Espresso Beans 1kg,Beverages,66.0,18.0,816,0,0,cloudy,5
+2026-04-27,P001,Espresso Beans 1kg,Beverages,84.0,15.3,732,1,0,rainy,5
+2026-04-28,P001,Espresso Beans 1kg,Beverages,70.0,18.0,662,0,0,rainy,5
+2026-04-29,P001,Espresso Beans 1kg,Beverages,62.0,18.0,600,0,0,sunny,5
+2026-04-30,P001,Espresso Beans 1kg,Beverages,55.0,18.0,545,0,0,cloudy,5
+2026-05-01,P001,Espresso Beans 1kg,Beverages,70.0,18.0,475,0,0,sunny,5
+2026-05-02,P001,Espresso Beans 1kg,Beverages,82.0,18.0,393,0,0,sunny,5
+2026-05-03,P001,Espresso Beans 1kg,Beverages,72.0,18.0,321,0,0,cloudy,5
+2026-05-04,P001,Espresso Beans 1kg,Beverages,66.0,18.0,1455,0,0,rainy,5
+2026-05-05,P001,Espresso Beans 1kg,Beverages,48.0,18.0,1407,0,0,rainy,5
+2026-05-06,P001,Espresso Beans 1kg,Beverages,69.0,18.0,1338,0,0,cloudy,5
+2026-05-07,P001,Espresso Beans 1kg,Beverages,57.0,18.0,1281,0,0,sunny,5
+2026-05-08,P001,Espresso Beans 1kg,Beverages,53.0,18.0,1228,0,0,cloudy,5
+2026-05-09,P001,Espresso Beans 1kg,Beverages,,18.0,1158,0,0,rainy,5
+2026-05-10,P001,Espresso Beans 1kg,Beverages,67.0,18.0,1091,0,0,rainy,5
+2026-05-11,P001,Espresso Beans 1kg,Beverages,70.0,18.0,1021,0,0,sunny,5
+2026-05-12,P001,Espresso Beans 1kg,Beverages,59.0,18.0,962,0,0,sunny,5
+2026-05-13,P001,Espresso Beans 1kg,Beverages,59.0,18.0,903,0,0,rainy,5
+2026-05-14,P001,Espresso Beans 1kg,Beverages,57.0,18.0,846,0,0,sunny,5
+2026-05-15,P001,Espresso Beans 1kg,Beverages,58.0,18.0,788,0,0,sunny,5
+2026-05-16,P001,Espresso Beans 1kg,Beverages,63.0,18.0,725,0,0,sunny,5
+2026-05-17,P001,Espresso Beans 1kg,Beverages,88.0,15.3,637,1,0,cloudy,5
+2026-05-18,P001,Espresso Beans 1kg,Beverages,70.0,18.0,567,0,0,cloudy,5
+2026-05-19,P001,Espresso Beans 1kg,Beverages,60.0,18.0,507,0,0,cloudy,5
+2026-05-20,P001,Espresso Beans 1kg,Beverages,55.0,18.0,452,0,0,sunny,5
+2026-05-21,P001,Espresso Beans 1kg,Beverages,65.0,18.0,387,0,0,rainy,5
+2026-05-22,P001,Espresso Beans 1kg,Beverages,56.0,18.0,331,0,0,rainy,5
+2026-05-23,P001,Espresso Beans 1kg,Beverages,86.0,18.0,1445,0,0,cloudy,5
+2026-05-24,P001,Espresso Beans 1kg,Beverages,52.0,18.0,1393,0,0,sunny,5
+2026-05-25,P001,Espresso Beans 1kg,Beverages,64.0,18.0,1329,0,0,cloudy,5
+2026-05-26,P001,Espresso Beans 1kg,Beverages,63.0,18.0,1266,0,0,rainy,5
+2026-05-27,P001,Espresso Beans 1kg,Beverages,50.0,18.0,1216,0,0,cloudy,5
+2026-05-28,P001,Espresso Beans 1kg,Beverages,75.0,15.3,1141,1,0,sunny,5
+2026-05-29,P001,Espresso Beans 1kg,Beverages,70.0,15.3,1071,1,0,cloudy,5
+2026-05-30,P001,Espresso Beans 1kg,Beverages,69.0,18.0,1002,0,0,cloudy,5
+2026-05-31,P001,Espresso Beans 1kg,Beverages,83.0,15.3,919,1,0,cloudy,5
+2026-06-01,P001,Espresso Beans 1kg,Beverages,54.0,18.0,865,0,0,cloudy,5
+2026-06-02,P001,Espresso Beans 1kg,Beverages,52.0,18.0,813,0,0,sunny,5
+2026-06-03,P001,Espresso Beans 1kg,Beverages,55.0,18.0,758,0,0,rainy,5
+2026-06-04,P001,Espresso Beans 1kg,Beverages,58.0,18.0,700,0,0,cloudy,5
+2026-06-05,P001,Espresso Beans 1kg,Beverages,73.0,18.0,627,0,0,cloudy,5
+2026-06-06,P001,Espresso Beans 1kg,Beverages,61.0,18.0,566,0,0,cloudy,5
+2026-06-07,P001,Espresso Beans 1kg,Beverages,80.0,18.0,486,0,0,cloudy,5
+2026-06-08,P001,Espresso Beans 1kg,Beverages,74.0,15.3,412,1,0,sunny,5
+2026-06-09,P001,Espresso Beans 1kg,Beverages,56.0,18.0,356,0,0,rainy,5
+2026-06-10,P001,Espresso Beans 1kg,Beverages,53.0,18.0,303,0,0,sunny,5
+2026-06-11,P001,Espresso Beans 1kg,Beverages,54.0,18.0,1449,0,0,cloudy,5
+2026-06-12,P001,Espresso Beans 1kg,Beverages,61.0,18.0,1388,0,0,sunny,5
+2026-06-13,P001,Espresso Beans 1kg,Beverages,83.0,18.0,1305,0,0,sunny,5
+2026-06-14,P001,Espresso Beans 1kg,Beverages,98.0,15.3,1207,1,0,sunny,5
+2026-06-15,P001,Espresso Beans 1kg,Beverages,54.0,18.0,1153,0,0,rainy,5
+2026-06-16,P001,Espresso Beans 1kg,Beverages,46.0,18.0,1107,0,0,cloudy,5
+2026-06-17,P001,Espresso Beans 1kg,Beverages,59.0,18.0,1048,0,0,cloudy,5
+2026-06-18,P001,Espresso Beans 1kg,Beverages,59.0,18.0,989,0,0,rainy,5
+2026-06-19,P001,Espresso Beans 1kg,Beverages,71.0,15.3,918,1,0,sunny,5
+2026-06-20,P001,Espresso Beans 1kg,Beverages,63.0,18.0,855,0,0,cloudy,5
+2026-06-21,P001,Espresso Beans 1kg,Beverages,59.0,18.0,796,0,0,cloudy,5
+2026-06-22,P001,Espresso Beans 1kg,Beverages,46.0,18.0,750,0,0,cloudy,5
+2026-06-23,P001,Espresso Beans 1kg,Beverages,49.0,18.0,701,0,0,sunny,5
+2026-06-24,P001,Espresso Beans 1kg,Beverages,58.0,18.0,643,0,0,rainy,5
+2026-06-25,P001,Espresso Beans 1kg,Beverages,59.0,18.0,584,0,0,sunny,5
+2026-06-26,P001,Espresso Beans 1kg,Beverages,60.0,18.0,524,0,0,rainy,5
+2026-06-27,P001,Espresso Beans 1kg,Beverages,68.0,18.0,456,0,0,rainy,5
+2026-06-28,P001,Espresso Beans 1kg,Beverages,73.0,18.0,383,0,0,cloudy,5
+2026-06-29,P001,Espresso Beans 1kg,Beverages,52.0,18.0,331,0,0,sunny,5
+2026-06-30,P001,Espresso Beans 1kg,Beverages,56.0,18.0,1475,0,0,sunny,5
+2026-07-01,P001,Espresso Beans 1kg,Beverages,53.0,18.0,1422,0,0,rainy,5
+2026-07-02,P001,Espresso Beans 1kg,Beverages,62.0,18.0,1360,0,0,rainy,5
+2026-07-03,P001,Espresso Beans 1kg,Beverages,63.0,18.0,1297,0,0,rainy,5
+2026-07-04,P001,Espresso Beans 1kg,Beverages,70.0,18.0,1227,0,0,sunny,5
+2026-07-05,P001,Espresso Beans 1kg,Beverages,75.0,18.0,1152,0,0,cloudy,5
+2026-07-06,P001,Espresso Beans 1kg,Beverages,51.0,18.0,1101,0,0,sunny,5
+2026-07-07,P001,Espresso Beans 1kg,Beverages,55.0,18.0,1046,0,0,rainy,5
+2026-07-08,P001,Espresso Beans 1kg,Beverages,49.0,18.0,997,0,0,cloudy,5
+2026-07-09,P001,Espresso Beans 1kg,Beverages,54.0,18.0,943,0,0,rainy,5
+2026-07-10,P001,Espresso Beans 1kg,Beverages,66.0,18.0,877,0,0,rainy,5
+2026-07-11,P001,Espresso Beans 1kg,Beverages,79.0,18.0,798,0,0,rainy,5
+2026-07-12,P001,Espresso Beans 1kg,Beverages,64.0,18.0,734,0,0,cloudy,5
+2026-07-13,P001,Espresso Beans 1kg,Beverages,56.0,18.0,678,0,0,cloudy,5
+2026-07-14,P001,Espresso Beans 1kg,Beverages,72.0,18.0,606,0,0,cloudy,5
+2026-07-15,P001,Espresso Beans 1kg,Beverages,44.0,18.0,562,0,0,sunny,5
+2026-07-16,P001,Espresso Beans 1kg,Beverages,65.0,18.0,497,0,0,sunny,5
+2026-07-17,P001,Espresso Beans 1kg,Beverages,69.0,18.0,428,0,0,cloudy,5
+2026-07-18,P001,Espresso Beans 1kg,Beverages,61.0,18.0,367,0,0,rainy,5
+2026-07-19,P001,Espresso Beans 1kg,Beverages,64.0,18.0,303,0,0,cloudy,5
+2026-07-20,P001,Espresso Beans 1kg,Beverages,60.0,18.0,1443,0,0,rainy,5
+2026-07-21,P001,Espresso Beans 1kg,Beverages,64.0,18.0,1379,0,0,sunny,5
+2026-07-22,P001,Espresso Beans 1kg,Beverages,60.0,18.0,1319,0,0,cloudy,5
+2026-07-23,P001,Espresso Beans 1kg,Beverages,55.0,18.0,1264,0,0,cloudy,5
+2026-07-24,P001,Espresso Beans 1kg,Beverages,58.0,18.0,1206,0,0,cloudy,5
+2026-07-25,P001,Espresso Beans 1kg,Beverages,80.0,18.0,1126,0,0,sunny,5
+2026-07-26,P001,Espresso Beans 1kg,Beverages,83.0,18.0,1043,0,0,sunny,5
+2026-07-27,P001,Espresso Beans 1kg,Beverages,69.0,18.0,974,0,0,rainy,5
+2026-07-28,P001,Espresso Beans 1kg,Beverages,57.0,18.0,917,0,0,cloudy,5
+2026-07-29,P001,Espresso Beans 1kg,Beverages,69.0,18.0,848,0,0,sunny,5
+2026-07-30,P001,Espresso Beans 1kg,Beverages,73.0,18.0,775,0,0,sunny,5
+2026-07-31,P001,Espresso Beans 1kg,Beverages,72.0,18.0,703,0,0,sunny,5
+2026-08-01,P001,Espresso Beans 1kg,Beverages,67.0,18.0,636,0,0,rainy,5
+2026-08-02,P001,Espresso Beans 1kg,Beverages,61.0,18.0,575,0,0,sunny,5
+2026-08-03,P001,Espresso Beans 1kg,Beverages,69.0,18.0,506,0,0,rainy,5
+2026-08-04,P001,Espresso Beans 1kg,Beverages,66.0,18.0,440,0,0,sunny,5
+2026-08-05,P001,Espresso Beans 1kg,Beverages,54.0,18.0,386,0,0,cloudy,5
+2026-08-06,P001,Espresso Beans 1kg,Beverages,73.0,18.0,313,0,0,sunny,5
+2026-08-07,P001,Espresso Beans 1kg,Beverages,64.0,18.0,1449,0,0,rainy,5
+2026-08-08,P001,Espresso Beans 1kg,Beverages,65.0,18.0,1384,0,0,sunny,5
+2026-08-09,P001,Espresso Beans 1kg,Beverages,86.0,18.0,1298,0,0,cloudy,5
+2026-08-10,P001,Espresso Beans 1kg,Beverages,70.0,18.0,1228,0,0,sunny,5
+2026-08-11,P001,Espresso Beans 1kg,Beverages,71.0,18.0,1157,0,0,sunny,5
+2026-08-12,P001,Espresso Beans 1kg,Beverages,62.0,18.0,1095,0,0,sunny,5
+2026-08-13,P001,Espresso Beans 1kg,Beverages,58.0,18.0,1037,0,0,rainy,5
+2026-08-14,P001,Espresso Beans 1kg,Beverages,54.0,18.0,983,0,0,cloudy,5
+2026-08-15,P001,Espresso Beans 1kg,Beverages,100.0,18.0,883,0,1,cloudy,5
+2026-08-16,P001,Espresso Beans 1kg,Beverages,92.0,18.0,791,0,0,cloudy,5
+2026-08-17,P001,Espresso Beans 1kg,Beverages,70.0,18.0,721,0,0,rainy,5
+2026-08-18,P001,Espresso Beans 1kg,Beverages,64.0,18.0,657,0,0,cloudy,5
+2026-08-19,P001,Espresso Beans 1kg,Beverages,59.0,18.0,598,0,0,cloudy,5
+2026-08-20,P001,Espresso Beans 1kg,Beverages,71.0,18.0,527,0,0,sunny,5
+2026-08-21,P001,Espresso Beans 1kg,Beverages,74.0,18.0,453,0,0,sunny,5
+2026-08-22,P001,Espresso Beans 1kg,Beverages,86.0,18.0,367,0,0,sunny,5
+2026-08-23,P001,Espresso Beans 1kg,Beverages,91.0,18.0,1476,0,0,cloudy,5
+2026-08-24,P001,Espresso Beans 1kg,Beverages,50.0,18.0,1426,0,0,sunny,5
+2026-08-25,P001,Espresso Beans 1kg,Beverages,69.0,18.0,1357,0,0,sunny,5
+2026-08-26,P001,Espresso Beans 1kg,Beverages,67.0,18.0,1290,0,0,sunny,5
+2026-08-27,P001,Espresso Beans 1kg,Beverages,79.0,18.0,1211,0,0,sunny,5
+2026-08-28,P001,Espresso Beans 1kg,Beverages,67.0,18.0,1144,0,0,rainy,5
+2026-08-29,P001,Espresso Beans 1kg,Beverages,89.0,18.0,1055,0,0,cloudy,5
+2026-08-30,P001,Espresso Beans 1kg,Beverages,90.0,18.0,965,0,0,rainy,5
+2026-08-31,P001,Espresso Beans 1kg,Beverages,55.0,18.0,240,0,0,cloudy,5
+2025-09-01,P002,Green Tea Box,Beverages,28.0,9.0,392,0,0,rainy,4
+2025-09-02,P002,Green Tea Box,Beverages,34.0,9.0,358,0,0,cloudy,4
+2025-09-03,P002,Green Tea Box,Beverages,39.0,9.0,319,0,0,rainy,4
+2025-09-04,P002,Green Tea Box,Beverages,31.0,9.0,288,0,0,rainy,4
+2025-09-05,P002,Green Tea Box,Beverages,27.0,9.0,261,0,0,sunny,4
+2025-09-06,P002,Green Tea Box,Beverages,23.0,9.0,238,0,0,cloudy,4
+2025-09-07,P002,Green Tea Box,Beverages,38.0,9.0,200,0,0,cloudy,4
+2025-09-08,P002,Green Tea Box,Beverages,24.0,9.0,176,0,0,rainy,4
+2025-09-09,P002,Green Tea Box,Beverages,24.0,9.0,152,0,0,rainy,4
+2025-09-10,P002,Green Tea Box,Beverages,30.0,9.0,1697,0,0,cloudy,4
+2025-09-11,P002,Green Tea Box,Beverages,38.0,9.0,1659,0,0,rainy,4
+2025-09-12,P002,Green Tea Box,Beverages,32.0,9.0,1627,0,0,cloudy,4
+2025-09-13,P002,Green Tea Box,Beverages,35.0,9.0,1592,0,0,rainy,4
+2025-09-14,P002,Green Tea Box,Beverages,34.0,9.0,1558,0,0,cloudy,4
+2025-09-15,P002,Green Tea Box,Beverages,28.0,9.0,1530,0,0,cloudy,4
+2025-09-16,P002,Green Tea Box,Beverages,30.0,9.0,1500,0,0,cloudy,4
+2025-09-17,P002,Green Tea Box,Beverages,29.0,9.0,1471,0,0,rainy,4
+2025-09-18,P002,Green Tea Box,Beverages,36.0,7.65,1435,1,0,cloudy,4
+2025-09-19,P002,Green Tea Box,Beverages,29.0,9.0,1406,0,0,sunny,4
+2025-09-20,P002,Green Tea Box,Beverages,27.0,9.0,1379,0,0,sunny,4
+2025-09-21,P002,Green Tea Box,Beverages,30.0,9.0,1349,0,0,cloudy,4
+2025-09-22,P002,Green Tea Box,Beverages,31.0,9.0,1318,0,0,rainy,4
+2025-09-23,P002,Green Tea Box,Beverages,44.0,9.0,1274,0,0,cloudy,4
+2025-09-24,P002,Green Tea Box,Beverages,35.0,9.0,1239,0,0,cloudy,4
+2025-09-25,P002,Green Tea Box,Beverages,27.0,9.0,1212,0,0,rainy,4
+2025-09-26,P002,Green Tea Box,Beverages,46.0,7.65,1166,1,0,cloudy,4
+2025-09-27,P002,Green Tea Box,Beverages,35.0,9.0,1131,0,0,rainy,4
+2025-09-28,P002,Green Tea Box,Beverages,33.0,9.0,1098,0,0,cloudy,4
+2025-09-29,P002,Green Tea Box,Beverages,23.0,9.0,1075,0,0,rainy,4
+2025-09-30,P002,Green Tea Box,Beverages,33.0,9.0,1042,0,0,rainy,4
+2025-10-01,P002,Green Tea Box,Beverages,39.0,9.0,1003,0,0,cloudy,4
+2025-10-02,P002,Green Tea Box,Beverages,46.0,9.0,957,0,1,sunny,4
+2025-10-03,P002,Green Tea Box,Beverages,40.0,9.0,917,0,0,cloudy,4
+2025-10-04,P002,Green Tea Box,Beverages,47.0,9.0,870,0,0,sunny,4
+2025-10-05,P002,Green Tea Box,Beverages,43.0,9.0,827,0,0,cloudy,4
+2025-10-06,P002,Green Tea Box,Beverages,27.0,9.0,800,0,0,sunny,4
+2025-10-07,P002,Green Tea Box,Beverages,32.0,9.0,768,0,0,cloudy,4
+2025-10-08,P002,Green Tea Box,Beverages,27.0,9.0,741,0,0,cloudy,4
+2025-10-09,P002,Green Tea Box,Beverages,32.0,9.0,709,0,0,sunny,4
+2025-10-10,P002,Green Tea Box,Beverages,42.0,9.0,667,0,0,sunny,4
+2025-10-11,P002,Green Tea Box,Beverages,29.0,9.0,638,0,0,cloudy,4
+2025-10-12,P002,Green Tea Box,Beverages,47.0,9.0,591,0,0,sunny,4
+2025-10-13,P002,Green Tea Box,Beverages,32.0,9.0,559,0,0,rainy,4
+2025-10-14,P002,Green Tea Box,Beverages,47.0,9.0,512,0,0,rainy,4
+2025-10-15,P002,Green Tea Box,Beverages,37.0,9.0,475,0,0,rainy,4
+2025-10-16,P002,Green Tea Box,Beverages,39.0,9.0,436,0,0,sunny,4
+2025-10-17,P002,Green Tea Box,Beverages,27.0,9.0,409,0,0,rainy,4
+2025-10-18,P002,Green Tea Box,Beverages,33.0,9.0,376,0,0,cloudy,4
+2025-10-19,P002,Green Tea Box,Beverages,36.0,9.0,340,0,0,cloudy,4
+2025-10-20,P002,Green Tea Box,Beverages,41.0,9.0,299,0,0,sunny,4
+2025-10-21,P002,Green Tea Box,Beverages,40.0,9.0,259,0,0,cloudy,4
+2025-10-22,P002,Green Tea Box,Beverages,35.0,9.0,224,0,0,rainy,4
+2025-10-23,P002,Green Tea Box,Beverages,51.0,9.0,173,0,0,sunny,4
+2025-10-24,P002,Green Tea Box,Beverages,47.0,9.0,1701,0,0,sunny,4
+2025-10-25,P002,Green Tea Box,Beverages,38.0,9.0,1663,0,0,cloudy,4
+2025-10-26,P002,Green Tea Box,Beverages,37.0,9.0,1626,0,0,cloudy,4
+2025-10-27,P002,Green Tea Box,Beverages,31.0,9.0,1595,0,0,cloudy,4
+2025-10-28,P002,Green Tea Box,Beverages,36.0,9.0,1559,0,0,cloudy,4
+2025-10-29,P002,Green Tea Box,Beverages,39.0,9.0,1520,0,0,sunny,4
+2025-10-30,P002,Green Tea Box,Beverages,48.0,7.65,1472,1,0,sunny,4
+2025-10-31,P002,Green Tea Box,Beverages,31.0,9.0,1441,0,0,sunny,4
+2025-11-01,P002,Green Tea Box,Beverages,47.0,9.0,1394,0,1,sunny,4
+2025-11-02,P002,Green Tea Box,Beverages,61.0,7.65,1333,1,0,rainy,4
+2025-11-03,P002,Green Tea Box,Beverages,45.0,9.0,1288,0,0,rainy,4
+2025-11-04,P002,Green Tea Box,Beverages,46.0,9.0,1242,0,0,cloudy,4
+2025-11-05,P002,Green Tea Box,Beverages,172.0,9.0,1070,0,0,sunny,4
+2025-11-06,P002,Green Tea Box,Beverages,36.0,9.0,1034,0,0,cloudy,4
+2025-11-07,P002,Green Tea Box,Beverages,42.0,9.0,992,0,0,rainy,4
+2025-11-08,P002,Green Tea Box,Beverages,53.0,9.0,939,0,0,sunny,4
+2025-11-09,P002,Green Tea Box,Beverages,43.0,9.0,896,0,0,cloudy,4
+2025-11-10,P002,Green Tea Box,Beverages,36.0,9.0,860,0,0,cloudy,4
+2025-11-11,P002,Green Tea Box,Beverages,33.0,9.0,827,0,0,sunny,4
+2025-11-12,P002,Green Tea Box,Beverages,27.0,9.0,800,0,0,cloudy,4
+2025-11-13,P002,Green Tea Box,Beverages,38.0,9.0,762,0,0,cloudy,4
+2025-11-14,P002,Green Tea Box,Beverages,37.0,9.0,725,0,0,cloudy,4
+2025-11-15,P002,Green Tea Box,Beverages,42.0,9.0,683,0,0,rainy,4
+2025-11-16,P002,Green Tea Box,Beverages,42.0,9.0,641,0,0,cloudy,4
+2025-11-17,P002,Green Tea Box,Beverages,45.0,9.0,596,0,0,sunny,4
+2025-11-18,P002,Green Tea Box,Beverages,36.0,9.0,560,0,0,sunny,4
+2025-11-19,P002,Green Tea Box,Beverages,46.0,9.0,514,0,0,cloudy,4
+2025-11-20,P002,Green Tea Box,Beverages,40.0,9.0,474,0,0,rainy,4
+2025-11-21,P002,Green Tea Box,Beverages,44.0,9.0,430,0,0,sunny,4
+2025-11-22,P002,Green Tea Box,Beverages,46.0,9.0,384,0,0,sunny,4
+2025-11-23,P002,Green Tea Box,Beverages,43.0,9.0,341,0,0,rainy,4
+2025-11-24,P002,Green Tea Box,Beverages,37.0,9.0,304,0,0,cloudy,4
+2025-11-25,P002,Green Tea Box,Beverages,32.0,9.0,272,0,0,sunny,4
+2025-11-26,P002,Green Tea Box,Beverages,48.0,9.0,224,0,0,sunny,4
+2025-11-27,P002,Green Tea Box,Beverages,40.0,9.0,184,0,0,cloudy,4
+2025-11-28,P002,Green Tea Box,Beverages,46.0,9.0,1713,0,0,cloudy,4
+2025-11-29,P002,Green Tea Box,Beverages,43.0,9.0,1670,0,0,cloudy,4
+2025-11-30,P002,Green Tea Box,Beverages,38.0,9.0,1632,0,0,sunny,4
+2025-12-01,P002,Green Tea Box,Beverages,35.0,9.0,1597,0,0,cloudy,4
+2025-12-02,P002,Green Tea Box,Beverages,32.0,9.0,1565,0,0,rainy,4
+2025-12-03,P002,Green Tea Box,Beverages,48.0,7.65,1517,1,0,sunny,4
+2025-12-04,P002,Green Tea Box,Beverages,55.0,7.65,1462,1,0,cloudy,4
+2025-12-05,P002,Green Tea Box,Beverages,46.0,9.0,1416,0,0,sunny,4
+2025-12-06,P002,Green Tea Box,Beverages,42.0,9.0,1374,0,0,cloudy,4
+2025-12-07,P002,Green Tea Box,Beverages,49.0,9.0,1325,0,0,sunny,4
+2025-12-08,P002,Green Tea Box,Beverages,32.0,9.0,1293,0,0,sunny,4
+2025-12-09,P002,Green Tea Box,Beverages,50.0,9.0,1243,0,0,rainy,4
+2025-12-10,P002,Green Tea Box,Beverages,36.0,9.0,1207,0,0,sunny,4
+2025-12-11,P002,Green Tea Box,Beverages,37.0,9.0,1170,0,0,rainy,4
+2025-12-12,P002,Green Tea Box,Beverages,40.0,9.0,1130,0,0,cloudy,4
+2025-12-13,P002,Green Tea Box,Beverages,45.0,9.0,1085,0,0,cloudy,4
+2025-12-14,P002,Green Tea Box,Beverages,184.0,9.0,901,0,0,cloudy,4
+2025-12-15,P002,Green Tea Box,Beverages,48.0,9.0,853,0,0,cloudy,4
+2025-12-16,P002,Green Tea Box,Beverages,46.0,9.0,807,0,0,cloudy,4
+2025-12-17,P002,Green Tea Box,Beverages,62.0,7.65,745,1,0,rainy,4
+2025-12-18,P002,Green Tea Box,Beverages,34.0,9.0,711,0,0,rainy,4
+2025-12-19,P002,Green Tea Box,Beverages,45.0,9.0,666,0,0,sunny,4
+2025-12-20,P002,Green Tea Box,Beverages,49.0,9.0,617,0,0,rainy,4
+2025-12-21,P002,Green Tea Box,Beverages,45.0,9.0,572,0,0,sunny,4
+2025-12-22,P002,Green Tea Box,Beverages,52.0,9.0,520,0,0,rainy,4
+2025-12-23,P002,Green Tea Box,Beverages,37.0,9.0,483,0,0,sunny,4
+2025-12-24,P002,Green Tea Box,Beverages,54.0,9.0,429,0,0,sunny,4
+2025-12-25,P002,Green Tea Box,Beverages,236.0,9.0,193,0,1,rainy,4
+2025-12-26,P002,Green Tea Box,Beverages,38.0,9.0,155,0,0,rainy,4
+2025-12-27,P002,Green Tea Box,Beverages,45.0,9.0,1685,0,0,sunny,4
+2025-12-28,P002,Green Tea Box,Beverages,36.0,9.0,1649,0,0,cloudy,4
+2025-12-29,P002,Green Tea Box,Beverages,31.0,9.0,1618,0,0,cloudy,4
+2025-12-30,P002,Green Tea Box,Beverages,38.0,9.0,1580,0,0,cloudy,4
+2025-12-31,P002,Green Tea Box,Beverages,45.0,9.0,1535,0,0,cloudy,4
+2026-01-01,P002,Green Tea Box,Beverages,56.0,9.0,1479,0,1,rainy,4
+2026-01-02,P002,Green Tea Box,Beverages,39.0,9.0,1440,0,0,rainy,4
+2026-01-03,P002,Green Tea Box,Beverages,,7.65,1393,1,0,cloudy,4
+2026-01-04,P002,Green Tea Box,Beverages,46.0,9.0,1347,0,0,rainy,4
+2026-01-05,P002,Green Tea Box,Beverages,38.0,9.0,1309,0,0,rainy,4
+2026-01-06,P002,Green Tea Box,Beverages,41.0,9.0,1268,0,0,sunny,4
+2026-01-07,P002,Green Tea Box,Beverages,42.0,9.0,1226,0,0,rainy,4
+2026-01-08,P002,Green Tea Box,Beverages,35.0,9.0,1191,0,0,rainy,4
+2026-01-09,P002,Green Tea Box,Beverages,45.0,9.0,1146,0,0,sunny,4
+2026-01-10,P002,Green Tea Box,Beverages,37.0,9.0,1109,0,0,rainy,4
+2026-01-11,P002,Green Tea Box,Beverages,53.0,9.0,1056,0,0,rainy,4
+2026-01-12,P002,Green Tea Box,Beverages,24.0,9.0,1032,0,0,cloudy,4
+2026-01-13,P002,Green Tea Box,Beverages,42.0,9.0,990,0,0,cloudy,4
+2026-01-14,P002,Green Tea Box,Beverages,42.0,9.0,948,0,0,cloudy,4
+2026-01-15,P002,Green Tea Box,Beverages,52.0,9.0,896,0,0,rainy,4
+2026-01-16,P002,Green Tea Box,Beverages,44.0,9.0,852,0,0,rainy,4
+2026-01-17,P002,Green Tea Box,Beverages,49.0,9.0,803,0,0,rainy,4
+2026-01-18,P002,Green Tea Box,Beverages,38.0,9.0,765,0,0,cloudy,4
+2026-01-19,P002,Green Tea Box,Beverages,45.0,9.0,720,0,0,sunny,4
+2026-01-20,P002,Green Tea Box,Beverages,53.0,7.65,667,1,0,rainy,4
+2026-01-21,P002,Green Tea Box,Beverages,47.0,9.0,620,0,0,sunny,4
+2026-01-22,P002,Green Tea Box,Beverages,43.0,9.0,577,0,0,sunny,4
+2026-01-23,P002,Green Tea Box,Beverages,35.0,9.0,542,0,0,sunny,4
+2026-01-24,P002,Green Tea Box,Beverages,42.0,9.0,500,0,0,rainy,4
+2026-01-25,P002,Green Tea Box,Beverages,38.0,9.0,462,0,0,cloudy,4
+2026-01-26,P002,Green Tea Box,Beverages,55.0,9.0,407,0,1,sunny,4
+2026-01-27,P002,Green Tea Box,Beverages,37.0,9.0,370,0,0,sunny,4
+2026-01-28,P002,Green Tea Box,Beverages,38.0,9.0,332,0,0,cloudy,4
+2026-01-29,P002,Green Tea Box,Beverages,36.0,9.0,296,0,0,rainy,4
+2026-01-30,P002,Green Tea Box,Beverages,52.0,9.0,244,0,0,rainy,4
+2026-01-31,P002,Green Tea Box,Beverages,42.0,9.0,202,0,0,cloudy,4
+2026-02-01,P002,Green Tea Box,Beverages,42.0,9.0,160,0,0,cloudy,4
+2026-02-02,P002,Green Tea Box,Beverages,39.0,9.0,1696,0,0,rainy,4
+2026-02-03,P002,Green Tea Box,Beverages,30.0,9.0,1666,0,0,rainy,4
+2026-02-04,P002,Green Tea Box,Beverages,30.0,9.0,1636,0,0,sunny,4
+2026-02-05,P002,Green Tea Box,Beverages,40.0,9.0,1596,0,0,rainy,4
+2026-02-06,P002,Green Tea Box,Beverages,38.0,9.0,1558,0,0,cloudy,4
+2026-02-07,P002,Green Tea Box,Beverages,37.0,9.0,1521,0,0,rainy,4
+2026-02-08,P002,Green Tea Box,Beverages,36.0,9.0,1485,0,0,sunny,4
+2026-02-09,P002,Green Tea Box,Beverages,50.0,7.65,1435,1,0,sunny,4
+2026-02-10,P002,Green Tea Box,Beverages,28.0,9.0,1407,0,0,rainy,4
+2026-02-11,P002,Green Tea Box,Beverages,48.0,7.65,1359,1,0,rainy,4
+2026-02-12,P002,Green Tea Box,Beverages,45.0,7.65,1314,1,0,sunny,4
+2026-02-13,P002,Green Tea Box,Beverages,50.0,9.0,1264,0,0,rainy,4
+2026-02-14,P002,Green Tea Box,Beverages,33.0,9.0,1231,0,0,sunny,4
+2026-02-15,P002,Green Tea Box,Beverages,35.0,9.0,1196,0,0,rainy,4
+2026-02-16,P002,Green Tea Box,Beverages,36.0,9.0,1160,0,0,sunny,4
+2026-02-17,P002,Green Tea Box,Beverages,49.0,9.0,1111,0,0,sunny,4
+2026-02-18,P002,Green Tea Box,Beverages,38.0,9.0,1073,0,0,rainy,4
+2026-02-19,P002,Green Tea Box,Beverages,30.0,9.0,1043,0,0,rainy,4
+2026-02-20,P002,Green Tea Box,Beverages,40.0,9.0,1003,0,0,sunny,4
+2026-02-21,P002,Green Tea Box,Beverages,33.0,9.0,970,0,0,sunny,4
+2026-02-22,P002,Green Tea Box,Beverages,48.0,9.0,922,0,0,cloudy,4
+2026-02-23,P002,Green Tea Box,Beverages,40.0,9.0,882,0,0,sunny,4
+2026-02-24,P002,Green Tea Box,Beverages,38.0,9.0,844,0,0,rainy,4
+2026-02-25,P002,Green Tea Box,Beverages,51.0,7.65,793,1,0,rainy,4
+2026-02-26,P002,Green Tea Box,Beverages,40.0,9.0,753,0,0,rainy,4
+2026-02-27,P002,Green Tea Box,Beverages,30.0,9.0,723,0,0,sunny,4
+2026-02-28,P002,Green Tea Box,Beverages,48.0,9.0,675,0,0,sunny,4
+2026-03-01,P002,Green Tea Box,Beverages,39.0,9.0,636,0,0,rainy,4
+2026-03-02,P002,Green Tea Box,Beverages,26.0,9.0,610,0,0,sunny,4
+2026-03-03,P002,Green Tea Box,Beverages,30.0,9.0,580,0,0,cloudy,4
+2026-03-04,P002,Green Tea Box,Beverages,28.0,9.0,552,0,0,cloudy,4
+2026-03-05,P002,Green Tea Box,Beverages,34.0,9.0,518,0,0,rainy,4
+2026-03-06,P002,Green Tea Box,Beverages,56.0,7.65,462,1,0,sunny,4
+2026-03-07,P002,Green Tea Box,Beverages,58.0,7.65,404,1,0,rainy,4
+2026-03-08,P002,Green Tea Box,Beverages,48.0,9.0,356,0,0,rainy,4
+2026-03-09,P002,Green Tea Box,Beverages,31.0,9.0,325,0,0,sunny,4
+2026-03-10,P002,Green Tea Box,Beverages,44.0,9.0,281,0,0,cloudy,4
+2026-03-11,P002,Green Tea Box,Beverages,52.0,9.0,229,0,0,sunny,4
+2026-03-12,P002,Green Tea Box,Beverages,35.0,9.0,194,0,0,cloudy,4
+2026-03-13,P002,Green Tea Box,Beverages,34.0,9.0,160,0,0,sunny,4
+2026-03-14,P002,Green Tea Box,Beverages,33.0,9.0,1702,0,0,sunny,4
+2026-03-15,P002,Green Tea Box,Beverages,30.0,9.0,1672,0,0,cloudy,4
+2026-03-16,P002,Green Tea Box,Beverages,36.0,9.0,1636,0,0,cloudy,4
+2026-03-17,P002,Green Tea Box,Beverages,44.0,9.0,1592,0,0,sunny,4
+2026-03-18,P002,Green Tea Box,Beverages,39.0,9.0,1553,0,0,sunny,4
+2026-03-19,P002,Green Tea Box,Beverages,36.0,9.0,1517,0,0,sunny,4
+2026-03-20,P002,Green Tea Box,Beverages,40.0,9.0,1477,0,0,rainy,4
+2026-03-21,P002,Green Tea Box,Beverages,31.0,9.0,1446,0,0,cloudy,4
+2026-03-22,P002,Green Tea Box,Beverages,37.0,9.0,1409,0,0,sunny,4
+2026-03-23,P002,Green Tea Box,Beverages,27.0,9.0,1382,0,0,sunny,4
+2026-03-24,P002,Green Tea Box,Beverages,33.0,9.0,1349,0,0,rainy,4
+2026-03-25,P002,Green Tea Box,Beverages,45.0,7.65,1304,1,0,sunny,4
+2026-03-26,P002,Green Tea Box,Beverages,37.0,9.0,1267,0,0,rainy,4
+2026-03-27,P002,Green Tea Box,Beverages,43.0,7.65,1224,1,0,cloudy,4
+2026-03-28,P002,Green Tea Box,Beverages,34.0,9.0,1190,0,0,sunny,4
+2026-03-29,P002,Green Tea Box,Beverages,25.0,9.0,1165,0,0,sunny,4
+2026-03-30,P002,Green Tea Box,Beverages,32.0,9.0,1133,0,0,sunny,4
+2026-03-31,P002,Green Tea Box,Beverages,46.0,7.65,1087,1,0,rainy,4
+2026-04-01,P002,Green Tea Box,Beverages,35.0,9.0,1052,0,0,cloudy,4
+2026-04-02,P002,Green Tea Box,Beverages,22.0,9.0,1030,0,0,cloudy,4
+2026-04-03,P002,Green Tea Box,Beverages,34.0,9.0,996,0,0,sunny,4
+2026-04-04,P002,Green Tea Box,Beverages,54.0,7.65,942,1,0,rainy,4
+2026-04-05,P002,Green Tea Box,Beverages,48.0,7.65,894,1,0,sunny,4
+2026-04-06,P002,Green Tea Box,Beverages,21.0,9.0,873,0,0,cloudy,4
+2026-04-07,P002,Green Tea Box,Beverages,25.0,9.0,848,0,0,rainy,4
+2026-04-08,P002,Green Tea Box,Beverages,33.0,9.0,815,0,0,rainy,4
+2026-04-09,P002,Green Tea Box,Beverages,30.0,9.0,785,0,0,cloudy,4
+2026-04-10,P002,Green Tea Box,Beverages,22.0,9.0,763,0,0,rainy,4
+2026-04-11,P002,Green Tea Box,Beverages,39.0,9.0,724,0,0,sunny,4
+2026-04-12,P002,Green Tea Box,Beverages,29.0,9.0,695,0,0,rainy,4
+2026-04-13,P002,Green Tea Box,Beverages,18.0,9.0,677,0,0,cloudy,4
+2026-04-14,P002,Green Tea Box,Beverages,31.0,9.0,646,0,0,cloudy,4
+2026-04-15,P002,Green Tea Box,Beverages,30.0,9.0,616,0,0,sunny,4
+2026-04-16,P002,Green Tea Box,Beverages,48.0,7.65,568,1,0,rainy,4
+2026-04-17,P002,Green Tea Box,Beverages,27.0,9.0,541,0,0,rainy,4
+2026-04-18,P002,Green Tea Box,Beverages,32.0,9.0,509,0,0,rainy,4
+2026-04-19,P002,Green Tea Box,Beverages,26.0,9.0,483,0,0,sunny,4
+2026-04-20,P002,Green Tea Box,Beverages,19.0,9.0,464,0,0,cloudy,4
+2026-04-21,P002,Green Tea Box,Beverages,32.0,9.0,432,0,0,rainy,4
+2026-04-22,P002,Green Tea Box,Beverages,27.0,9.0,405,0,0,cloudy,4
+2026-04-23,P002,Green Tea Box,Beverages,20.0,9.0,385,0,0,rainy,4
+2026-04-24,P002,Green Tea Box,Beverages,23.0,9.0,362,0,0,rainy,4
+2026-04-25,P002,Green Tea Box,Beverages,28.0,9.0,334,0,0,sunny,4
+2026-04-26,P002,Green Tea Box,Beverages,36.0,9.0,298,0,0,cloudy,4
+2026-04-27,P002,Green Tea Box,Beverages,25.0,9.0,273,0,0,sunny,4
+2026-04-28,P002,Green Tea Box,Beverages,20.0,9.0,253,0,0,cloudy,4
+2026-04-29,P002,Green Tea Box,Beverages,25.0,9.0,228,0,0,cloudy,4
+2026-04-30,P002,Green Tea Box,Beverages,33.0,9.0,195,0,0,rainy,4
+2026-05-01,P002,Green Tea Box,Beverages,27.0,9.0,168,0,0,rainy,4
+2026-05-02,P002,Green Tea Box,Beverages,24.0,9.0,144,0,0,cloudy,4
+2026-05-03,P002,Green Tea Box,Beverages,20.0,9.0,1699,0,0,cloudy,4
+2026-05-04,P002,Green Tea Box,Beverages,29.0,9.0,1670,0,0,cloudy,4
+2026-05-05,P002,Green Tea Box,Beverages,22.0,9.0,1648,0,0,cloudy,4
+2026-05-06,P002,Green Tea Box,Beverages,24.0,9.0,1624,0,0,cloudy,4
+2026-05-07,P002,Green Tea Box,Beverages,32.0,9.0,1592,0,0,rainy,4
+2026-05-08,P002,Green Tea Box,Beverages,48.0,7.65,1544,1,0,rainy,4
+2026-05-09,P002,Green Tea Box,Beverages,22.0,7.65,1522,1,0,rainy,4
+2026-05-10,P002,Green Tea Box,Beverages,24.0,9.0,1498,0,0,sunny,4
+2026-05-11,P002,Green Tea Box,Beverages,28.0,9.0,1470,0,0,cloudy,4
+2026-05-12,P002,Green Tea Box,Beverages,35.0,7.65,1435,1,0,cloudy,4
+2026-05-13,P002,Green Tea Box,Beverages,25.0,9.0,1410,0,0,cloudy,4
+2026-05-14,P002,Green Tea Box,Beverages,42.0,7.65,1368,1,0,cloudy,4
+2026-05-15,P002,Green Tea Box,Beverages,19.0,9.0,1349,0,0,rainy,4
+2026-05-16,P002,Green Tea Box,Beverages,28.0,9.0,1321,0,0,cloudy,4
+2026-05-17,P002,Green Tea Box,Beverages,27.0,9.0,1294,0,0,sunny,4
+2026-05-18,P002,Green Tea Box,Beverages,33.0,7.65,1261,1,0,cloudy,4
+2026-05-19,P002,Green Tea Box,Beverages,19.0,9.0,1242,0,0,rainy,4
+2026-05-20,P002,Green Tea Box,Beverages,20.0,9.0,1222,0,0,sunny,4
+2026-05-21,P002,Green Tea Box,Beverages,22.0,9.0,1200,0,0,sunny,4
+2026-05-22,P002,Green Tea Box,Beverages,17.0,9.0,1183,0,0,rainy,4
+2026-05-23,P002,Green Tea Box,Beverages,18.0,9.0,1165,0,0,sunny,4
+2026-05-24,P002,Green Tea Box,Beverages,34.0,9.0,1131,0,0,cloudy,4
+2026-05-25,P002,Green Tea Box,Beverages,29.0,9.0,1102,0,0,rainy,4
+2026-05-26,P002,Green Tea Box,Beverages,25.0,9.0,1077,0,0,sunny,4
+2026-05-27,P002,Green Tea Box,Beverages,20.0,9.0,1057,0,0,cloudy,4
+2026-05-28,P002,Green Tea Box,Beverages,23.0,9.0,1034,0,0,sunny,4
+2026-05-29,P002,Green Tea Box,Beverages,16.0,9.0,1018,0,0,sunny,4
+2026-05-30,P002,Green Tea Box,Beverages,25.0,9.0,993,0,0,sunny,4
+2026-05-31,P002,Green Tea Box,Beverages,17.0,9.0,976,0,0,sunny,4
+2026-06-01,P002,Green Tea Box,Beverages,18.0,9.0,958,0,0,cloudy,4
+2026-06-02,P002,Green Tea Box,Beverages,33.0,9.0,925,0,0,cloudy,4
+2026-06-03,P002,Green Tea Box,Beverages,24.0,9.0,901,0,0,sunny,4
+2026-06-04,P002,Green Tea Box,Beverages,23.0,9.0,878,0,0,rainy,4
+2026-06-05,P002,Green Tea Box,Beverages,16.0,9.0,862,0,0,rainy,4
+2026-06-06,P002,Green Tea Box,Beverages,25.0,9.0,837,0,0,sunny,4
+2026-06-07,P002,Green Tea Box,Beverages,20.0,9.0,817,0,0,rainy,4
+2026-06-08,P002,Green Tea Box,Beverages,20.0,9.0,797,0,0,sunny,4
+2026-06-09,P002,Green Tea Box,Beverages,17.0,9.0,780,0,0,cloudy,4
+2026-06-10,P002,Green Tea Box,Beverages,15.0,9.0,765,0,0,cloudy,4
+2026-06-11,P002,Green Tea Box,Beverages,12.0,9.0,753,0,0,cloudy,4
+2026-06-12,P002,Green Tea Box,Beverages,33.0,7.65,720,1,0,rainy,4
+2026-06-13,P002,Green Tea Box,Beverages,19.0,9.0,701,0,0,rainy,4
+2026-06-14,P002,Green Tea Box,Beverages,24.0,9.0,677,0,0,sunny,4
+2026-06-15,P002,Green Tea Box,Beverages,18.0,9.0,659,0,0,cloudy,4
+2026-06-16,P002,Green Tea Box,Beverages,12.0,9.0,647,0,0,rainy,4
+2026-06-17,P002,Green Tea Box,Beverages,18.0,9.0,629,0,0,rainy,4
+2026-06-18,P002,Green Tea Box,Beverages,11.0,9.0,618,0,0,rainy,4
+2026-06-19,P002,Green Tea Box,Beverages,12.0,9.0,606,0,0,cloudy,4
+2026-06-20,P002,Green Tea Box,Beverages,32.0,7.65,574,1,0,sunny,4
+2026-06-21,P002,Green Tea Box,Beverages,22.0,9.0,552,0,0,cloudy,4
+2026-06-22,P002,Green Tea Box,Beverages,22.0,9.0,530,0,0,rainy,4
+2026-06-23,P002,Green Tea Box,Beverages,17.0,9.0,513,0,0,rainy,4
+2026-06-24,P002,Green Tea Box,Beverages,23.0,9.0,490,0,0,rainy,4
+2026-06-25,P002,Green Tea Box,Beverages,21.0,9.0,469,0,0,rainy,4
+2026-06-26,P002,Green Tea Box,Beverages,23.0,9.0,446,0,0,cloudy,4
+2026-06-27,P002,Green Tea Box,Beverages,16.0,9.0,430,0,0,sunny,4
+2026-06-28,P002,Green Tea Box,Beverages,20.0,9.0,410,0,0,cloudy,4
+2026-06-29,P002,Green Tea Box,Beverages,12.0,9.0,398,0,0,cloudy,4
+2026-06-30,P002,Green Tea Box,Beverages,12.0,9.0,386,0,0,rainy,4
+2026-07-01,P002,Green Tea Box,Beverages,16.0,9.0,370,0,0,cloudy,4
+2026-07-02,P002,Green Tea Box,Beverages,16.0,9.0,354,0,0,rainy,4
+2026-07-03,P002,Green Tea Box,Beverages,19.0,9.0,335,0,0,sunny,4
+2026-07-04,P002,Green Tea Box,Beverages,17.0,9.0,318,0,0,rainy,4
+2026-07-05,P002,Green Tea Box,Beverages,21.0,9.0,297,0,0,cloudy,4
+2026-07-06,P002,Green Tea Box,Beverages,19.0,9.0,278,0,0,rainy,4
+2026-07-07,P002,Green Tea Box,Beverages,18.0,9.0,260,0,0,cloudy,4
+2026-07-08,P002,Green Tea Box,Beverages,22.0,9.0,238,0,0,cloudy,4
+2026-07-09,P002,Green Tea Box,Beverages,16.0,9.0,222,0,0,sunny,4
+2026-07-10,P002,Green Tea Box,Beverages,13.0,7.65,209,1,0,rainy,4
+2026-07-11,P002,Green Tea Box,Beverages,23.0,9.0,186,0,0,rainy,4
+2026-07-12,P002,Green Tea Box,Beverages,20.0,9.0,166,0,0,rainy,4
+2026-07-13,P002,Green Tea Box,Beverages,14.0,9.0,152,0,0,sunny,4
+2026-07-14,P002,Green Tea Box,Beverages,19.0,9.0,1708,0,0,sunny,4
+2026-07-15,P002,Green Tea Box,Beverages,21.0,9.0,1687,0,0,rainy,4
+2026-07-16,P002,Green Tea Box,Beverages,23.0,9.0,1664,0,0,sunny,4
+2026-07-17,P002,Green Tea Box,Beverages,18.0,9.0,1646,0,0,cloudy,4
+2026-07-18,P002,Green Tea Box,Beverages,13.0,9.0,1633,0,0,cloudy,4
+2026-07-19,P002,Green Tea Box,Beverages,13.0,9.0,1620,0,0,rainy,4
+2026-07-20,P002,Green Tea Box,Beverages,20.0,9.0,1600,0,0,rainy,4
+2026-07-21,P002,Green Tea Box,Beverages,17.0,9.0,1583,0,0,rainy,4
+2026-07-22,P002,Green Tea Box,Beverages,17.0,9.0,1566,0,0,sunny,4
+2026-07-23,P002,Green Tea Box,Beverages,21.0,9.0,1545,0,0,cloudy,4
+2026-07-24,P002,Green Tea Box,Beverages,18.0,9.0,1527,0,0,rainy,4
+2026-07-25,P002,Green Tea Box,Beverages,20.0,9.0,1507,0,0,rainy,4
+2026-07-26,P002,Green Tea Box,Beverages,17.0,9.0,1490,0,0,sunny,4
+2026-07-27,P002,Green Tea Box,Beverages,8.0,9.0,1482,0,0,rainy,4
+2026-07-28,P002,Green Tea Box,Beverages,26.0,9.0,1456,0,0,cloudy,4
+2026-07-29,P002,Green Tea Box,Beverages,20.0,9.0,1436,0,0,sunny,4
+2026-07-30,P002,Green Tea Box,Beverages,10.0,9.0,1426,0,0,cloudy,4
+2026-07-31,P002,Green Tea Box,Beverages,12.0,9.0,1414,0,0,rainy,4
+2026-08-01,P002,Green Tea Box,Beverages,17.0,9.0,1397,0,0,sunny,4
+2026-08-02,P002,Green Tea Box,Beverages,19.0,9.0,1378,0,0,sunny,4
+2026-08-03,P002,Green Tea Box,Beverages,22.0,9.0,1356,0,0,rainy,4
+2026-08-04,P002,Green Tea Box,Beverages,23.0,9.0,1333,0,0,rainy,4
+2026-08-05,P002,Green Tea Box,Beverages,23.0,9.0,1310,0,0,sunny,4
+2026-08-06,P002,Green Tea Box,Beverages,15.0,9.0,1295,0,0,rainy,4
+2026-08-07,P002,Green Tea Box,Beverages,15.0,9.0,1280,0,0,rainy,4
+2026-08-08,P002,Green Tea Box,Beverages,25.0,7.65,1255,1,0,rainy,4
+2026-08-09,P002,Green Tea Box,Beverages,27.0,9.0,1228,0,0,sunny,4
+2026-08-10,P002,Green Tea Box,Beverages,19.0,9.0,1209,0,0,cloudy,4
+2026-08-11,P002,Green Tea Box,Beverages,23.0,9.0,1186,0,0,rainy,4
+2026-08-12,P002,Green Tea Box,Beverages,12.0,9.0,1174,0,0,rainy,4
+2026-08-13,P002,Green Tea Box,Beverages,21.0,9.0,1153,0,0,cloudy,4
+2026-08-14,P002,Green Tea Box,Beverages,20.0,9.0,1133,0,0,sunny,4
+2026-08-15,P002,Green Tea Box,Beverages,26.0,9.0,1107,0,1,sunny,4
+2026-08-16,P002,Green Tea Box,Beverages,14.0,9.0,1093,0,0,sunny,4
+2026-08-17,P002,Green Tea Box,Beverages,17.0,9.0,1076,0,0,sunny,4
+2026-08-18,P002,Green Tea Box,Beverages,17.0,9.0,1059,0,0,sunny,4
+2026-08-19,P002,Green Tea Box,Beverages,19.0,9.0,1040,0,0,sunny,4
+2026-08-20,P002,Green Tea Box,Beverages,21.0,9.0,1019,0,0,rainy,4
+2026-08-21,P002,Green Tea Box,Beverages,17.0,9.0,1002,0,0,cloudy,4
+2026-08-22,P002,Green Tea Box,Beverages,22.0,9.0,980,0,0,cloudy,4
+2026-08-23,P002,Green Tea Box,Beverages,19.0,9.0,961,0,0,rainy,4
+2026-08-24,P002,Green Tea Box,Beverages,21.0,9.0,940,0,0,cloudy,4
+2026-08-25,P002,Green Tea Box,Beverages,25.0,7.65,915,1,0,cloudy,4
+2026-08-26,P002,Green Tea Box,Beverages,14.0,9.0,901,0,0,sunny,4
+2026-08-27,P002,Green Tea Box,Beverages,18.0,9.0,883,0,0,cloudy,4
+2026-08-28,P002,Green Tea Box,Beverages,27.0,9.0,856,0,0,sunny,4
+2026-08-29,P002,Green Tea Box,Beverages,32.0,9.0,824,0,0,cloudy,4
+2026-08-30,P002,Green Tea Box,Beverages,22.0,9.0,802,0,0,rainy,4
+2026-08-31,P002,Green Tea Box,Beverages,22.0,9.0,3150,0,0,cloudy,4
+2025-09-01,P003,Winter Jacket,Apparel,8.0,55.0,160,0,0,cloudy,10
+2025-09-02,P003,Winter Jacket,Apparel,5.0,55.0,155,0,0,rainy,10
+2025-09-03,P003,Winter Jacket,Apparel,12.0,55.0,143,0,0,cloudy,10
+2025-09-04,P003,Winter Jacket,Apparel,13.0,55.0,340,0,0,rainy,10
+2025-09-05,P003,Winter Jacket,Apparel,9.0,55.0,331,0,0,cloudy,10
+2025-09-06,P003,Winter Jacket,Apparel,13.0,46.75,318,1,0,rainy,10
+2025-09-07,P003,Winter Jacket,Apparel,12.0,55.0,306,0,0,cloudy,10
+2025-09-08,P003,Winter Jacket,Apparel,10.0,55.0,296,0,0,cloudy,10
+2025-09-09,P003,Winter Jacket,Apparel,8.0,55.0,288,0,0,cloudy,10
+2025-09-10,P003,Winter Jacket,Apparel,5.0,55.0,283,0,0,cloudy,10
+2025-09-11,P003,Winter Jacket,Apparel,14.0,55.0,269,0,0,rainy,10
+2025-09-12,P003,Winter Jacket,Apparel,12.0,55.0,257,0,0,cloudy,10
+2025-09-13,P003,Winter Jacket,Apparel,11.0,55.0,246,0,0,sunny,10
+2025-09-14,P003,Winter Jacket,Apparel,11.0,55.0,235,0,0,cloudy,10
+2025-09-15,P003,Winter Jacket,Apparel,17.0,55.0,218,0,0,cloudy,10
+2025-09-16,P003,Winter Jacket,Apparel,18.0,46.75,200,1,0,cloudy,10
+2025-09-17,P003,Winter Jacket,Apparel,7.0,55.0,193,0,0,sunny,10
+2025-09-18,P003,Winter Jacket,Apparel,9.0,55.0,184,0,0,sunny,10
+2025-09-19,P003,Winter Jacket,Apparel,16.0,55.0,168,0,0,sunny,10
+2025-09-20,P003,Winter Jacket,Apparel,8.0,55.0,160,0,0,cloudy,10
+2025-09-21,P003,Winter Jacket,Apparel,14.0,55.0,146,0,0,sunny,10
+2025-09-22,P003,Winter Jacket,Apparel,18.0,55.0,338,0,0,cloudy,10
+2025-09-23,P003,Winter Jacket,Apparel,10.0,55.0,328,0,0,sunny,10
+2025-09-24,P003,Winter Jacket,Apparel,12.0,55.0,316,0,0,sunny,10
+2025-09-25,P003,Winter Jacket,Apparel,26.0,46.75,290,1,0,sunny,10
+2025-09-26,P003,Winter Jacket,Apparel,14.0,55.0,276,0,0,sunny,10
+2025-09-27,P003,Winter Jacket,Apparel,23.0,55.0,253,0,0,sunny,10
+2025-09-28,P003,Winter Jacket,Apparel,22.0,46.75,231,1,0,rainy,10
+2025-09-29,P003,Winter Jacket,Apparel,17.0,55.0,214,0,0,sunny,10
+2025-09-30,P003,Winter Jacket,Apparel,11.0,55.0,203,0,0,cloudy,10
+2025-10-01,P003,Winter Jacket,Apparel,17.0,55.0,186,0,0,cloudy,10
+2025-10-02,P003,Winter Jacket,Apparel,20.0,55.0,166,0,1,rainy,10
+2025-10-03,P003,Winter Jacket,Apparel,13.0,55.0,153,0,0,cloudy,10
+2025-10-04,P003,Winter Jacket,Apparel,33.0,46.75,330,1,0,cloudy,10
+2025-10-05,P003,Winter Jacket,Apparel,16.0,55.0,314,0,0,rainy,10
+2025-10-06,P003,Winter Jacket,Apparel,11.0,55.0,303,0,0,rainy,10
+2025-10-07,P003,Winter Jacket,Apparel,22.0,46.75,281,1,0,sunny,10
+2025-10-08,P003,Winter Jacket,Apparel,20.0,46.75,261,1,0,rainy,10
+2025-10-09,P003,Winter Jacket,Apparel,18.0,46.75,243,1,0,cloudy,10
+2025-10-10,P003,Winter Jacket,Apparel,16.0,55.0,227,0,0,sunny,10
+2025-10-11,P003,Winter Jacket,Apparel,24.0,55.0,203,0,0,cloudy,10
+2025-10-12,P003,Winter Jacket,Apparel,19.0,55.0,184,0,0,rainy,10
+2025-10-13,P003,Winter Jacket,Apparel,17.0,55.0,167,0,0,sunny,10
+2025-10-14,P003,Winter Jacket,Apparel,18.0,55.0,149,0,0,sunny,10
+2025-10-15,P003,Winter Jacket,Apparel,17.0,55.0,342,0,0,rainy,10
+2025-10-16,P003,Winter Jacket,Apparel,15.0,55.0,327,0,0,cloudy,10
+2025-10-17,P003,Winter Jacket,Apparel,19.0,55.0,308,0,0,sunny,10
+2025-10-18,P003,Winter Jacket,Apparel,25.0,55.0,283,0,0,rainy,10
+2025-10-19,P003,Winter Jacket,Apparel,24.0,55.0,259,0,0,cloudy,10
+2025-10-20,P003,Winter Jacket,Apparel,18.0,55.0,241,0,0,sunny,10
+2025-10-21,P003,Winter Jacket,Apparel,15.0,55.0,226,0,0,sunny,10
+2025-10-22,P003,Winter Jacket,Apparel,21.0,55.0,205,0,0,cloudy,10
+2025-10-23,P003,Winter Jacket,Apparel,,46.75,176,1,0,sunny,10
+2025-10-24,P003,Winter Jacket,Apparel,18.0,55.0,158,0,0,cloudy,10
+2025-10-25,P003,Winter Jacket,Apparel,21.0,46.75,347,1,0,sunny,10
+2025-10-26,P003,Winter Jacket,Apparel,17.0,55.0,330,0,0,sunny,10
+2025-10-27,P003,Winter Jacket,Apparel,27.0,55.0,303,0,0,rainy,10
+2025-10-28,P003,Winter Jacket,Apparel,17.0,55.0,286,0,0,sunny,10
+2025-10-29,P003,Winter Jacket,Apparel,19.0,55.0,267,0,0,rainy,10
+2025-10-30,P003,Winter Jacket,Apparel,15.0,55.0,252,0,0,sunny,10
+2025-10-31,P003,Winter Jacket,Apparel,15.0,55.0,237,0,0,cloudy,10
+2025-11-01,P003,Winter Jacket,Apparel,28.0,55.0,209,0,1,sunny,10
+2025-11-02,P003,Winter Jacket,Apparel,30.0,55.0,179,0,0,cloudy,10
+2025-11-03,P003,Winter Jacket,Apparel,21.0,55.0,158,0,0,cloudy,10
+2025-11-04,P003,Winter Jacket,Apparel,22.0,55.0,346,0,0,sunny,10
+2025-11-05,P003,Winter Jacket,Apparel,19.0,55.0,327,0,0,cloudy,10
+2025-11-06,P003,Winter Jacket,Apparel,24.0,55.0,303,0,0,rainy,10
+2025-11-07,P003,Winter Jacket,Apparel,19.0,55.0,284,0,0,cloudy,10
+2025-11-08,P003,Winter Jacket,Apparel,25.0,55.0,259,0,0,sunny,10
+2025-11-09,P003,Winter Jacket,Apparel,25.0,55.0,234,0,0,rainy,10
+2025-11-10,P003,Winter Jacket,Apparel,26.0,55.0,208,0,0,sunny,10
+2025-11-11,P003,Winter Jacket,Apparel,23.0,55.0,185,0,0,sunny,10
+2025-11-12,P003,Winter Jacket,Apparel,19.0,55.0,166,0,0,cloudy,10
+2025-11-13,P003,Winter Jacket,Apparel,22.0,55.0,144,0,0,sunny,10
+2025-11-14,P003,Winter Jacket,Apparel,18.0,55.0,336,0,0,sunny,10
+2025-11-15,P003,Winter Jacket,Apparel,29.0,55.0,307,0,0,rainy,10
+2025-11-16,P003,Winter Jacket,Apparel,20.0,55.0,287,0,0,cloudy,10
+2025-11-17,P003,Winter Jacket,Apparel,19.0,55.0,268,0,0,rainy,10
+2025-11-18,P003,Winter Jacket,Apparel,23.0,55.0,245,0,0,cloudy,10
+2025-11-19,P003,Winter Jacket,Apparel,27.0,55.0,218,0,0,cloudy,10
+2025-11-20,P003,Winter Jacket,Apparel,28.0,46.75,190,1,0,rainy,10
+2025-11-21,P003,Winter Jacket,Apparel,31.0,55.0,159,0,0,sunny,10
+2025-11-22,P003,Winter Jacket,Apparel,28.0,55.0,341,0,0,cloudy,10
+2025-11-23,P003,Winter Jacket,Apparel,23.0,55.0,318,0,0,rainy,10
+2025-11-24,P003,Winter Jacket,Apparel,28.0,55.0,290,0,0,sunny,10
+2025-11-25,P003,Winter Jacket,Apparel,32.0,55.0,258,0,0,rainy,10
+2025-11-26,P003,Winter Jacket,Apparel,28.0,55.0,230,0,0,sunny,10
+2025-11-27,P003,Winter Jacket,Apparel,18.0,55.0,212,0,0,cloudy,10
+2025-11-28,P003,Winter Jacket,Apparel,23.0,55.0,189,0,0,rainy,10
+2025-11-29,P003,Winter Jacket,Apparel,26.0,55.0,163,0,0,sunny,10
+2025-11-30,P003,Winter Jacket,Apparel,33.0,55.0,340,0,0,rainy,10
+2025-12-01,P003,Winter Jacket,Apparel,34.0,55.0,306,0,0,sunny,10
+2025-12-02,P003,Winter Jacket,Apparel,24.0,55.0,282,0,0,sunny,10
+2025-12-03,P003,Winter Jacket,Apparel,22.0,55.0,260,0,0,cloudy,10
+2025-12-04,P003,Winter Jacket,Apparel,25.0,55.0,235,0,0,cloudy,10
+2025-12-05,P003,Winter Jacket,Apparel,21.0,55.0,214,0,0,rainy,10
+2025-12-06,P003,Winter Jacket,Apparel,33.0,55.0,181,0,0,rainy,10
+2025-12-07,P003,Winter Jacket,Apparel,34.0,55.0,147,0,0,rainy,10
+2025-12-08,P003,Winter Jacket,Apparel,31.0,55.0,326,0,0,cloudy,10
+2025-12-09,P003,Winter Jacket,Apparel,28.0,55.0,298,0,0,sunny,10
+2025-12-10,P003,Winter Jacket,Apparel,24.0,55.0,274,0,0,rainy,10
+2025-12-11,P003,Winter Jacket,Apparel,28.0,55.0,246,0,0,cloudy,10
+2025-12-12,P003,Winter Jacket,Apparel,33.0,55.0,213,0,0,sunny,10
+2025-12-13,P003,Winter Jacket,Apparel,41.0,46.75,172,1,0,rainy,10
+2025-12-14,P003,Winter Jacket,Apparel,32.0,55.0,140,0,0,cloudy,10
+2025-12-15,P003,Winter Jacket,Apparel,29.0,55.0,321,0,0,cloudy,10
+2025-12-16,P003,Winter Jacket,Apparel,22.0,55.0,299,0,0,cloudy,10
+2025-12-17,P003,Winter Jacket,Apparel,22.0,55.0,277,0,0,rainy,10
+2025-12-18,P003,Winter Jacket,Apparel,33.0,55.0,244,0,0,sunny,10
+2025-12-19,P003,Winter Jacket,Apparel,24.0,55.0,220,0,0,cloudy,10
+2025-12-20,P003,Winter Jacket,Apparel,24.0,55.0,196,0,0,sunny,10
+2025-12-21,P003,Winter Jacket,Apparel,30.0,55.0,166,0,0,cloudy,10
+2025-12-22,P003,Winter Jacket,Apparel,31.0,46.75,345,1,0,sunny,10
+2025-12-23,P003,Winter Jacket,Apparel,25.0,55.0,320,0,0,cloudy,10
+2025-12-24,P003,Winter Jacket,Apparel,28.0,55.0,292,0,0,rainy,10
+2025-12-25,P003,Winter Jacket,Apparel,33.0,55.0,259,0,1,cloudy,10
+2025-12-26,P003,Winter Jacket,Apparel,28.0,55.0,231,0,0,rainy,10
+2025-12-27,P003,Winter Jacket,Apparel,30.0,55.0,201,0,0,rainy,10
+2025-12-28,P003,Winter Jacket,Apparel,52.0,46.75,149,1,0,sunny,10
+2025-12-29,P003,Winter Jacket,Apparel,32.0,46.75,327,1,0,cloudy,10
+2025-12-30,P003,Winter Jacket,Apparel,23.0,55.0,304,0,0,cloudy,10
+2025-12-31,P003,Winter Jacket,Apparel,29.0,55.0,275,0,0,cloudy,10
+2026-01-01,P003,Winter Jacket,Apparel,46.0,55.0,229,0,1,rainy,10
+2026-01-02,P003,Winter Jacket,Apparel,30.0,55.0,199,0,0,cloudy,10
+2026-01-03,P003,Winter Jacket,Apparel,32.0,55.0,167,0,0,sunny,10
+2026-01-04,P003,Winter Jacket,Apparel,24.0,55.0,143,0,0,cloudy,10
+2026-01-05,P003,Winter Jacket,Apparel,24.0,55.0,329,0,0,sunny,10
+2026-01-06,P003,Winter Jacket,Apparel,22.0,55.0,307,0,0,cloudy,10
+2026-01-07,P003,Winter Jacket,Apparel,31.0,55.0,276,0,0,cloudy,10
+2026-01-08,P003,Winter Jacket,Apparel,31.0,55.0,245,0,0,rainy,10
+2026-01-09,P003,Winter Jacket,Apparel,39.0,46.75,206,1,0,sunny,10
+2026-01-10,P003,Winter Jacket,Apparel,25.0,55.0,181,0,0,cloudy,10
+2026-01-11,P003,Winter Jacket,Apparel,25.0,55.0,156,0,0,sunny,10
+2026-01-12,P003,Winter Jacket,Apparel,21.0,55.0,345,0,0,cloudy,10
+2026-01-13,P003,Winter Jacket,Apparel,104.0,55.0,241,0,0,cloudy,10
+2026-01-14,P003,Winter Jacket,Apparel,27.0,55.0,214,0,0,cloudy,10
+2026-01-15,P003,Winter Jacket,Apparel,33.0,55.0,181,0,0,sunny,10
+2026-01-16,P003,Winter Jacket,Apparel,28.0,55.0,153,0,0,sunny,10
+2026-01-17,P003,Winter Jacket,Apparel,28.0,55.0,335,0,0,cloudy,10
+2026-01-18,P003,Winter Jacket,Apparel,31.0,55.0,304,0,0,cloudy,10
+2026-01-19,P003,Winter Jacket,Apparel,14.0,55.0,290,0,0,sunny,10
+2026-01-20,P003,Winter Jacket,Apparel,36.0,46.75,254,1,0,cloudy,10
+2026-01-21,P003,Winter Jacket,Apparel,33.0,55.0,221,0,0,sunny,10
+2026-01-22,P003,Winter Jacket,Apparel,32.0,55.0,189,0,0,cloudy,10
+2026-01-23,P003,Winter Jacket,Apparel,21.0,55.0,168,0,0,cloudy,10
+2026-01-24,P003,Winter Jacket,Apparel,26.0,55.0,142,0,0,rainy,10
+2026-01-25,P003,Winter Jacket,Apparel,24.0,55.0,328,0,0,rainy,10
+2026-01-26,P003,Winter Jacket,Apparel,28.0,55.0,300,0,1,rainy,10
+2026-01-27,P003,Winter Jacket,Apparel,26.0,55.0,274,0,0,sunny,10
+2026-01-28,P003,Winter Jacket,Apparel,30.0,55.0,244,0,0,rainy,10
+2026-01-29,P003,Winter Jacket,Apparel,34.0,46.75,210,1,0,cloudy,10
+2026-01-30,P003,Winter Jacket,Apparel,26.0,55.0,184,0,0,cloudy,10
+2026-01-31,P003,Winter Jacket,Apparel,22.0,55.0,162,0,0,rainy,10
+2026-02-01,P003,Winter Jacket,Apparel,24.0,55.0,348,0,0,sunny,10
+2026-02-02,P003,Winter Jacket,Apparel,32.0,55.0,316,0,0,sunny,10
+2026-02-03,P003,Winter Jacket,Apparel,26.0,55.0,290,0,0,rainy,10
+2026-02-04,P003,Winter Jacket,Apparel,20.0,55.0,270,0,0,cloudy,10
+2026-02-05,P003,Winter Jacket,Apparel,20.0,55.0,250,0,0,cloudy,10
+2026-02-06,P003,Winter Jacket,Apparel,23.0,55.0,227,0,0,sunny,10
+2026-02-07,P003,Winter Jacket,Apparel,36.0,46.75,191,1,0,cloudy,10
+2026-02-08,P003,Winter Jacket,Apparel,24.0,55.0,167,0,0,sunny,10
+2026-02-09,P003,Winter Jacket,Apparel,18.0,55.0,149,0,0,cloudy,10
+2026-02-10,P003,Winter Jacket,Apparel,22.0,55.0,337,0,0,cloudy,10
+2026-02-11,P003,Winter Jacket,Apparel,32.0,55.0,305,0,0,rainy,10
+2026-02-12,P003,Winter Jacket,Apparel,27.0,55.0,278,0,0,rainy,10
+2026-02-13,P003,Winter Jacket,Apparel,32.0,55.0,246,0,0,sunny,10
+2026-02-14,P003,Winter Jacket,Apparel,24.0,55.0,222,0,0,sunny,10
+2026-02-15,P003,Winter Jacket,Apparel,23.0,55.0,199,0,0,cloudy,10
+2026-02-16,P003,Winter Jacket,Apparel,25.0,55.0,174,0,0,rainy,10
+2026-02-17,P003,Winter Jacket,Apparel,23.0,55.0,151,0,0,sunny,10
+2026-02-18,P003,Winter Jacket,Apparel,27.0,55.0,334,0,0,cloudy,10
+2026-02-19,P003,Winter Jacket,Apparel,16.0,55.0,318,0,0,cloudy,10
+2026-02-20,P003,Winter Jacket,Apparel,21.0,55.0,297,0,0,sunny,10
+2026-02-21,P003,Winter Jacket,Apparel,19.0,55.0,278,0,0,cloudy,10
+2026-02-22,P003,Winter Jacket,Apparel,34.0,46.75,244,1,0,sunny,10
+2026-02-23,P003,Winter Jacket,Apparel,11.0,55.0,233,0,0,cloudy,10
+2026-02-24,P003,Winter Jacket,Apparel,22.0,55.0,211,0,0,rainy,10
+2026-02-25,P003,Winter Jacket,Apparel,19.0,55.0,192,0,0,cloudy,10
+2026-02-26,P003,Winter Jacket,Apparel,21.0,55.0,171,0,0,sunny,10
+2026-02-27,P003,Winter Jacket,Apparel,19.0,55.0,152,0,0,rainy,10
+2026-02-28,P003,Winter Jacket,Apparel,20.0,55.0,342,0,0,sunny,10
+2026-03-01,P003,Winter Jacket,Apparel,18.0,55.0,324,0,0,rainy,10
+2026-03-02,P003,Winter Jacket,Apparel,25.0,55.0,299,0,0,rainy,10
+2026-03-03,P003,Winter Jacket,Apparel,10.0,55.0,289,0,0,cloudy,10
+2026-03-04,P003,Winter Jacket,Apparel,15.0,55.0,274,0,0,sunny,10
+2026-03-05,P003,Winter Jacket,Apparel,20.0,55.0,254,0,0,rainy,10
+2026-03-06,P003,Winter Jacket,Apparel,16.0,55.0,238,0,0,rainy,10
+2026-03-07,P003,Winter Jacket,Apparel,19.0,55.0,219,0,0,cloudy,10
+2026-03-08,P003,Winter Jacket,Apparel,28.0,55.0,191,0,0,rainy,10
+2026-03-09,P003,Winter Jacket,Apparel,24.0,55.0,167,0,0,rainy,10
+2026-03-10,P003,Winter Jacket,Apparel,20.0,55.0,147,0,0,rainy,10
+2026-03-11,P003,Winter Jacket,Apparel,17.0,55.0,340,0,0,sunny,10
+2026-03-12,P003,Winter Jacket,Apparel,9.0,55.0,331,0,0,cloudy,10
+2026-03-13,P003,Winter Jacket,Apparel,15.0,55.0,316,0,0,sunny,10
+2026-03-14,P003,Winter Jacket,Apparel,19.0,55.0,297,0,0,sunny,10
+2026-03-15,P003,Winter Jacket,Apparel,13.0,55.0,284,0,0,cloudy,10
+2026-03-16,P003,Winter Jacket,Apparel,18.0,55.0,266,0,0,sunny,10
+2026-03-17,P003,Winter Jacket,Apparel,14.0,55.0,252,0,0,sunny,10
+2026-03-18,P003,Winter Jacket,Apparel,10.0,55.0,242,0,0,rainy,10
+2026-03-19,P003,Winter Jacket,Apparel,18.0,55.0,224,0,0,cloudy,10
+2026-03-20,P003,Winter Jacket,Apparel,20.0,55.0,204,0,0,cloudy,10
+2026-03-21,P003,Winter Jacket,Apparel,18.0,46.75,186,1,0,sunny,10
+2026-03-22,P003,Winter Jacket,Apparel,13.0,55.0,173,0,0,rainy,10
+2026-03-23,P003,Winter Jacket,Apparel,15.0,55.0,158,0,0,cloudy,10
+2026-03-24,P003,Winter Jacket,Apparel,17.0,55.0,141,0,0,cloudy,10
+2026-03-25,P003,Winter Jacket,Apparel,20.0,55.0,331,0,0,sunny,10
+2026-03-26,P003,Winter Jacket,Apparel,15.0,55.0,316,0,0,sunny,10
+2026-03-27,P003,Winter Jacket,Apparel,9.0,55.0,307,0,0,sunny,10
+2026-03-28,P003,Winter Jacket,Apparel,15.0,55.0,292,0,0,sunny,10
+2026-03-29,P003,Winter Jacket,Apparel,19.0,55.0,273,0,0,rainy,10
+2026-03-30,P003,Winter Jacket,Apparel,10.0,55.0,263,0,0,cloudy,10
+2026-03-31,P003,Winter Jacket,Apparel,9.0,55.0,254,0,0,cloudy,10
+2026-04-01,P003,Winter Jacket,Apparel,9.0,55.0,245,0,0,rainy,10
+2026-04-02,P003,Winter Jacket,Apparel,6.0,55.0,239,0,0,rainy,10
+2026-04-03,P003,Winter Jacket,Apparel,12.0,55.0,227,0,0,sunny,10
+2026-04-04,P003,Winter Jacket,Apparel,13.0,55.0,214,0,0,cloudy,10
+2026-04-05,P003,Winter Jacket,Apparel,12.0,55.0,202,0,0,cloudy,10
+2026-04-06,P003,Winter Jacket,Apparel,10.0,55.0,192,0,0,sunny,10
+2026-04-07,P003,Winter Jacket,Apparel,6.0,55.0,186,0,0,rainy,10
+2026-04-08,P003,Winter Jacket,Apparel,6.0,55.0,180,0,0,cloudy,10
+2026-04-09,P003,Winter Jacket,Apparel,11.0,55.0,169,0,0,cloudy,10
+2026-04-10,P003,Winter Jacket,Apparel,7.0,55.0,162,0,0,cloudy,10
+2026-04-11,P003,Winter Jacket,Apparel,9.0,55.0,153,0,0,rainy,10
+2026-04-12,P003,Winter Jacket,Apparel,11.0,55.0,142,0,0,sunny,10
+2026-04-13,P003,Winter Jacket,Apparel,13.0,55.0,339,0,0,cloudy,10
+2026-04-14,P003,Winter Jacket,Apparel,7.0,55.0,332,0,0,rainy,10
+2026-04-15,P003,Winter Jacket,Apparel,9.0,55.0,323,0,0,rainy,10
+2026-04-16,P003,Winter Jacket,Apparel,8.0,55.0,315,0,0,cloudy,10
+2026-04-17,P003,Winter Jacket,Apparel,11.0,55.0,304,0,0,sunny,10
+2026-04-18,P003,Winter Jacket,Apparel,12.0,55.0,292,0,0,rainy,10
+2026-04-19,P003,Winter Jacket,Apparel,15.0,55.0,277,0,0,rainy,10
+2026-04-20,P003,Winter Jacket,Apparel,13.0,55.0,264,0,0,cloudy,10
+2026-04-21,P003,Winter Jacket,Apparel,10.0,55.0,254,0,0,cloudy,10
+2026-04-22,P003,Winter Jacket,Apparel,10.0,55.0,244,0,0,cloudy,10
+2026-04-23,P003,Winter Jacket,Apparel,7.0,55.0,237,0,0,sunny,10
+2026-04-24,P003,Winter Jacket,Apparel,7.0,55.0,230,0,0,sunny,10
+2026-04-25,P003,Winter Jacket,Apparel,,55.0,223,0,0,rainy,10
+2026-04-26,P003,Winter Jacket,Apparel,9.0,55.0,214,0,0,rainy,10
+2026-04-27,P003,Winter Jacket,Apparel,9.0,55.0,205,0,0,sunny,10
+2026-04-28,P003,Winter Jacket,Apparel,12.0,55.0,193,0,0,cloudy,10
+2026-04-29,P003,Winter Jacket,Apparel,8.0,55.0,185,0,0,rainy,10
+2026-04-30,P003,Winter Jacket,Apparel,9.0,46.75,176,1,0,sunny,10
+2026-05-01,P003,Winter Jacket,Apparel,9.0,46.75,167,1,0,sunny,10
+2026-05-02,P003,Winter Jacket,Apparel,10.0,55.0,157,0,0,sunny,10
+2026-05-03,P003,Winter Jacket,Apparel,5.0,55.0,152,0,0,sunny,10
+2026-05-04,P003,Winter Jacket,Apparel,6.0,55.0,146,0,0,cloudy,10
+2026-05-05,P003,Winter Jacket,Apparel,5.0,55.0,141,0,0,cloudy,10
+2026-05-06,P003,Winter Jacket,Apparel,6.0,55.0,345,0,0,rainy,10
+2026-05-07,P003,Winter Jacket,Apparel,11.0,55.0,334,0,0,rainy,10
+2026-05-08,P003,Winter Jacket,Apparel,4.0,55.0,330,0,0,rainy,10
+2026-05-09,P003,Winter Jacket,Apparel,9.0,55.0,321,0,0,rainy,10
+2026-05-10,P003,Winter Jacket,Apparel,8.0,46.75,313,1,0,rainy,10
+2026-05-11,P003,Winter Jacket,Apparel,4.0,55.0,309,0,0,cloudy,10
+2026-05-12,P003,Winter Jacket,Apparel,6.0,46.75,303,1,0,rainy,10
+2026-05-13,P003,Winter Jacket,Apparel,4.0,55.0,299,0,0,sunny,10
+2026-05-14,P003,Winter Jacket,Apparel,3.0,55.0,296,0,0,rainy,10
+2026-05-15,P003,Winter Jacket,Apparel,0.0,55.0,296,0,0,sunny,10
+2026-05-16,P003,Winter Jacket,Apparel,6.0,55.0,290,0,0,cloudy,10
+2026-05-17,P003,Winter Jacket,Apparel,6.0,55.0,284,0,0,sunny,10
+2026-05-18,P003,Winter Jacket,Apparel,3.0,46.75,281,1,0,cloudy,10
+2026-05-19,P003,Winter Jacket,Apparel,2.0,55.0,279,0,0,rainy,10
+2026-05-20,P003,Winter Jacket,Apparel,4.0,55.0,275,0,0,sunny,10
+2026-05-21,P003,Winter Jacket,Apparel,4.0,55.0,271,0,0,cloudy,10
+2026-05-22,P003,Winter Jacket,Apparel,3.0,55.0,268,0,0,sunny,10
+2026-05-23,P003,Winter Jacket,Apparel,2.0,55.0,266,0,0,sunny,10
+2026-05-24,P003,Winter Jacket,Apparel,4.0,55.0,262,0,0,cloudy,10
+2026-05-25,P003,Winter Jacket,Apparel,5.0,55.0,257,0,0,cloudy,10
+2026-05-26,P003,Winter Jacket,Apparel,5.0,55.0,252,0,0,sunny,10
+2026-05-27,P003,Winter Jacket,Apparel,2.0,46.75,250,1,0,cloudy,10
+2026-05-28,P003,Winter Jacket,Apparel,5.0,55.0,245,0,0,rainy,10
+2026-05-29,P003,Winter Jacket,Apparel,4.0,55.0,241,0,0,cloudy,10
+2026-05-30,P003,Winter Jacket,Apparel,1.0,55.0,240,0,0,rainy,10
+2026-05-31,P003,Winter Jacket,Apparel,,55.0,237,0,0,rainy,10
+2026-06-01,P003,Winter Jacket,Apparel,2.0,55.0,235,0,0,cloudy,10
+2026-06-02,P003,Winter Jacket,Apparel,2.0,55.0,233,0,0,cloudy,10
+2026-06-03,P003,Winter Jacket,Apparel,2.0,55.0,231,0,0,rainy,10
+2026-06-04,P003,Winter Jacket,Apparel,2.0,55.0,229,0,0,cloudy,10
+2026-06-05,P003,Winter Jacket,Apparel,2.0,55.0,227,0,0,cloudy,10
+2026-06-06,P003,Winter Jacket,Apparel,3.0,46.75,224,1,0,sunny,10
+2026-06-07,P003,Winter Jacket,Apparel,6.0,55.0,218,0,0,sunny,10
+2026-06-08,P003,Winter Jacket,Apparel,5.0,46.75,213,1,0,sunny,10
+2026-06-09,P003,Winter Jacket,Apparel,3.0,55.0,210,0,0,cloudy,10
+2026-06-10,P003,Winter Jacket,Apparel,0.0,55.0,210,0,0,rainy,10
+2026-06-11,P003,Winter Jacket,Apparel,3.0,55.0,207,0,0,sunny,10
+2026-06-12,P003,Winter Jacket,Apparel,2.0,55.0,205,0,0,sunny,10
+2026-06-13,P003,Winter Jacket,Apparel,0.0,55.0,205,0,0,sunny,10
+2026-06-14,P003,Winter Jacket,Apparel,4.0,55.0,201,0,0,cloudy,10
+2026-06-15,P003,Winter Jacket,Apparel,2.0,55.0,199,0,0,sunny,10
+2026-06-16,P003,Winter Jacket,Apparel,0.0,55.0,199,0,0,sunny,10
+2026-06-17,P003,Winter Jacket,Apparel,1.0,55.0,198,0,0,sunny,10
+2026-06-18,P003,Winter Jacket,Apparel,2.0,55.0,196,0,0,sunny,10
+2026-06-19,P003,Winter Jacket,Apparel,3.0,55.0,193,0,0,sunny,10
+2026-06-20,P003,Winter Jacket,Apparel,1.0,55.0,192,0,0,rainy,10
+2026-06-21,P003,Winter Jacket,Apparel,2.0,55.0,190,0,0,rainy,10
+2026-06-22,P003,Winter Jacket,Apparel,3.0,55.0,187,0,0,cloudy,10
+2026-06-23,P003,Winter Jacket,Apparel,1.0,55.0,186,0,0,sunny,10
+2026-06-24,P003,Winter Jacket,Apparel,0.0,55.0,186,0,0,sunny,10
+2026-06-25,P003,Winter Jacket,Apparel,1.0,55.0,185,0,0,sunny,10
+2026-06-26,P003,Winter Jacket,Apparel,0.0,55.0,185,0,0,cloudy,10
+2026-06-27,P003,Winter Jacket,Apparel,1.0,55.0,184,0,0,cloudy,10
+2026-06-28,P003,Winter Jacket,Apparel,1.0,55.0,183,0,0,sunny,10
+2026-06-29,P003,Winter Jacket,Apparel,1.0,55.0,182,0,0,cloudy,10
+2026-06-30,P003,Winter Jacket,Apparel,2.0,55.0,180,0,0,sunny,10
+2026-07-01,P003,Winter Jacket,Apparel,1.0,55.0,179,0,0,cloudy,10
+2026-07-02,P003,Winter Jacket,Apparel,1.0,55.0,178,0,0,rainy,10
+2026-07-03,P003,Winter Jacket,Apparel,1.0,55.0,177,0,0,sunny,10
+2026-07-04,P003,Winter Jacket,Apparel,3.0,55.0,174,0,0,cloudy,10
+2026-07-05,P003,Winter Jacket,Apparel,1.0,55.0,173,0,0,cloudy,10
+2026-07-06,P003,Winter Jacket,Apparel,2.0,55.0,171,0,0,rainy,10
+2026-07-07,P003,Winter Jacket,Apparel,2.0,55.0,169,0,0,cloudy,10
+2026-07-08,P003,Winter Jacket,Apparel,1.0,55.0,168,0,0,cloudy,10
+2026-07-09,P003,Winter Jacket,Apparel,1.0,55.0,167,0,0,rainy,10
+2026-07-10,P003,Winter Jacket,Apparel,2.0,55.0,165,0,0,cloudy,10
+2026-07-11,P003,Winter Jacket,Apparel,4.0,55.0,161,0,0,cloudy,10
+2026-07-12,P003,Winter Jacket,Apparel,2.0,55.0,159,0,0,sunny,10
+2026-07-13,P003,Winter Jacket,Apparel,3.0,55.0,156,0,0,cloudy,10
+2026-07-14,P003,Winter Jacket,Apparel,1.0,55.0,155,0,0,sunny,10
+2026-07-15,P003,Winter Jacket,Apparel,2.0,55.0,153,0,0,cloudy,10
+2026-07-16,P003,Winter Jacket,Apparel,0.0,55.0,153,0,0,sunny,10
+2026-07-17,P003,Winter Jacket,Apparel,3.0,55.0,150,0,0,sunny,10
+2026-07-18,P003,Winter Jacket,Apparel,1.0,55.0,149,0,0,cloudy,10
+2026-07-19,P003,Winter Jacket,Apparel,3.0,55.0,146,0,0,cloudy,10
+2026-07-20,P003,Winter Jacket,Apparel,2.0,55.0,144,0,0,rainy,10
+2026-07-21,P003,Winter Jacket,Apparel,1.0,55.0,143,0,0,sunny,10
+2026-07-22,P003,Winter Jacket,Apparel,0.0,55.0,143,0,0,rainy,10
+2026-07-23,P003,Winter Jacket,Apparel,5.0,55.0,348,0,0,sunny,10
+2026-07-24,P003,Winter Jacket,Apparel,5.0,55.0,343,0,0,rainy,10
+2026-07-25,P003,Winter Jacket,Apparel,3.0,55.0,340,0,0,rainy,10
+2026-07-26,P003,Winter Jacket,Apparel,2.0,55.0,338,0,0,rainy,10
+2026-07-27,P003,Winter Jacket,Apparel,3.0,55.0,335,0,0,sunny,10
+2026-07-28,P003,Winter Jacket,Apparel,4.0,55.0,331,0,0,rainy,10
+2026-07-29,P003,Winter Jacket,Apparel,6.0,55.0,325,0,0,sunny,10
+2026-07-30,P003,Winter Jacket,Apparel,7.0,55.0,318,0,0,rainy,10
+2026-07-31,P003,Winter Jacket,Apparel,4.0,55.0,314,0,0,cloudy,10
+2026-08-01,P003,Winter Jacket,Apparel,4.0,55.0,310,0,0,cloudy,10
+2026-08-02,P003,Winter Jacket,Apparel,3.0,55.0,307,0,0,cloudy,10
+2026-08-03,P003,Winter Jacket,Apparel,6.0,46.75,301,1,0,sunny,10
+2026-08-04,P003,Winter Jacket,Apparel,6.0,55.0,295,0,0,rainy,10
+2026-08-05,P003,Winter Jacket,Apparel,1.0,55.0,294,0,0,rainy,10
+2026-08-06,P003,Winter Jacket,Apparel,6.0,55.0,288,0,0,rainy,10
+2026-08-07,P003,Winter Jacket,Apparel,9.0,55.0,279,0,0,rainy,10
+2026-08-08,P003,Winter Jacket,Apparel,7.0,55.0,272,0,0,rainy,10
+2026-08-09,P003,Winter Jacket,Apparel,10.0,46.75,262,1,0,rainy,10
+2026-08-10,P003,Winter Jacket,Apparel,6.0,55.0,256,0,0,cloudy,10
+2026-08-11,P003,Winter Jacket,Apparel,8.0,46.75,248,1,0,rainy,10
+2026-08-12,P003,Winter Jacket,Apparel,7.0,55.0,241,0,0,sunny,10
+2026-08-13,P003,Winter Jacket,Apparel,6.0,55.0,235,0,0,rainy,10
+2026-08-14,P003,Winter Jacket,Apparel,6.0,55.0,229,0,0,cloudy,10
+2026-08-15,P003,Winter Jacket,Apparel,6.0,55.0,223,0,1,cloudy,10
+2026-08-16,P003,Winter Jacket,Apparel,5.0,55.0,218,0,0,cloudy,10
+2026-08-17,P003,Winter Jacket,Apparel,7.0,55.0,211,0,0,sunny,10
+2026-08-18,P003,Winter Jacket,Apparel,3.0,55.0,208,0,0,cloudy,10
+2026-08-19,P003,Winter Jacket,Apparel,6.0,55.0,202,0,0,cloudy,10
+2026-08-20,P003,Winter Jacket,Apparel,5.0,55.0,197,0,0,sunny,10
+2026-08-21,P003,Winter Jacket,Apparel,6.0,55.0,191,0,0,rainy,10
+2026-08-22,P003,Winter Jacket,Apparel,6.0,55.0,185,0,0,sunny,10
+2026-08-23,P003,Winter Jacket,Apparel,9.0,55.0,176,0,0,rainy,10
+2026-08-24,P003,Winter Jacket,Apparel,9.0,55.0,167,0,0,sunny,10
+2026-08-25,P003,Winter Jacket,Apparel,7.0,55.0,160,0,0,sunny,10
+2026-08-26,P003,Winter Jacket,Apparel,7.0,55.0,153,0,0,sunny,10
+2026-08-27,P003,Winter Jacket,Apparel,7.0,55.0,146,0,0,sunny,10
+2026-08-28,P003,Winter Jacket,Apparel,7.0,55.0,349,0,0,sunny,10
+2026-08-29,P003,Winter Jacket,Apparel,6.0,55.0,343,0,0,rainy,10
+2026-08-30,P003,Winter Jacket,Apparel,10.0,55.0,333,0,0,rainy,10
+2026-08-31,P003,Winter Jacket,Apparel,12.0,55.0,321,0,0,cloudy,10
+2025-09-01,P004,Cotton T-Shirt,Apparel,34.0,12.0,446,0,0,sunny,7
+2025-09-02,P004,Cotton T-Shirt,Apparel,51.0,12.0,395,0,0,rainy,7
+2025-09-03,P004,Cotton T-Shirt,Apparel,45.0,12.0,350,0,0,cloudy,7
+2025-09-04,P004,Cotton T-Shirt,Apparel,60.0,12.0,290,0,0,rainy,7
+2025-09-05,P004,Cotton T-Shirt,Apparel,42.0,12.0,1048,0,0,cloudy,7
+2025-09-06,P004,Cotton T-Shirt,Apparel,68.0,12.0,980,0,0,rainy,7
+2025-09-07,P004,Cotton T-Shirt,Apparel,65.0,12.0,915,0,0,sunny,7
+2025-09-08,P004,Cotton T-Shirt,Apparel,52.0,12.0,863,0,0,rainy,7
+2025-09-09,P004,Cotton T-Shirt,Apparel,35.0,12.0,828,0,0,cloudy,7
+2025-09-10,P004,Cotton T-Shirt,Apparel,57.0,12.0,771,0,0,rainy,7
+2025-09-11,P004,Cotton T-Shirt,Apparel,36.0,12.0,735,0,0,sunny,7
+2025-09-12,P004,Cotton T-Shirt,Apparel,39.0,12.0,696,0,0,sunny,7
+2025-09-13,P004,Cotton T-Shirt,Apparel,53.0,12.0,643,0,0,rainy,7
+2025-09-14,P004,Cotton T-Shirt,Apparel,49.0,12.0,594,0,0,rainy,7
+2025-09-15,P004,Cotton T-Shirt,Apparel,47.0,12.0,547,0,0,rainy,7
+2025-09-16,P004,Cotton T-Shirt,Apparel,47.0,12.0,500,0,0,cloudy,7
+2025-09-17,P004,Cotton T-Shirt,Apparel,44.0,12.0,456,0,0,cloudy,7
+2025-09-18,P004,Cotton T-Shirt,Apparel,43.0,12.0,413,0,0,cloudy,7
+2025-09-19,P004,Cotton T-Shirt,Apparel,49.0,12.0,364,0,0,rainy,7
+2025-09-20,P004,Cotton T-Shirt,Apparel,54.0,12.0,310,0,0,sunny,7
+2025-09-21,P004,Cotton T-Shirt,Apparel,50.0,12.0,1060,0,0,sunny,7
+2025-09-22,P004,Cotton T-Shirt,Apparel,45.0,12.0,1015,0,0,sunny,7
+2025-09-23,P004,Cotton T-Shirt,Apparel,35.0,12.0,980,0,0,cloudy,7
+2025-09-24,P004,Cotton T-Shirt,Apparel,38.0,12.0,942,0,0,rainy,7
+2025-09-25,P004,Cotton T-Shirt,Apparel,53.0,12.0,889,0,0,cloudy,7
+2025-09-26,P004,Cotton T-Shirt,Apparel,40.0,12.0,849,0,0,cloudy,7
+2025-09-27,P004,Cotton T-Shirt,Apparel,51.0,12.0,798,0,0,cloudy,7
+2025-09-28,P004,Cotton T-Shirt,Apparel,63.0,12.0,735,0,0,sunny,7
+2025-09-29,P004,Cotton T-Shirt,Apparel,43.0,12.0,692,0,0,rainy,7
+2025-09-30,P004,Cotton T-Shirt,Apparel,49.0,12.0,643,0,0,rainy,7
+2025-10-01,P004,Cotton T-Shirt,Apparel,39.0,12.0,604,0,0,rainy,7
+2025-10-02,P004,Cotton T-Shirt,Apparel,64.0,12.0,540,0,1,rainy,7
+2025-10-03,P004,Cotton T-Shirt,Apparel,35.0,12.0,505,0,0,cloudy,7
+2025-10-04,P004,Cotton T-Shirt,Apparel,35.0,12.0,470,0,0,rainy,7
+2025-10-05,P004,Cotton T-Shirt,Apparel,50.0,12.0,420,0,0,cloudy,7
+2025-10-06,P004,Cotton T-Shirt,Apparel,,12.0,383,0,0,rainy,7
+2025-10-07,P004,Cotton T-Shirt,Apparel,29.0,12.0,354,0,0,cloudy,7
+2025-10-08,P004,Cotton T-Shirt,Apparel,38.0,12.0,316,0,0,rainy,7
+2025-10-09,P004,Cotton T-Shirt,Apparel,35.0,12.0,281,0,0,sunny,7
+2025-10-10,P004,Cotton T-Shirt,Apparel,29.0,12.0,1052,0,0,sunny,7
+2025-10-11,P004,Cotton T-Shirt,Apparel,67.0,10.2,985,1,0,sunny,7
+2025-10-12,P004,Cotton T-Shirt,Apparel,54.0,12.0,931,0,0,cloudy,7
+2025-10-13,P004,Cotton T-Shirt,Apparel,26.0,12.0,905,0,0,rainy,7
+2025-10-14,P004,Cotton T-Shirt,Apparel,46.0,12.0,859,0,0,cloudy,7
+2025-10-15,P004,Cotton T-Shirt,Apparel,41.0,12.0,818,0,0,rainy,7
+2025-10-16,P004,Cotton T-Shirt,Apparel,41.0,12.0,777,0,0,cloudy,7
+2025-10-17,P004,Cotton T-Shirt,Apparel,27.0,12.0,750,0,0,rainy,7
+2025-10-18,P004,Cotton T-Shirt,Apparel,60.0,12.0,690,0,0,rainy,7
+2025-10-19,P004,Cotton T-Shirt,Apparel,40.0,12.0,650,0,0,sunny,7
+2025-10-20,P004,Cotton T-Shirt,Apparel,31.0,12.0,619,0,0,rainy,7
+2025-10-21,P004,Cotton T-Shirt,Apparel,21.0,12.0,598,0,0,sunny,7
+2025-10-22,P004,Cotton T-Shirt,Apparel,38.0,12.0,560,0,0,cloudy,7
+2025-10-23,P004,Cotton T-Shirt,Apparel,25.0,12.0,535,0,0,cloudy,7
+2025-10-24,P004,Cotton T-Shirt,Apparel,27.0,12.0,508,0,0,sunny,7
+2025-10-25,P004,Cotton T-Shirt,Apparel,51.0,12.0,457,0,0,rainy,7
+2025-10-26,P004,Cotton T-Shirt,Apparel,46.0,12.0,411,0,0,cloudy,7
+2025-10-27,P004,Cotton T-Shirt,Apparel,27.0,12.0,384,0,0,sunny,7
+2025-10-28,P004,Cotton T-Shirt,Apparel,31.0,12.0,353,0,0,sunny,7
+2025-10-29,P004,Cotton T-Shirt,Apparel,32.0,12.0,321,0,0,sunny,7
+2025-10-30,P004,Cotton T-Shirt,Apparel,25.0,12.0,296,0,0,sunny,7
+2025-10-31,P004,Cotton T-Shirt,Apparel,34.0,12.0,1062,0,0,sunny,7
+2025-11-01,P004,Cotton T-Shirt,Apparel,54.0,12.0,1008,0,1,sunny,7
+2025-11-02,P004,Cotton T-Shirt,Apparel,45.0,12.0,963,0,0,rainy,7
+2025-11-03,P004,Cotton T-Shirt,Apparel,36.0,12.0,927,0,0,rainy,7
+2025-11-04,P004,Cotton T-Shirt,Apparel,20.0,12.0,907,0,0,rainy,7
+2025-11-05,P004,Cotton T-Shirt,Apparel,23.0,12.0,884,0,0,cloudy,7
+2025-11-06,P004,Cotton T-Shirt,Apparel,28.0,12.0,856,0,0,rainy,7
+2025-11-07,P004,Cotton T-Shirt,Apparel,22.0,12.0,834,0,0,rainy,7
+2025-11-08,P004,Cotton T-Shirt,Apparel,38.0,12.0,796,0,0,sunny,7
+2025-11-09,P004,Cotton T-Shirt,Apparel,28.0,12.0,768,0,0,rainy,7
+2025-11-10,P004,Cotton T-Shirt,Apparel,26.0,12.0,742,0,0,rainy,7
+2025-11-11,P004,Cotton T-Shirt,Apparel,25.0,12.0,717,0,0,cloudy,7
+2025-11-12,P004,Cotton T-Shirt,Apparel,35.0,12.0,682,0,0,cloudy,7
+2025-11-13,P004,Cotton T-Shirt,Apparel,32.0,12.0,650,0,0,cloudy,7
+2025-11-14,P004,Cotton T-Shirt,Apparel,20.0,12.0,630,0,0,sunny,7
+2025-11-15,P004,Cotton T-Shirt,Apparel,36.0,12.0,594,0,0,sunny,7
+2025-11-16,P004,Cotton T-Shirt,Apparel,31.0,12.0,563,0,0,sunny,7
+2025-11-17,P004,Cotton T-Shirt,Apparel,34.0,10.2,529,1,0,sunny,7
+2025-11-18,P004,Cotton T-Shirt,Apparel,22.0,12.0,507,0,0,cloudy,7
+2025-11-19,P004,Cotton T-Shirt,Apparel,25.0,12.0,482,0,0,cloudy,7
+2025-11-20,P004,Cotton T-Shirt,Apparel,30.0,12.0,452,0,0,sunny,7
+2025-11-21,P004,Cotton T-Shirt,Apparel,27.0,12.0,425,0,0,sunny,7
+2025-11-22,P004,Cotton T-Shirt,Apparel,33.0,12.0,392,0,0,rainy,7
+2025-11-23,P004,Cotton T-Shirt,Apparel,25.0,12.0,367,0,0,rainy,7
+2025-11-24,P004,Cotton T-Shirt,Apparel,25.0,12.0,342,0,0,cloudy,7
+2025-11-25,P004,Cotton T-Shirt,Apparel,29.0,12.0,313,0,0,rainy,7
+2025-11-26,P004,Cotton T-Shirt,Apparel,23.0,12.0,290,0,0,cloudy,7
+2025-11-27,P004,Cotton T-Shirt,Apparel,24.0,12.0,1066,0,0,sunny,7
+2025-11-28,P004,Cotton T-Shirt,Apparel,20.0,12.0,1046,0,0,rainy,7
+2025-11-29,P004,Cotton T-Shirt,Apparel,51.0,10.2,995,1,0,rainy,7
+2025-11-30,P004,Cotton T-Shirt,Apparel,51.0,10.2,944,1,0,cloudy,7
+2025-12-01,P004,Cotton T-Shirt,Apparel,35.0,10.2,909,1,0,cloudy,7
+2025-12-02,P004,Cotton T-Shirt,Apparel,27.0,12.0,882,0,0,sunny,7
+2025-12-03,P004,Cotton T-Shirt,Apparel,26.0,12.0,856,0,0,cloudy,7
+2025-12-04,P004,Cotton T-Shirt,Apparel,22.0,12.0,834,0,0,cloudy,7
+2025-12-05,P004,Cotton T-Shirt,Apparel,26.0,12.0,808,0,0,cloudy,7
+2025-12-06,P004,Cotton T-Shirt,Apparel,28.0,12.0,780,0,0,sunny,7
+2025-12-07,P004,Cotton T-Shirt,Apparel,35.0,12.0,745,0,0,rainy,7
+2025-12-08,P004,Cotton T-Shirt,Apparel,23.0,12.0,722,0,0,cloudy,7
+2025-12-09,P004,Cotton T-Shirt,Apparel,22.0,12.0,700,0,0,sunny,7
+2025-12-10,P004,Cotton T-Shirt,Apparel,24.0,12.0,676,0,0,rainy,7
+2025-12-11,P004,Cotton T-Shirt,Apparel,22.0,12.0,654,0,0,cloudy,7
+2025-12-12,P004,Cotton T-Shirt,Apparel,24.0,12.0,630,0,0,cloudy,7
+2025-12-13,P004,Cotton T-Shirt,Apparel,25.0,12.0,605,0,0,cloudy,7
+2025-12-14,P004,Cotton T-Shirt,Apparel,22.0,12.0,583,0,0,cloudy,7
+2025-12-15,P004,Cotton T-Shirt,Apparel,17.0,12.0,566,0,0,sunny,7
+2025-12-16,P004,Cotton T-Shirt,Apparel,25.0,12.0,541,0,0,sunny,7
+2025-12-17,P004,Cotton T-Shirt,Apparel,16.0,12.0,525,0,0,rainy,7
+2025-12-18,P004,Cotton T-Shirt,Apparel,13.0,12.0,512,0,0,cloudy,7
+2025-12-19,P004,Cotton T-Shirt,Apparel,16.0,10.2,496,1,0,cloudy,7
+2025-12-20,P004,Cotton T-Shirt,Apparel,52.0,10.2,444,1,0,sunny,7
+2025-12-21,P004,Cotton T-Shirt,Apparel,33.0,12.0,411,0,0,rainy,7
+2025-12-22,P004,Cotton T-Shirt,Apparel,26.0,10.2,385,1,0,rainy,7
+2025-12-23,P004,Cotton T-Shirt,Apparel,18.0,12.0,367,0,0,rainy,7
+2025-12-24,P004,Cotton T-Shirt,Apparel,17.0,10.2,350,1,0,cloudy,7
+2025-12-25,P004,Cotton T-Shirt,Apparel,124.0,12.0,1026,0,1,cloudy,7
+2025-12-26,P004,Cotton T-Shirt,Apparel,16.0,12.0,1010,0,0,rainy,7
+2025-12-27,P004,Cotton T-Shirt,Apparel,36.0,12.0,974,0,0,rainy,7
+2025-12-28,P004,Cotton T-Shirt,Apparel,24.0,12.0,950,0,0,cloudy,7
+2025-12-29,P004,Cotton T-Shirt,Apparel,24.0,10.2,926,1,0,rainy,7
+2025-12-30,P004,Cotton T-Shirt,Apparel,27.0,10.2,899,1,0,rainy,7
+2025-12-31,P004,Cotton T-Shirt,Apparel,27.0,12.0,872,0,0,rainy,7
+2026-01-01,P004,Cotton T-Shirt,Apparel,30.0,12.0,842,0,1,sunny,7
+2026-01-02,P004,Cotton T-Shirt,Apparel,31.0,12.0,811,0,0,sunny,7
+2026-01-03,P004,Cotton T-Shirt,Apparel,25.0,12.0,786,0,0,sunny,7
+2026-01-04,P004,Cotton T-Shirt,Apparel,11.0,12.0,775,0,0,rainy,7
+2026-01-05,P004,Cotton T-Shirt,Apparel,19.0,12.0,756,0,0,sunny,7
+2026-01-06,P004,Cotton T-Shirt,Apparel,26.0,12.0,730,0,0,sunny,7
+2026-01-07,P004,Cotton T-Shirt,Apparel,25.0,12.0,705,0,0,sunny,7
+2026-01-08,P004,Cotton T-Shirt,Apparel,19.0,12.0,686,0,0,sunny,7
+2026-01-09,P004,Cotton T-Shirt,Apparel,20.0,12.0,666,0,0,rainy,7
+2026-01-10,P004,Cotton T-Shirt,Apparel,33.0,12.0,633,0,0,rainy,7
+2026-01-11,P004,Cotton T-Shirt,Apparel,46.0,10.2,587,1,0,rainy,7
+2026-01-12,P004,Cotton T-Shirt,Apparel,24.0,12.0,563,0,0,sunny,7
+2026-01-13,P004,Cotton T-Shirt,Apparel,22.0,12.0,541,0,0,cloudy,7
+2026-01-14,P004,Cotton T-Shirt,Apparel,13.0,12.0,528,0,0,rainy,7
+2026-01-15,P004,Cotton T-Shirt,Apparel,25.0,12.0,503,0,0,cloudy,7
+2026-01-16,P004,Cotton T-Shirt,Apparel,21.0,12.0,482,0,0,rainy,7
+2026-01-17,P004,Cotton T-Shirt,Apparel,34.0,12.0,448,0,0,cloudy,7
+2026-01-18,P004,Cotton T-Shirt,Apparel,32.0,12.0,416,0,0,sunny,7
+2026-01-19,P004,Cotton T-Shirt,Apparel,28.0,12.0,388,0,0,cloudy,7
+2026-01-20,P004,Cotton T-Shirt,Apparel,26.0,12.0,362,0,0,rainy,7
+2026-01-21,P004,Cotton T-Shirt,Apparel,16.0,12.0,346,0,0,rainy,7
+2026-01-22,P004,Cotton T-Shirt,Apparel,30.0,12.0,316,0,0,cloudy,7
+2026-01-23,P004,Cotton T-Shirt,Apparel,28.0,12.0,288,0,0,cloudy,7
+2026-01-24,P004,Cotton T-Shirt,Apparel,31.0,12.0,1057,0,0,rainy,7
+2026-01-25,P004,Cotton T-Shirt,Apparel,42.0,12.0,1015,0,0,rainy,7
+2026-01-26,P004,Cotton T-Shirt,Apparel,29.0,12.0,986,0,1,cloudy,7
+2026-01-27,P004,Cotton T-Shirt,Apparel,31.0,12.0,955,0,0,sunny,7
+2026-01-28,P004,Cotton T-Shirt,Apparel,27.0,12.0,928,0,0,rainy,7
+2026-01-29,P004,Cotton T-Shirt,Apparel,20.0,12.0,908,0,0,rainy,7
+2026-01-30,P004,Cotton T-Shirt,Apparel,22.0,12.0,886,0,0,sunny,7
+2026-01-31,P004,Cotton T-Shirt,Apparel,35.0,12.0,851,0,0,sunny,7
+2026-02-01,P004,Cotton T-Shirt,Apparel,27.0,12.0,824,0,0,sunny,7
+2026-02-02,P004,Cotton T-Shirt,Apparel,12.0,12.0,812,0,0,cloudy,7
+2026-02-03,P004,Cotton T-Shirt,Apparel,29.0,12.0,783,0,0,sunny,7
+2026-02-04,P004,Cotton T-Shirt,Apparel,26.0,12.0,757,0,0,rainy,7
+2026-02-05,P004,Cotton T-Shirt,Apparel,35.0,12.0,722,0,0,rainy,7
+2026-02-06,P004,Cotton T-Shirt,Apparel,25.0,12.0,697,0,0,sunny,7
+2026-02-07,P004,Cotton T-Shirt,Apparel,31.0,12.0,666,0,0,rainy,7
+2026-02-08,P004,Cotton T-Shirt,Apparel,32.0,12.0,634,0,0,sunny,7
+2026-02-09,P004,Cotton T-Shirt,Apparel,27.0,12.0,607,0,0,rainy,7
+2026-02-10,P004,Cotton T-Shirt,Apparel,29.0,12.0,578,0,0,cloudy,7
+2026-02-11,P004,Cotton T-Shirt,Apparel,43.0,10.2,535,1,0,sunny,7
+2026-02-12,P004,Cotton T-Shirt,Apparel,33.0,12.0,502,0,0,cloudy,7
+2026-02-13,P004,Cotton T-Shirt,Apparel,40.0,10.2,462,1,0,rainy,7
+2026-02-14,P004,Cotton T-Shirt,Apparel,,12.0,429,0,0,rainy,7
+2026-02-15,P004,Cotton T-Shirt,Apparel,35.0,12.0,394,0,0,sunny,7
+2026-02-16,P004,Cotton T-Shirt,Apparel,23.0,12.0,371,0,0,rainy,7
+2026-02-17,P004,Cotton T-Shirt,Apparel,30.0,12.0,341,0,0,sunny,7
+2026-02-18,P004,Cotton T-Shirt,Apparel,35.0,12.0,306,0,0,cloudy,7
+2026-02-19,P004,Cotton T-Shirt,Apparel,30.0,12.0,1076,0,0,sunny,7
+2026-02-20,P004,Cotton T-Shirt,Apparel,30.0,12.0,1046,0,0,rainy,7
+2026-02-21,P004,Cotton T-Shirt,Apparel,41.0,12.0,1005,0,0,rainy,7
+2026-02-22,P004,Cotton T-Shirt,Apparel,39.0,12.0,966,0,0,cloudy,7
+2026-02-23,P004,Cotton T-Shirt,Apparel,29.0,12.0,937,0,0,rainy,7
+2026-02-24,P004,Cotton T-Shirt,Apparel,33.0,12.0,904,0,0,rainy,7
+2026-02-25,P004,Cotton T-Shirt,Apparel,36.0,12.0,868,0,0,sunny,7
+2026-02-26,P004,Cotton T-Shirt,Apparel,26.0,12.0,842,0,0,sunny,7
+2026-02-27,P004,Cotton T-Shirt,Apparel,30.0,12.0,812,0,0,sunny,7
+2026-02-28,P004,Cotton T-Shirt,Apparel,49.0,12.0,763,0,0,cloudy,7
+2026-03-01,P004,Cotton T-Shirt,Apparel,40.0,12.0,723,0,0,cloudy,7
+2026-03-02,P004,Cotton T-Shirt,Apparel,30.0,12.0,693,0,0,sunny,7
+2026-03-03,P004,Cotton T-Shirt,Apparel,28.0,12.0,665,0,0,cloudy,7
+2026-03-04,P004,Cotton T-Shirt,Apparel,26.0,12.0,639,0,0,sunny,7
+2026-03-05,P004,Cotton T-Shirt,Apparel,32.0,12.0,607,0,0,rainy,7
+2026-03-06,P004,Cotton T-Shirt,Apparel,29.0,12.0,578,0,0,rainy,7
+2026-03-07,P004,Cotton T-Shirt,Apparel,42.0,12.0,536,0,0,rainy,7
+2026-03-08,P004,Cotton T-Shirt,Apparel,43.0,12.0,493,0,0,sunny,7
+2026-03-09,P004,Cotton T-Shirt,Apparel,34.0,12.0,459,0,0,rainy,7
+2026-03-10,P004,Cotton T-Shirt,Apparel,34.0,12.0,425,0,0,cloudy,7
+2026-03-11,P004,Cotton T-Shirt,Apparel,45.0,12.0,380,0,0,rainy,7
+2026-03-12,P004,Cotton T-Shirt,Apparel,37.0,12.0,343,0,0,rainy,7
+2026-03-13,P004,Cotton T-Shirt,Apparel,39.0,12.0,304,0,0,cloudy,7
+2026-03-14,P004,Cotton T-Shirt,Apparel,54.0,12.0,1050,0,0,sunny,7
+2026-03-15,P004,Cotton T-Shirt,Apparel,43.0,12.0,1007,0,0,rainy,7
+2026-03-16,P004,Cotton T-Shirt,Apparel,44.0,12.0,963,0,0,cloudy,7
+2026-03-17,P004,Cotton T-Shirt,Apparel,47.0,12.0,916,0,0,rainy,7
+2026-03-18,P004,Cotton T-Shirt,Apparel,39.0,12.0,877,0,0,rainy,7
+2026-03-19,P004,Cotton T-Shirt,Apparel,51.0,12.0,826,0,0,sunny,7
+2026-03-20,P004,Cotton T-Shirt,Apparel,34.0,12.0,792,0,0,rainy,7
+2026-03-21,P004,Cotton T-Shirt,Apparel,73.0,10.2,719,1,0,sunny,7
+2026-03-22,P004,Cotton T-Shirt,Apparel,40.0,12.0,679,0,0,sunny,7
+2026-03-23,P004,Cotton T-Shirt,Apparel,54.0,12.0,625,0,0,sunny,7
+2026-03-24,P004,Cotton T-Shirt,Apparel,39.0,12.0,586,0,0,rainy,7
+2026-03-25,P004,Cotton T-Shirt,Apparel,65.0,10.2,521,1,0,sunny,7
+2026-03-26,P004,Cotton T-Shirt,Apparel,45.0,12.0,476,0,0,rainy,7
+2026-03-27,P004,Cotton T-Shirt,Apparel,51.0,10.2,425,1,0,sunny,7
+2026-03-28,P004,Cotton T-Shirt,Apparel,48.0,12.0,377,0,0,cloudy,7
+2026-03-29,P004,Cotton T-Shirt,Apparel,63.0,12.0,314,0,0,sunny,7
+2026-03-30,P004,Cotton T-Shirt,Apparel,37.0,12.0,1077,0,0,cloudy,7
+2026-03-31,P004,Cotton T-Shirt,Apparel,43.0,12.0,1034,0,0,cloudy,7
+2026-04-01,P004,Cotton T-Shirt,Apparel,41.0,12.0,993,0,0,rainy,7
+2026-04-02,P004,Cotton T-Shirt,Apparel,48.0,12.0,945,0,0,rainy,7
+2026-04-03,P004,Cotton T-Shirt,Apparel,53.0,12.0,892,0,0,rainy,7
+2026-04-04,P004,Cotton T-Shirt,Apparel,52.0,12.0,840,0,0,cloudy,7
+2026-04-05,P004,Cotton T-Shirt,Apparel,65.0,12.0,775,0,0,sunny,7
+2026-04-06,P004,Cotton T-Shirt,Apparel,45.0,12.0,730,0,0,sunny,7
+2026-04-07,P004,Cotton T-Shirt,Apparel,49.0,12.0,681,0,0,rainy,7
+2026-04-08,P004,Cotton T-Shirt,Apparel,47.0,12.0,634,0,0,cloudy,7
+2026-04-09,P004,Cotton T-Shirt,Apparel,41.0,12.0,593,0,0,rainy,7
+2026-04-10,P004,Cotton T-Shirt,Apparel,43.0,12.0,550,0,0,cloudy,7
+2026-04-11,P004,Cotton T-Shirt,Apparel,60.0,12.0,490,0,0,cloudy,7
+2026-04-12,P004,Cotton T-Shirt,Apparel,85.0,10.2,405,1,0,rainy,7
+2026-04-13,P004,Cotton T-Shirt,Apparel,41.0,12.0,364,0,0,rainy,7
+2026-04-14,P004,Cotton T-Shirt,Apparel,52.0,12.0,312,0,0,sunny,7
+2026-04-15,P004,Cotton T-Shirt,Apparel,52.0,12.0,1060,0,0,cloudy,7
+2026-04-16,P004,Cotton T-Shirt,Apparel,45.0,12.0,1015,0,0,sunny,7
+2026-04-17,P004,Cotton T-Shirt,Apparel,54.0,12.0,961,0,0,rainy,7
+2026-04-18,P004,Cotton T-Shirt,Apparel,60.0,12.0,901,0,0,sunny,7
+2026-04-19,P004,Cotton T-Shirt,Apparel,59.0,12.0,842,0,0,rainy,7
+2026-04-20,P004,Cotton T-Shirt,Apparel,52.0,12.0,790,0,0,rainy,7
+2026-04-21,P004,Cotton T-Shirt,Apparel,46.0,12.0,744,0,0,sunny,7
+2026-04-22,P004,Cotton T-Shirt,Apparel,46.0,12.0,698,0,0,cloudy,7
+2026-04-23,P004,Cotton T-Shirt,Apparel,56.0,12.0,642,0,0,sunny,7
+2026-04-24,P004,Cotton T-Shirt,Apparel,60.0,12.0,582,0,0,cloudy,7
+2026-04-25,P004,Cotton T-Shirt,Apparel,67.0,12.0,515,0,0,cloudy,7
+2026-04-26,P004,Cotton T-Shirt,Apparel,76.0,12.0,439,0,0,cloudy,7
+2026-04-27,P004,Cotton T-Shirt,Apparel,47.0,12.0,392,0,0,rainy,7
+2026-04-28,P004,Cotton T-Shirt,Apparel,58.0,12.0,334,0,0,cloudy,7
+2026-04-29,P004,Cotton T-Shirt,Apparel,34.0,12.0,300,0,0,cloudy,7
+2026-04-30,P004,Cotton T-Shirt,Apparel,53.0,12.0,1047,0,0,sunny,7
+2026-05-01,P004,Cotton T-Shirt,Apparel,53.0,12.0,994,0,0,rainy,7
+2026-05-02,P004,Cotton T-Shirt,Apparel,62.0,12.0,932,0,0,sunny,7
+2026-05-03,P004,Cotton T-Shirt,Apparel,76.0,12.0,856,0,0,cloudy,7
+2026-05-04,P004,Cotton T-Shirt,Apparel,37.0,12.0,819,0,0,sunny,7
+2026-05-05,P004,Cotton T-Shirt,Apparel,43.0,12.0,776,0,0,sunny,7
+2026-05-06,P004,Cotton T-Shirt,Apparel,45.0,12.0,731,0,0,cloudy,7
+2026-05-07,P004,Cotton T-Shirt,Apparel,72.0,12.0,659,0,0,rainy,7
+2026-05-08,P004,Cotton T-Shirt,Apparel,61.0,12.0,598,0,0,sunny,7
+2026-05-09,P004,Cotton T-Shirt,Apparel,70.0,12.0,528,0,0,cloudy,7
+2026-05-10,P004,Cotton T-Shirt,Apparel,66.0,12.0,462,0,0,rainy,7
+2026-05-11,P004,Cotton T-Shirt,Apparel,61.0,12.0,401,0,0,cloudy,7
+2026-05-12,P004,Cotton T-Shirt,Apparel,69.0,12.0,332,0,0,sunny,7
+2026-05-13,P004,Cotton T-Shirt,Apparel,48.0,12.0,284,0,0,sunny,7
+2026-05-14,P004,Cotton T-Shirt,Apparel,61.0,12.0,1023,0,0,rainy,7
+2026-05-15,P004,Cotton T-Shirt,Apparel,54.0,12.0,969,0,0,sunny,7
+2026-05-16,P004,Cotton T-Shirt,Apparel,79.0,12.0,890,0,0,sunny,7
+2026-05-17,P004,Cotton T-Shirt,Apparel,67.0,12.0,823,0,0,sunny,7
+2026-05-18,P004,Cotton T-Shirt,Apparel,67.0,12.0,756,0,0,rainy,7
+2026-05-19,P004,Cotton T-Shirt,Apparel,49.0,12.0,707,0,0,cloudy,7
+2026-05-20,P004,Cotton T-Shirt,Apparel,58.0,12.0,649,0,0,rainy,7
+2026-05-21,P004,Cotton T-Shirt,Apparel,57.0,12.0,592,0,0,cloudy,7
+2026-05-22,P004,Cotton T-Shirt,Apparel,62.0,12.0,530,0,0,sunny,7
+2026-05-23,P004,Cotton T-Shirt,Apparel,69.0,12.0,461,0,0,sunny,7
+2026-05-24,P004,Cotton T-Shirt,Apparel,77.0,12.0,384,0,0,sunny,7
+2026-05-25,P004,Cotton T-Shirt,Apparel,65.0,12.0,319,0,0,sunny,7
+2026-05-26,P004,Cotton T-Shirt,Apparel,62.0,12.0,1057,0,0,cloudy,7
+2026-05-27,P004,Cotton T-Shirt,Apparel,52.0,12.0,1005,0,0,sunny,7
+2026-05-28,P004,Cotton T-Shirt,Apparel,57.0,12.0,948,0,0,sunny,7
+2026-05-29,P004,Cotton T-Shirt,Apparel,55.0,12.0,893,0,0,cloudy,7
+2026-05-30,P004,Cotton T-Shirt,Apparel,112.0,10.2,781,1,0,cloudy,7
+2026-05-31,P004,Cotton T-Shirt,Apparel,77.0,12.0,704,0,0,rainy,7
+2026-06-01,P004,Cotton T-Shirt,Apparel,62.0,12.0,642,0,0,cloudy,7
+2026-06-02,P004,Cotton T-Shirt,Apparel,60.0,12.0,582,0,0,cloudy,7
+2026-06-03,P004,Cotton T-Shirt,Apparel,75.0,12.0,507,0,0,cloudy,7
+2026-06-04,P004,Cotton T-Shirt,Apparel,65.0,12.0,442,0,0,sunny,7
+2026-06-05,P004,Cotton T-Shirt,Apparel,90.0,10.2,352,1,0,cloudy,7
+2026-06-06,P004,Cotton T-Shirt,Apparel,75.0,12.0,1077,0,0,cloudy,7
+2026-06-07,P004,Cotton T-Shirt,Apparel,100.0,12.0,977,0,0,sunny,7
+2026-06-08,P004,Cotton T-Shirt,Apparel,57.0,12.0,920,0,0,rainy,7
+2026-06-09,P004,Cotton T-Shirt,Apparel,68.0,12.0,852,0,0,cloudy,7
+2026-06-10,P004,Cotton T-Shirt,Apparel,72.0,12.0,780,0,0,rainy,7
+2026-06-11,P004,Cotton T-Shirt,Apparel,73.0,12.0,707,0,0,sunny,7
+2026-06-12,P004,Cotton T-Shirt,Apparel,54.0,12.0,653,0,0,rainy,7
+2026-06-13,P004,Cotton T-Shirt,Apparel,97.0,12.0,556,0,0,cloudy,7
+2026-06-14,P004,Cotton T-Shirt,Apparel,111.0,10.2,445,1,0,rainy,7
+2026-06-15,P004,Cotton T-Shirt,Apparel,81.0,12.0,364,0,0,cloudy,7
+2026-06-16,P004,Cotton T-Shirt,Apparel,74.0,12.0,290,0,0,cloudy,7
+2026-06-17,P004,Cotton T-Shirt,Apparel,81.0,12.0,1009,0,0,sunny,7
+2026-06-18,P004,Cotton T-Shirt,Apparel,75.0,12.0,934,0,0,rainy,7
+2026-06-19,P004,Cotton T-Shirt,Apparel,61.0,12.0,873,0,0,sunny,7
+2026-06-20,P004,Cotton T-Shirt,Apparel,83.0,12.0,790,0,0,sunny,7
+2026-06-21,P004,Cotton T-Shirt,Apparel,105.0,12.0,685,0,0,cloudy,7
+2026-06-22,P004,Cotton T-Shirt,Apparel,77.0,12.0,608,0,0,rainy,7
+2026-06-23,P004,Cotton T-Shirt,Apparel,70.0,12.0,538,0,0,rainy,7
+2026-06-24,P004,Cotton T-Shirt,Apparel,70.0,12.0,468,0,0,rainy,7
+2026-06-25,P004,Cotton T-Shirt,Apparel,61.0,12.0,407,0,0,cloudy,7
+2026-06-26,P004,Cotton T-Shirt,Apparel,58.0,12.0,349,0,0,rainy,7
+2026-06-27,P004,Cotton T-Shirt,Apparel,90.0,12.0,1059,0,0,cloudy,7
+2026-06-28,P004,Cotton T-Shirt,Apparel,88.0,12.0,971,0,0,cloudy,7
+2026-06-29,P004,Cotton T-Shirt,Apparel,63.0,12.0,908,0,0,sunny,7
+2026-06-30,P004,Cotton T-Shirt,Apparel,65.0,12.0,843,0,0,rainy,7
+2026-07-01,P004,Cotton T-Shirt,Apparel,67.0,12.0,776,0,0,sunny,7
+2026-07-02,P004,Cotton T-Shirt,Apparel,84.0,10.2,692,1,0,sunny,7
+2026-07-03,P004,Cotton T-Shirt,Apparel,61.0,12.0,631,0,0,cloudy,7
+2026-07-04,P004,Cotton T-Shirt,Apparel,96.0,12.0,535,0,0,cloudy,7
+2026-07-05,P004,Cotton T-Shirt,Apparel,84.0,12.0,451,0,0,sunny,7
+2026-07-06,P004,Cotton T-Shirt,Apparel,74.0,12.0,377,0,0,cloudy,7
+2026-07-07,P004,Cotton T-Shirt,Apparel,85.0,10.2,292,1,0,sunny,7
+2026-07-08,P004,Cotton T-Shirt,Apparel,64.0,12.0,1028,0,0,cloudy,7
+2026-07-09,P004,Cotton T-Shirt,Apparel,57.0,12.0,971,0,0,rainy,7
+2026-07-10,P004,Cotton T-Shirt,Apparel,69.0,12.0,902,0,0,rainy,7
+2026-07-11,P004,Cotton T-Shirt,Apparel,86.0,12.0,816,0,0,sunny,7
+2026-07-12,P004,Cotton T-Shirt,Apparel,79.0,12.0,737,0,0,cloudy,7
+2026-07-13,P004,Cotton T-Shirt,Apparel,76.0,12.0,661,0,0,cloudy,7
+2026-07-14,P004,Cotton T-Shirt,Apparel,58.0,12.0,603,0,0,sunny,7
+2026-07-15,P004,Cotton T-Shirt,Apparel,76.0,10.2,527,1,0,sunny,7
+2026-07-16,P004,Cotton T-Shirt,Apparel,62.0,12.0,465,0,0,sunny,7
+2026-07-17,P004,Cotton T-Shirt,Apparel,65.0,12.0,400,0,0,rainy,7
+2026-07-18,P004,Cotton T-Shirt,Apparel,82.0,12.0,318,0,0,cloudy,7
+2026-07-19,P004,Cotton T-Shirt,Apparel,83.0,12.0,1035,0,0,sunny,7
+2026-07-20,P004,Cotton T-Shirt,Apparel,67.0,12.0,968,0,0,rainy,7
+2026-07-21,P004,Cotton T-Shirt,Apparel,66.0,12.0,902,0,0,sunny,7
+2026-07-22,P004,Cotton T-Shirt,Apparel,55.0,12.0,847,0,0,rainy,7
+2026-07-23,P004,Cotton T-Shirt,Apparel,51.0,12.0,796,0,0,cloudy,7
+2026-07-24,P004,Cotton T-Shirt,Apparel,48.0,12.0,748,0,0,sunny,7
+2026-07-25,P004,Cotton T-Shirt,Apparel,93.0,12.0,655,0,0,cloudy,7
+2026-07-26,P004,Cotton T-Shirt,Apparel,112.0,10.2,543,1,0,rainy,7
+2026-07-27,P004,Cotton T-Shirt,Apparel,78.0,12.0,465,0,0,cloudy,7
+2026-07-28,P004,Cotton T-Shirt,Apparel,54.0,12.0,411,0,0,rainy,7
+2026-07-29,P004,Cotton T-Shirt,Apparel,68.0,12.0,343,0,0,rainy,7
+2026-07-30,P004,Cotton T-Shirt,Apparel,71.0,12.0,1072,0,0,sunny,7
+2026-07-31,P004,Cotton T-Shirt,Apparel,65.0,12.0,1007,0,0,rainy,7
+2026-08-01,P004,Cotton T-Shirt,Apparel,87.0,12.0,920,0,0,cloudy,7
+2026-08-02,P004,Cotton T-Shirt,Apparel,98.0,12.0,822,0,0,rainy,7
+2026-08-03,P004,Cotton T-Shirt,Apparel,58.0,12.0,764,0,0,cloudy,7
+2026-08-04,P004,Cotton T-Shirt,Apparel,67.0,12.0,697,0,0,cloudy,7
+2026-08-05,P004,Cotton T-Shirt,Apparel,63.0,12.0,634,0,0,cloudy,7
+2026-08-06,P004,Cotton T-Shirt,Apparel,58.0,12.0,576,0,0,rainy,7
+2026-08-07,P004,Cotton T-Shirt,Apparel,65.0,12.0,511,0,0,sunny,7
+2026-08-08,P004,Cotton T-Shirt,Apparel,77.0,12.0,434,0,0,rainy,7
+2026-08-09,P004,Cotton T-Shirt,Apparel,92.0,12.0,342,0,0,sunny,7
+2026-08-10,P004,Cotton T-Shirt,Apparel,68.0,12.0,1074,0,0,rainy,7
+2026-08-11,P004,Cotton T-Shirt,Apparel,58.0,12.0,1016,0,0,sunny,7
+2026-08-12,P004,Cotton T-Shirt,Apparel,56.0,12.0,960,0,0,sunny,7
+2026-08-13,P004,Cotton T-Shirt,Apparel,54.0,12.0,906,0,0,sunny,7
+2026-08-14,P004,Cotton T-Shirt,Apparel,55.0,12.0,851,0,0,cloudy,7
+2026-08-15,P004,Cotton T-Shirt,Apparel,106.0,12.0,745,0,1,sunny,7
+2026-08-16,P004,Cotton T-Shirt,Apparel,68.0,12.0,677,0,0,cloudy,7
+2026-08-17,P004,Cotton T-Shirt,Apparel,46.0,12.0,631,0,0,rainy,7
+2026-08-18,P004,Cotton T-Shirt,Apparel,59.0,12.0,572,0,0,sunny,7
+2026-08-19,P004,Cotton T-Shirt,Apparel,69.0,12.0,503,0,0,cloudy,7
+2026-08-20,P004,Cotton T-Shirt,Apparel,51.0,12.0,452,0,0,rainy,7
+2026-08-21,P004,Cotton T-Shirt,Apparel,54.0,12.0,398,0,0,cloudy,7
+2026-08-22,P004,Cotton T-Shirt,Apparel,75.0,12.0,323,0,0,rainy,7
+2026-08-23,P004,Cotton T-Shirt,Apparel,66.0,12.0,1057,0,0,cloudy,7
+2026-08-24,P004,Cotton T-Shirt,Apparel,81.0,10.2,976,1,0,sunny,7
+2026-08-25,P004,Cotton T-Shirt,Apparel,54.0,12.0,922,0,0,cloudy,7
+2026-08-26,P004,Cotton T-Shirt,Apparel,60.0,12.0,862,0,0,cloudy,7
+2026-08-27,P004,Cotton T-Shirt,Apparel,56.0,12.0,806,0,0,sunny,7
+2026-08-28,P004,Cotton T-Shirt,Apparel,87.0,10.2,719,1,0,rainy,7
+2026-08-29,P004,Cotton T-Shirt,Apparel,73.0,12.0,646,0,0,sunny,7
+2026-08-30,P004,Cotton T-Shirt,Apparel,68.0,12.0,578,0,0,sunny,7
+2026-08-31,P004,Cotton T-Shirt,Apparel,60.0,12.0,200,0,0,sunny,7
+2025-09-01,P005,Sunscreen SPF50,Personal Care,23.0,11.0,241,0,0,cloudy,6
+2025-09-02,P005,Sunscreen SPF50,Personal Care,14.0,11.0,227,0,0,rainy,6
+2025-09-03,P005,Sunscreen SPF50,Personal Care,13.0,11.0,214,0,0,rainy,6
+2025-09-04,P005,Sunscreen SPF50,Personal Care,17.0,11.0,197,0,0,cloudy,6
+2025-09-05,P005,Sunscreen SPF50,Personal Care,18.0,11.0,179,0,0,sunny,6
+2025-09-06,P005,Sunscreen SPF50,Personal Care,22.0,11.0,157,0,0,sunny,6
+2025-09-07,P005,Sunscreen SPF50,Personal Care,18.0,11.0,139,0,0,cloudy,6
+2025-09-08,P005,Sunscreen SPF50,Personal Care,27.0,11.0,376,0,0,rainy,6
+2025-09-09,P005,Sunscreen SPF50,Personal Care,18.0,11.0,358,0,0,cloudy,6
+2025-09-10,P005,Sunscreen SPF50,Personal Care,17.0,11.0,341,0,0,sunny,6
+2025-09-11,P005,Sunscreen SPF50,Personal Care,14.0,11.0,327,0,0,rainy,6
+2025-09-12,P005,Sunscreen SPF50,Personal Care,20.0,11.0,307,0,0,sunny,6
+2025-09-13,P005,Sunscreen SPF50,Personal Care,11.0,11.0,296,0,0,cloudy,6
+2025-09-14,P005,Sunscreen SPF50,Personal Care,11.0,11.0,285,0,0,sunny,6
+2025-09-15,P005,Sunscreen SPF50,Personal Care,16.0,11.0,269,0,0,sunny,6
+2025-09-16,P005,Sunscreen SPF50,Personal Care,15.0,11.0,254,0,0,rainy,6
+2025-09-17,P005,Sunscreen SPF50,Personal Care,14.0,11.0,240,0,0,rainy,6
+2025-09-18,P005,Sunscreen SPF50,Personal Care,14.0,11.0,226,0,0,sunny,6
+2025-09-19,P005,Sunscreen SPF50,Personal Care,16.0,11.0,210,0,0,sunny,6
+2025-09-20,P005,Sunscreen SPF50,Personal Care,18.0,11.0,192,0,0,cloudy,6
+2025-09-21,P005,Sunscreen SPF50,Personal Care,13.0,11.0,179,0,0,rainy,6
+2025-09-22,P005,Sunscreen SPF50,Personal Care,9.0,11.0,170,0,0,cloudy,6
+2025-09-23,P005,Sunscreen SPF50,Personal Care,17.0,11.0,153,0,0,rainy,6
+2025-09-24,P005,Sunscreen SPF50,Personal Care,10.0,11.0,143,0,0,cloudy,6
+2025-09-25,P005,Sunscreen SPF50,Personal Care,18.0,11.0,389,0,0,cloudy,6
+2025-09-26,P005,Sunscreen SPF50,Personal Care,6.0,11.0,383,0,0,sunny,6
+2025-09-27,P005,Sunscreen SPF50,Personal Care,15.0,11.0,368,0,0,rainy,6
+2025-09-28,P005,Sunscreen SPF50,Personal Care,19.0,11.0,349,0,0,rainy,6
+2025-09-29,P005,Sunscreen SPF50,Personal Care,11.0,11.0,338,0,0,sunny,6
+2025-09-30,P005,Sunscreen SPF50,Personal Care,19.0,11.0,319,0,0,rainy,6
+2025-10-01,P005,Sunscreen SPF50,Personal Care,16.0,11.0,303,0,0,rainy,6
+2025-10-02,P005,Sunscreen SPF50,Personal Care,19.0,11.0,284,0,1,cloudy,6
+2025-10-03,P005,Sunscreen SPF50,Personal Care,12.0,11.0,272,0,0,rainy,6
+2025-10-04,P005,Sunscreen SPF50,Personal Care,13.0,11.0,259,0,0,cloudy,6
+2025-10-05,P005,Sunscreen SPF50,Personal Care,14.0,11.0,245,0,0,sunny,6
+2025-10-06,P005,Sunscreen SPF50,Personal Care,8.0,11.0,237,0,0,rainy,6
+2025-10-07,P005,Sunscreen SPF50,Personal Care,7.0,11.0,230,0,0,sunny,6
+2025-10-08,P005,Sunscreen SPF50,Personal Care,9.0,11.0,221,0,0,rainy,6
+2025-10-09,P005,Sunscreen SPF50,Personal Care,6.0,11.0,215,0,0,sunny,6
+2025-10-10,P005,Sunscreen SPF50,Personal Care,15.0,9.35,200,1,0,cloudy,6
+2025-10-11,P005,Sunscreen SPF50,Personal Care,9.0,11.0,191,0,0,rainy,6
+2025-10-12,P005,Sunscreen SPF50,Personal Care,10.0,11.0,181,0,0,cloudy,6
+2025-10-13,P005,Sunscreen SPF50,Personal Care,9.0,11.0,172,0,0,rainy,6
+2025-10-14,P005,Sunscreen SPF50,Personal Care,13.0,11.0,159,0,0,sunny,6
+2025-10-15,P005,Sunscreen SPF50,Personal Care,4.0,11.0,155,0,0,sunny,6
+2025-10-16,P005,Sunscreen SPF50,Personal Care,10.0,11.0,145,0,0,sunny,6
+2025-10-17,P005,Sunscreen SPF50,Personal Care,10.0,11.0,135,0,0,sunny,6
+2025-10-18,P005,Sunscreen SPF50,Personal Care,8.0,11.0,391,0,0,sunny,6
+2025-10-19,P005,Sunscreen SPF50,Personal Care,10.0,11.0,381,0,0,cloudy,6
+2025-10-20,P005,Sunscreen SPF50,Personal Care,11.0,9.35,370,1,0,sunny,6
+2025-10-21,P005,Sunscreen SPF50,Personal Care,10.0,11.0,360,0,0,rainy,6
+2025-10-22,P005,Sunscreen SPF50,Personal Care,13.0,11.0,347,0,0,sunny,6
+2025-10-23,P005,Sunscreen SPF50,Personal Care,7.0,11.0,340,0,0,rainy,6
+2025-10-24,P005,Sunscreen SPF50,Personal Care,3.0,11.0,337,0,0,rainy,6
+2025-10-25,P005,Sunscreen SPF50,Personal Care,7.0,11.0,330,0,0,rainy,6
+2025-10-26,P005,Sunscreen SPF50,Personal Care,7.0,11.0,323,0,0,rainy,6
+2025-10-27,P005,Sunscreen SPF50,Personal Care,12.0,11.0,311,0,0,rainy,6
+2025-10-28,P005,Sunscreen SPF50,Personal Care,4.0,11.0,307,0,0,rainy,6
+2025-10-29,P005,Sunscreen SPF50,Personal Care,10.0,11.0,297,0,0,cloudy,6
+2025-10-30,P005,Sunscreen SPF50,Personal Care,5.0,11.0,292,0,0,cloudy,6
+2025-10-31,P005,Sunscreen SPF50,Personal Care,12.0,11.0,280,0,0,cloudy,6
+2025-11-01,P005,Sunscreen SPF50,Personal Care,20.0,11.0,260,0,1,cloudy,6
+2025-11-02,P005,Sunscreen SPF50,Personal Care,6.0,11.0,254,0,0,cloudy,6
+2025-11-03,P005,Sunscreen SPF50,Personal Care,5.0,11.0,249,0,0,sunny,6
+2025-11-04,P005,Sunscreen SPF50,Personal Care,7.0,11.0,242,0,0,rainy,6
+2025-11-05,P005,Sunscreen SPF50,Personal Care,7.0,11.0,235,0,0,rainy,6
+2025-11-06,P005,Sunscreen SPF50,Personal Care,7.0,11.0,228,0,0,rainy,6
+2025-11-07,P005,Sunscreen SPF50,Personal Care,3.0,11.0,225,0,0,sunny,6
+2025-11-08,P005,Sunscreen SPF50,Personal Care,3.0,11.0,222,0,0,rainy,6
+2025-11-09,P005,Sunscreen SPF50,Personal Care,5.0,11.0,217,0,0,cloudy,6
+2025-11-10,P005,Sunscreen SPF50,Personal Care,7.0,11.0,210,0,0,sunny,6
+2025-11-11,P005,Sunscreen SPF50,Personal Care,5.0,11.0,205,0,0,rainy,6
+2025-11-12,P005,Sunscreen SPF50,Personal Care,5.0,11.0,200,0,0,rainy,6
+2025-11-13,P005,Sunscreen SPF50,Personal Care,6.0,11.0,194,0,0,rainy,6
+2025-11-14,P005,Sunscreen SPF50,Personal Care,5.0,11.0,189,0,0,cloudy,6
+2025-11-15,P005,Sunscreen SPF50,Personal Care,9.0,11.0,180,0,0,sunny,6
+2025-11-16,P005,Sunscreen SPF50,Personal Care,7.0,11.0,173,0,0,sunny,6
+2025-11-17,P005,Sunscreen SPF50,Personal Care,7.0,9.35,166,1,0,rainy,6
+2025-11-18,P005,Sunscreen SPF50,Personal Care,4.0,11.0,162,0,0,rainy,6
+2025-11-19,P005,Sunscreen SPF50,Personal Care,6.0,11.0,156,0,0,sunny,6
+2025-11-20,P005,Sunscreen SPF50,Personal Care,6.0,11.0,150,0,0,rainy,6
+2025-11-21,P005,Sunscreen SPF50,Personal Care,7.0,11.0,143,0,0,sunny,6
+2025-11-22,P005,Sunscreen SPF50,Personal Care,11.0,11.0,132,0,0,rainy,6
+2025-11-23,P005,Sunscreen SPF50,Personal Care,12.0,11.0,384,0,0,sunny,6
+2025-11-24,P005,Sunscreen SPF50,Personal Care,9.0,9.35,375,1,0,rainy,6
+2025-11-25,P005,Sunscreen SPF50,Personal Care,5.0,11.0,370,0,0,sunny,6
+2025-11-26,P005,Sunscreen SPF50,Personal Care,6.0,11.0,364,0,0,cloudy,6
+2025-11-27,P005,Sunscreen SPF50,Personal Care,8.0,11.0,356,0,0,rainy,6
+2025-11-28,P005,Sunscreen SPF50,Personal Care,4.0,11.0,352,0,0,rainy,6
+2025-11-29,P005,Sunscreen SPF50,Personal Care,11.0,11.0,341,0,0,cloudy,6
+2025-11-30,P005,Sunscreen SPF50,Personal Care,3.0,11.0,338,0,0,rainy,6
+2025-12-01,P005,Sunscreen SPF50,Personal Care,8.0,11.0,330,0,0,sunny,6
+2025-12-02,P005,Sunscreen SPF50,Personal Care,5.0,11.0,325,0,0,cloudy,6
+2025-12-03,P005,Sunscreen SPF50,Personal Care,11.0,11.0,314,0,0,rainy,6
+2025-12-04,P005,Sunscreen SPF50,Personal Care,8.0,11.0,306,0,0,sunny,6
+2025-12-05,P005,Sunscreen SPF50,Personal Care,5.0,11.0,301,0,0,cloudy,6
+2025-12-06,P005,Sunscreen SPF50,Personal Care,8.0,11.0,293,0,0,cloudy,6
+2025-12-07,P005,Sunscreen SPF50,Personal Care,10.0,11.0,283,0,0,cloudy,6
+2025-12-08,P005,Sunscreen SPF50,Personal Care,7.0,11.0,276,0,0,rainy,6
+2025-12-09,P005,Sunscreen SPF50,Personal Care,8.0,11.0,268,0,0,cloudy,6
+2025-12-10,P005,Sunscreen SPF50,Personal Care,10.0,11.0,258,0,0,rainy,6
+2025-12-11,P005,Sunscreen SPF50,Personal Care,9.0,11.0,249,0,0,cloudy,6
+2025-12-12,P005,Sunscreen SPF50,Personal Care,5.0,11.0,244,0,0,rainy,6
+2025-12-13,P005,Sunscreen SPF50,Personal Care,10.0,11.0,234,0,0,cloudy,6
+2025-12-14,P005,Sunscreen SPF50,Personal Care,11.0,11.0,223,0,0,rainy,6
+2025-12-15,P005,Sunscreen SPF50,Personal Care,9.0,11.0,214,0,0,cloudy,6
+2025-12-16,P005,Sunscreen SPF50,Personal Care,9.0,11.0,205,0,0,rainy,6
+2025-12-17,P005,Sunscreen SPF50,Personal Care,12.0,11.0,193,0,0,rainy,6
+2025-12-18,P005,Sunscreen SPF50,Personal Care,10.0,11.0,183,0,0,sunny,6
+2025-12-19,P005,Sunscreen SPF50,Personal Care,20.0,9.35,163,1,0,sunny,6
+2025-12-20,P005,Sunscreen SPF50,Personal Care,11.0,11.0,152,0,0,sunny,6
+2025-12-21,P005,Sunscreen SPF50,Personal Care,10.0,11.0,142,0,0,cloudy,6
+2025-12-22,P005,Sunscreen SPF50,Personal Care,7.0,11.0,135,0,0,cloudy,6
+2025-12-23,P005,Sunscreen SPF50,Personal Care,7.0,11.0,392,0,0,sunny,6
+2025-12-24,P005,Sunscreen SPF50,Personal Care,6.0,11.0,386,0,0,rainy,6
+2025-12-25,P005,Sunscreen SPF50,Personal Care,12.0,11.0,374,0,1,rainy,6
+2025-12-26,P005,Sunscreen SPF50,Personal Care,18.0,11.0,356,0,0,cloudy,6
+2025-12-27,P005,Sunscreen SPF50,Personal Care,13.0,11.0,343,0,0,sunny,6
+2025-12-28,P005,Sunscreen SPF50,Personal Care,9.0,11.0,334,0,0,rainy,6
+2025-12-29,P005,Sunscreen SPF50,Personal Care,20.0,9.35,314,1,0,sunny,6
+2025-12-30,P005,Sunscreen SPF50,Personal Care,8.0,11.0,306,0,0,sunny,6
+2025-12-31,P005,Sunscreen SPF50,Personal Care,13.0,11.0,293,0,0,rainy,6
+2026-01-01,P005,Sunscreen SPF50,Personal Care,7.0,11.0,286,0,1,rainy,6
+2026-01-02,P005,Sunscreen SPF50,Personal Care,16.0,11.0,270,0,0,cloudy,6
+2026-01-03,P005,Sunscreen SPF50,Personal Care,11.0,11.0,259,0,0,sunny,6
+2026-01-04,P005,Sunscreen SPF50,Personal Care,23.0,11.0,236,0,0,sunny,6
+2026-01-05,P005,Sunscreen SPF50,Personal Care,5.0,11.0,231,0,0,rainy,6
+2026-01-06,P005,Sunscreen SPF50,Personal Care,15.0,11.0,216,0,0,sunny,6
+2026-01-07,P005,Sunscreen SPF50,Personal Care,18.0,11.0,198,0,0,rainy,6
+2026-01-08,P005,Sunscreen SPF50,Personal Care,16.0,9.35,182,1,0,cloudy,6
+2026-01-09,P005,Sunscreen SPF50,Personal Care,11.0,11.0,171,0,0,cloudy,6
+2026-01-10,P005,Sunscreen SPF50,Personal Care,22.0,11.0,149,0,0,rainy,6
+2026-01-11,P005,Sunscreen SPF50,Personal Care,21.0,11.0,392,0,0,cloudy,6
+2026-01-12,P005,Sunscreen SPF50,Personal Care,15.0,11.0,377,0,0,cloudy,6
+2026-01-13,P005,Sunscreen SPF50,Personal Care,15.0,11.0,362,0,0,cloudy,6
+2026-01-14,P005,Sunscreen SPF50,Personal Care,14.0,9.35,348,1,0,sunny,6
+2026-01-15,P005,Sunscreen SPF50,Personal Care,11.0,11.0,337,0,0,cloudy,6
+2026-01-16,P005,Sunscreen SPF50,Personal Care,17.0,11.0,320,0,0,cloudy,6
+2026-01-17,P005,Sunscreen SPF50,Personal Care,23.0,11.0,297,0,0,sunny,6
+2026-01-18,P005,Sunscreen SPF50,Personal Care,22.0,11.0,275,0,0,cloudy,6
+2026-01-19,P005,Sunscreen SPF50,Personal Care,17.0,11.0,258,0,0,cloudy,6
+2026-01-20,P005,Sunscreen SPF50,Personal Care,7.0,11.0,251,0,0,sunny,6
+2026-01-21,P005,Sunscreen SPF50,Personal Care,9.0,11.0,242,0,0,rainy,6
+2026-01-22,P005,Sunscreen SPF50,Personal Care,14.0,11.0,228,0,0,rainy,6
+2026-01-23,P005,Sunscreen SPF50,Personal Care,11.0,11.0,217,0,0,cloudy,6
+2026-01-24,P005,Sunscreen SPF50,Personal Care,21.0,11.0,196,0,0,sunny,6
+2026-01-25,P005,Sunscreen SPF50,Personal Care,30.0,11.0,166,0,0,cloudy,6
+2026-01-26,P005,Sunscreen SPF50,Personal Care,35.0,9.35,395,1,1,rainy,6
+2026-01-27,P005,Sunscreen SPF50,Personal Care,22.0,11.0,373,0,0,sunny,6
+2026-01-28,P005,Sunscreen SPF50,Personal Care,21.0,11.0,352,0,0,rainy,6
+2026-01-29,P005,Sunscreen SPF50,Personal Care,18.0,11.0,334,0,0,rainy,6
+2026-01-30,P005,Sunscreen SPF50,Personal Care,19.0,11.0,315,0,0,sunny,6
+2026-01-31,P005,Sunscreen SPF50,Personal Care,19.0,11.0,296,0,0,sunny,6
+2026-02-01,P005,Sunscreen SPF50,Personal Care,22.0,11.0,274,0,0,rainy,6
+2026-02-02,P005,Sunscreen SPF50,Personal Care,18.0,11.0,256,0,0,rainy,6
+2026-02-03,P005,Sunscreen SPF50,Personal Care,20.0,11.0,236,0,0,rainy,6
+2026-02-04,P005,Sunscreen SPF50,Personal Care,20.0,11.0,216,0,0,cloudy,6
+2026-02-05,P005,Sunscreen SPF50,Personal Care,23.0,11.0,193,0,0,cloudy,6
+2026-02-06,P005,Sunscreen SPF50,Personal Care,23.0,11.0,170,0,0,cloudy,6
+2026-02-07,P005,Sunscreen SPF50,Personal Care,30.0,11.0,140,0,0,cloudy,6
+2026-02-08,P005,Sunscreen SPF50,Personal Care,18.0,11.0,386,0,0,rainy,6
+2026-02-09,P005,Sunscreen SPF50,Personal Care,19.0,11.0,367,0,0,sunny,6
+2026-02-10,P005,Sunscreen SPF50,Personal Care,25.0,11.0,342,0,0,sunny,6
+2026-02-11,P005,Sunscreen SPF50,Personal Care,18.0,11.0,324,0,0,sunny,6
+2026-02-12,P005,Sunscreen SPF50,Personal Care,18.0,11.0,306,0,0,rainy,6
+2026-02-13,P005,Sunscreen SPF50,Personal Care,17.0,11.0,289,0,0,rainy,6
+2026-02-14,P005,Sunscreen SPF50,Personal Care,27.0,11.0,262,0,0,sunny,6
+2026-02-15,P005,Sunscreen SPF50,Personal Care,27.0,11.0,235,0,0,sunny,6
+2026-02-16,P005,Sunscreen SPF50,Personal Care,27.0,11.0,208,0,0,sunny,6
+2026-02-17,P005,Sunscreen SPF50,Personal Care,21.0,11.0,187,0,0,sunny,6
+2026-02-18,P005,Sunscreen SPF50,Personal Care,32.0,11.0,155,0,0,cloudy,6
+2026-02-19,P005,Sunscreen SPF50,Personal Care,21.0,11.0,134,0,0,cloudy,6
+2026-02-20,P005,Sunscreen SPF50,Personal Care,21.0,11.0,377,0,0,cloudy,6
+2026-02-21,P005,Sunscreen SPF50,Personal Care,30.0,11.0,347,0,0,sunny,6
+2026-02-22,P005,Sunscreen SPF50,Personal Care,41.0,11.0,306,0,0,cloudy,6
+2026-02-23,P005,Sunscreen SPF50,Personal Care,50.0,9.35,256,1,0,rainy,6
+2026-02-24,P005,Sunscreen SPF50,Personal Care,21.0,11.0,235,0,0,cloudy,6
+2026-02-25,P005,Sunscreen SPF50,Personal Care,24.0,11.0,211,0,0,rainy,6
+2026-02-26,P005,Sunscreen SPF50,Personal Care,22.0,11.0,189,0,0,rainy,6
+2026-02-27,P005,Sunscreen SPF50,Personal Care,21.0,11.0,168,0,0,rainy,6
+2026-02-28,P005,Sunscreen SPF50,Personal Care,54.0,9.35,378,1,0,cloudy,6
+2026-03-01,P005,Sunscreen SPF50,Personal Care,31.0,11.0,347,0,0,sunny,6
+2026-03-02,P005,Sunscreen SPF50,Personal Care,28.0,9.35,319,1,0,cloudy,6
+2026-03-03,P005,Sunscreen SPF50,Personal Care,26.0,11.0,293,0,0,cloudy,6
+2026-03-04,P005,Sunscreen SPF50,Personal Care,33.0,11.0,260,0,0,rainy,6
+2026-03-05,P005,Sunscreen SPF50,Personal Care,40.0,11.0,220,0,0,rainy,6
+2026-03-06,P005,Sunscreen SPF50,Personal Care,35.0,11.0,185,0,0,cloudy,6
+2026-03-07,P005,Sunscreen SPF50,Personal Care,28.0,11.0,157,0,0,cloudy,6
+2026-03-08,P005,Sunscreen SPF50,Personal Care,41.0,11.0,380,0,0,rainy,6
+2026-03-09,P005,Sunscreen SPF50,Personal Care,26.0,11.0,354,0,0,rainy,6
+2026-03-10,P005,Sunscreen SPF50,Personal Care,31.0,11.0,323,0,0,rainy,6
+2026-03-11,P005,Sunscreen SPF50,Personal Care,27.0,11.0,296,0,0,cloudy,6
+2026-03-12,P005,Sunscreen SPF50,Personal Care,30.0,11.0,266,0,0,cloudy,6
+2026-03-13,P005,Sunscreen SPF50,Personal Care,30.0,11.0,236,0,0,cloudy,6
+2026-03-14,P005,Sunscreen SPF50,Personal Care,54.0,9.35,182,1,0,cloudy,6
+2026-03-15,P005,Sunscreen SPF50,Personal Care,30.0,11.0,152,0,0,sunny,6
+2026-03-16,P005,Sunscreen SPF50,Personal Care,23.0,11.0,393,0,0,sunny,6
+2026-03-17,P005,Sunscreen SPF50,Personal Care,30.0,11.0,363,0,0,cloudy,6
+2026-03-18,P005,Sunscreen SPF50,Personal Care,148.0,11.0,215,0,0,cloudy,6
+2026-03-19,P005,Sunscreen SPF50,Personal Care,29.0,11.0,186,0,0,sunny,6
+2026-03-20,P005,Sunscreen SPF50,Personal Care,31.0,11.0,155,0,0,sunny,6
+2026-03-21,P005,Sunscreen SPF50,Personal Care,42.0,11.0,377,0,0,rainy,6
+2026-03-22,P005,Sunscreen SPF50,Personal Care,34.0,11.0,343,0,0,cloudy,6
+2026-03-23,P005,Sunscreen SPF50,Personal Care,39.0,11.0,304,0,0,cloudy,6
+2026-03-24,P005,Sunscreen SPF50,Personal Care,38.0,11.0,266,0,0,rainy,6
+2026-03-25,P005,Sunscreen SPF50,Personal Care,42.0,11.0,224,0,0,sunny,6
+2026-03-26,P005,Sunscreen SPF50,Personal Care,42.0,11.0,182,0,0,rainy,6
+2026-03-27,P005,Sunscreen SPF50,Personal Care,36.0,11.0,146,0,0,rainy,6
+2026-03-28,P005,Sunscreen SPF50,Personal Care,65.0,11.0,345,0,0,cloudy,6
+2026-03-29,P005,Sunscreen SPF50,Personal Care,75.0,9.35,270,1,0,cloudy,6
+2026-03-30,P005,Sunscreen SPF50,Personal Care,39.0,11.0,231,0,0,rainy,6
+2026-03-31,P005,Sunscreen SPF50,Personal Care,34.0,11.0,197,0,0,sunny,6
+2026-04-01,P005,Sunscreen SPF50,Personal Care,39.0,11.0,158,0,0,sunny,6
+2026-04-02,P005,Sunscreen SPF50,Personal Care,33.0,11.0,389,0,0,rainy,6
+2026-04-03,P005,Sunscreen SPF50,Personal Care,38.0,11.0,351,0,0,sunny,6
+2026-04-04,P005,Sunscreen SPF50,Personal Care,47.0,11.0,304,0,0,rainy,6
+2026-04-05,P005,Sunscreen SPF50,Personal Care,47.0,11.0,257,0,0,rainy,6
+2026-04-06,P005,Sunscreen SPF50,Personal Care,38.0,11.0,219,0,0,cloudy,6
+2026-04-07,P005,Sunscreen SPF50,Personal Care,35.0,11.0,184,0,0,sunny,6
+2026-04-08,P005,Sunscreen SPF50,Personal Care,38.0,11.0,146,0,0,rainy,6
+2026-04-09,P005,Sunscreen SPF50,Personal Care,29.0,11.0,381,0,0,rainy,6
+2026-04-10,P005,Sunscreen SPF50,Personal Care,33.0,11.0,348,0,0,cloudy,6
+2026-04-11,P005,Sunscreen SPF50,Personal Care,40.0,11.0,308,0,0,sunny,6
+2026-04-12,P005,Sunscreen SPF50,Personal Care,51.0,11.0,257,0,0,cloudy,6
+2026-04-13,P005,Sunscreen SPF50,Personal Care,31.0,11.0,226,0,0,cloudy,6
+2026-04-14,P005,Sunscreen SPF50,Personal Care,37.0,11.0,189,0,0,sunny,6
+2026-04-15,P005,Sunscreen SPF50,Personal Care,32.0,11.0,157,0,0,cloudy,6
+2026-04-16,P005,Sunscreen SPF50,Personal Care,37.0,11.0,384,0,0,sunny,6
+2026-04-17,P005,Sunscreen SPF50,Personal Care,30.0,11.0,354,0,0,rainy,6
+2026-04-18,P005,Sunscreen SPF50,Personal Care,59.0,11.0,295,0,0,cloudy,6
+2026-04-19,P005,Sunscreen SPF50,Personal Care,48.0,11.0,247,0,0,rainy,6
+2026-04-20,P005,Sunscreen SPF50,Personal Care,35.0,11.0,212,0,0,cloudy,6
+2026-04-21,P005,Sunscreen SPF50,Personal Care,47.0,9.35,165,1,0,rainy,6
+2026-04-22,P005,Sunscreen SPF50,Personal Care,41.0,9.35,388,1,0,rainy,6
+2026-04-23,P005,Sunscreen SPF50,Personal Care,38.0,11.0,350,0,0,sunny,6
+2026-04-24,P005,Sunscreen SPF50,Personal Care,30.0,11.0,320,0,0,cloudy,6
+2026-04-25,P005,Sunscreen SPF50,Personal Care,68.0,9.35,252,1,0,rainy,6
+2026-04-26,P005,Sunscreen SPF50,Personal Care,43.0,11.0,209,0,0,cloudy,6
+2026-04-27,P005,Sunscreen SPF50,Personal Care,37.0,11.0,172,0,0,sunny,6
+2026-04-28,P005,Sunscreen SPF50,Personal Care,26.0,11.0,146,0,0,rainy,6
+2026-04-29,P005,Sunscreen SPF50,Personal Care,41.0,11.0,369,0,0,sunny,6
+2026-04-30,P005,Sunscreen SPF50,Personal Care,31.0,11.0,338,0,0,rainy,6
+2026-05-01,P005,Sunscreen SPF50,Personal Care,32.0,11.0,306,0,0,rainy,6
+2026-05-02,P005,Sunscreen SPF50,Personal Care,48.0,11.0,258,0,0,sunny,6
+2026-05-03,P005,Sunscreen SPF50,Personal Care,54.0,11.0,204,0,0,sunny,6
+2026-05-04,P005,Sunscreen SPF50,Personal Care,52.0,9.35,152,1,0,rainy,6
+2026-05-05,P005,Sunscreen SPF50,Personal Care,53.0,9.35,363,1,0,cloudy,6
+2026-05-06,P005,Sunscreen SPF50,Personal Care,37.0,11.0,326,0,0,rainy,6
+2026-05-07,P005,Sunscreen SPF50,Personal Care,47.0,11.0,279,0,0,rainy,6
+2026-05-08,P005,Sunscreen SPF50,Personal Care,36.0,11.0,243,0,0,sunny,6
+2026-05-09,P005,Sunscreen SPF50,Personal Care,51.0,11.0,192,0,0,rainy,6
+2026-05-10,P005,Sunscreen SPF50,Personal Care,37.0,11.0,155,0,0,cloudy,6
+2026-05-11,P005,Sunscreen SPF50,Personal Care,33.0,11.0,386,0,0,rainy,6
+2026-05-12,P005,Sunscreen SPF50,Personal Care,46.0,11.0,340,0,0,sunny,6
+2026-05-13,P005,Sunscreen SPF50,Personal Care,43.0,9.35,297,1,0,sunny,6
+2026-05-14,P005,Sunscreen SPF50,Personal Care,43.0,11.0,254,0,0,cloudy,6
+2026-05-15,P005,Sunscreen SPF50,Personal Care,31.0,11.0,223,0,0,cloudy,6
+2026-05-16,P005,Sunscreen SPF50,Personal Care,52.0,11.0,171,0,0,cloudy,6
+2026-05-17,P005,Sunscreen SPF50,Personal Care,53.0,11.0,382,0,0,sunny,6
+2026-05-18,P005,Sunscreen SPF50,Personal Care,45.0,11.0,337,0,0,cloudy,6
+2026-05-19,P005,Sunscreen SPF50,Personal Care,31.0,11.0,306,0,0,rainy,6
+2026-05-20,P005,Sunscreen SPF50,Personal Care,33.0,11.0,273,0,0,rainy,6
+2026-05-21,P005,Sunscreen SPF50,Personal Care,39.0,11.0,234,0,0,rainy,6
+2026-05-22,P005,Sunscreen SPF50,Personal Care,44.0,11.0,190,0,0,sunny,6
+2026-05-23,P005,Sunscreen SPF50,Personal Care,50.0,9.35,140,1,0,rainy,6
+2026-05-24,P005,Sunscreen SPF50,Personal Care,47.0,11.0,357,0,0,cloudy,6
+2026-05-25,P005,Sunscreen SPF50,Personal Care,40.0,11.0,317,0,0,rainy,6
+2026-05-26,P005,Sunscreen SPF50,Personal Care,40.0,11.0,277,0,0,rainy,6
+2026-05-27,P005,Sunscreen SPF50,Personal Care,39.0,11.0,238,0,0,sunny,6
+2026-05-28,P005,Sunscreen SPF50,Personal Care,36.0,11.0,202,0,0,rainy,6
+2026-05-29,P005,Sunscreen SPF50,Personal Care,36.0,11.0,166,0,0,cloudy,6
+2026-05-30,P005,Sunscreen SPF50,Personal Care,57.0,11.0,373,0,0,rainy,6
+2026-05-31,P005,Sunscreen SPF50,Personal Care,52.0,11.0,321,0,0,cloudy,6
+2026-06-01,P005,Sunscreen SPF50,Personal Care,42.0,11.0,279,0,0,sunny,6
+2026-06-02,P005,Sunscreen SPF50,Personal Care,23.0,11.0,256,0,0,rainy,6
+2026-06-03,P005,Sunscreen SPF50,Personal Care,39.0,11.0,217,0,0,sunny,6
+2026-06-04,P005,Sunscreen SPF50,Personal Care,41.0,11.0,176,0,0,rainy,6
+2026-06-05,P005,Sunscreen SPF50,Personal Care,26.0,11.0,150,0,0,sunny,6
+2026-06-06,P005,Sunscreen SPF50,Personal Care,53.0,11.0,361,0,0,rainy,6
+2026-06-07,P005,Sunscreen SPF50,Personal Care,53.0,11.0,308,0,0,cloudy,6
+2026-06-08,P005,Sunscreen SPF50,Personal Care,34.0,11.0,274,0,0,sunny,6
+2026-06-09,P005,Sunscreen SPF50,Personal Care,29.0,11.0,245,0,0,sunny,6
+2026-06-10,P005,Sunscreen SPF50,Personal Care,39.0,11.0,206,0,0,sunny,6
+2026-06-11,P005,Sunscreen SPF50,Personal Care,40.0,11.0,166,0,0,rainy,6
+2026-06-12,P005,Sunscreen SPF50,Personal Care,35.0,11.0,395,0,0,rainy,6
+2026-06-13,P005,Sunscreen SPF50,Personal Care,45.0,11.0,350,0,0,rainy,6
+2026-06-14,P005,Sunscreen SPF50,Personal Care,49.0,11.0,301,0,0,cloudy,6
+2026-06-15,P005,Sunscreen SPF50,Personal Care,35.0,11.0,266,0,0,cloudy,6
+2026-06-16,P005,Sunscreen SPF50,Personal Care,24.0,11.0,242,0,0,rainy,6
+2026-06-17,P005,Sunscreen SPF50,Personal Care,39.0,11.0,203,0,0,sunny,6
+2026-06-18,P005,Sunscreen SPF50,Personal Care,32.0,11.0,171,0,0,rainy,6
+2026-06-19,P005,Sunscreen SPF50,Personal Care,40.0,11.0,395,0,0,cloudy,6
+2026-06-20,P005,Sunscreen SPF50,Personal Care,44.0,11.0,351,0,0,cloudy,6
+2026-06-21,P005,Sunscreen SPF50,Personal Care,50.0,11.0,301,0,0,cloudy,6
+2026-06-22,P005,Sunscreen SPF50,Personal Care,54.0,9.35,247,1,0,rainy,6
+2026-06-23,P005,Sunscreen SPF50,Personal Care,32.0,11.0,215,0,0,rainy,6
+2026-06-24,P005,Sunscreen SPF50,Personal Care,34.0,11.0,181,0,0,rainy,6
+2026-06-25,P005,Sunscreen SPF50,Personal Care,44.0,11.0,137,0,0,sunny,6
+2026-06-26,P005,Sunscreen SPF50,Personal Care,23.0,11.0,378,0,0,sunny,6
+2026-06-27,P005,Sunscreen SPF50,Personal Care,51.0,11.0,327,0,0,rainy,6
+2026-06-28,P005,Sunscreen SPF50,Personal Care,43.0,11.0,284,0,0,rainy,6
+2026-06-29,P005,Sunscreen SPF50,Personal Care,27.0,11.0,257,0,0,sunny,6
+2026-06-30,P005,Sunscreen SPF50,Personal Care,32.0,11.0,225,0,0,rainy,6
+2026-07-01,P005,Sunscreen SPF50,Personal Care,39.0,11.0,186,0,0,sunny,6
+2026-07-02,P005,Sunscreen SPF50,Personal Care,43.0,11.0,143,0,0,rainy,6
+2026-07-03,P005,Sunscreen SPF50,Personal Care,32.0,11.0,375,0,0,rainy,6
+2026-07-04,P005,Sunscreen SPF50,Personal Care,40.0,11.0,335,0,0,cloudy,6
+2026-07-05,P005,Sunscreen SPF50,Personal Care,45.0,11.0,290,0,0,sunny,6
+2026-07-06,P005,Sunscreen SPF50,Personal Care,30.0,11.0,260,0,0,rainy,6
+2026-07-07,P005,Sunscreen SPF50,Personal Care,22.0,11.0,238,0,0,sunny,6
+2026-07-08,P005,Sunscreen SPF50,Personal Care,30.0,11.0,208,0,0,cloudy,6
+2026-07-09,P005,Sunscreen SPF50,Personal Care,30.0,11.0,178,0,0,cloudy,6
+2026-07-10,P005,Sunscreen SPF50,Personal Care,34.0,11.0,144,0,0,sunny,6
+2026-07-11,P005,Sunscreen SPF50,Personal Care,60.0,11.0,348,0,0,cloudy,6
+2026-07-12,P005,Sunscreen SPF50,Personal Care,41.0,11.0,307,0,0,rainy,6
+2026-07-13,P005,Sunscreen SPF50,Personal Care,36.0,11.0,271,0,0,sunny,6
+2026-07-14,P005,Sunscreen SPF50,Personal Care,29.0,11.0,242,0,0,cloudy,6
+2026-07-15,P005,Sunscreen SPF50,Personal Care,29.0,11.0,213,0,0,sunny,6
+2026-07-16,P005,Sunscreen SPF50,Personal Care,29.0,11.0,184,0,0,cloudy,6
+2026-07-17,P005,Sunscreen SPF50,Personal Care,37.0,11.0,147,0,0,sunny,6
+2026-07-18,P005,Sunscreen SPF50,Personal Care,43.0,11.0,368,0,0,sunny,6
+2026-07-19,P005,Sunscreen SPF50,Personal Care,29.0,11.0,339,0,0,cloudy,6
+2026-07-20,P005,Sunscreen SPF50,Personal Care,33.0,11.0,306,0,0,sunny,6
+2026-07-21,P005,Sunscreen SPF50,Personal Care,23.0,11.0,283,0,0,sunny,6
+2026-07-22,P005,Sunscreen SPF50,Personal Care,21.0,11.0,262,0,0,rainy,6
+2026-07-23,P005,Sunscreen SPF50,Personal Care,35.0,9.35,227,1,0,rainy,6
+2026-07-24,P005,Sunscreen SPF50,Personal Care,42.0,9.35,185,1,0,sunny,6
+2026-07-25,P005,Sunscreen SPF50,Personal Care,34.0,11.0,151,0,0,rainy,6
+2026-07-26,P005,Sunscreen SPF50,Personal Care,36.0,11.0,379,0,0,cloudy,6
+2026-07-27,P005,Sunscreen SPF50,Personal Care,30.0,11.0,349,0,0,sunny,6
+2026-07-28,P005,Sunscreen SPF50,Personal Care,28.0,11.0,321,0,0,rainy,6
+2026-07-29,P005,Sunscreen SPF50,Personal Care,28.0,11.0,293,0,0,cloudy,6
+2026-07-30,P005,Sunscreen SPF50,Personal Care,33.0,11.0,260,0,0,sunny,6
+2026-07-31,P005,Sunscreen SPF50,Personal Care,23.0,11.0,237,0,0,sunny,6
+2026-08-01,P005,Sunscreen SPF50,Personal Care,30.0,11.0,207,0,0,rainy,6
+2026-08-02,P005,Sunscreen SPF50,Personal Care,39.0,11.0,168,0,0,sunny,6
+2026-08-03,P005,Sunscreen SPF50,Personal Care,21.0,11.0,147,0,0,cloudy,6
+2026-08-04,P005,Sunscreen SPF50,Personal Care,24.0,11.0,387,0,0,sunny,6
+2026-08-05,P005,Sunscreen SPF50,Personal Care,18.0,11.0,369,0,0,rainy,6
+2026-08-06,P005,Sunscreen SPF50,Personal Care,21.0,11.0,348,0,0,rainy,6
+2026-08-07,P005,Sunscreen SPF50,Personal Care,28.0,11.0,320,0,0,cloudy,6
+2026-08-08,P005,Sunscreen SPF50,Personal Care,30.0,11.0,290,0,0,cloudy,6
+2026-08-09,P005,Sunscreen SPF50,Personal Care,35.0,11.0,255,0,0,cloudy,6
+2026-08-10,P005,Sunscreen SPF50,Personal Care,25.0,11.0,230,0,0,cloudy,6
+2026-08-11,P005,Sunscreen SPF50,Personal Care,16.0,11.0,214,0,0,rainy,6
+2026-08-12,P005,Sunscreen SPF50,Personal Care,27.0,11.0,187,0,0,rainy,6
+2026-08-13,P005,Sunscreen SPF50,Personal Care,23.0,11.0,164,0,0,sunny,6
+2026-08-14,P005,Sunscreen SPF50,Personal Care,26.0,11.0,138,0,0,rainy,6
+2026-08-15,P005,Sunscreen SPF50,Personal Care,37.0,11.0,365,0,1,sunny,6
+2026-08-16,P005,Sunscreen SPF50,Personal Care,34.0,11.0,331,0,0,sunny,6
+2026-08-17,P005,Sunscreen SPF50,Personal Care,22.0,11.0,309,0,0,cloudy,6
+2026-08-18,P005,Sunscreen SPF50,Personal Care,27.0,11.0,282,0,0,sunny,6
+2026-08-19,P005,Sunscreen SPF50,Personal Care,21.0,11.0,261,0,0,rainy,6
+2026-08-20,P005,Sunscreen SPF50,Personal Care,16.0,11.0,245,0,0,rainy,6
+2026-08-21,P005,Sunscreen SPF50,Personal Care,14.0,11.0,231,0,0,sunny,6
+2026-08-22,P005,Sunscreen SPF50,Personal Care,27.0,11.0,204,0,0,sunny,6
+2026-08-23,P005,Sunscreen SPF50,Personal Care,24.0,11.0,180,0,0,cloudy,6
+2026-08-24,P005,Sunscreen SPF50,Personal Care,22.0,11.0,158,0,0,rainy,6
+2026-08-25,P005,Sunscreen SPF50,Personal Care,20.0,11.0,138,0,0,cloudy,6
+2026-08-26,P005,Sunscreen SPF50,Personal Care,21.0,11.0,381,0,0,rainy,6
+2026-08-27,P005,Sunscreen SPF50,Personal Care,18.0,11.0,363,0,0,sunny,6
+2026-08-28,P005,Sunscreen SPF50,Personal Care,14.0,11.0,349,0,0,cloudy,6
+2026-08-29,P005,Sunscreen SPF50,Personal Care,20.0,11.0,329,0,0,sunny,6
+2026-08-30,P005,Sunscreen SPF50,Personal Care,27.0,11.0,302,0,0,sunny,6
+2026-08-31,P005,Sunscreen SPF50,Personal Care,18.0,11.0,284,0,0,rainy,6
+2025-09-01,P006,Notebook Pack,Stationery,52.0,6.0,548,0,0,sunny,5
+2025-09-02,P006,Notebook Pack,Stationery,47.0,6.0,501,0,0,rainy,5
+2025-09-03,P006,Notebook Pack,Stationery,45.0,6.0,456,0,0,sunny,5
+2025-09-04,P006,Notebook Pack,Stationery,61.0,6.0,395,0,0,cloudy,5
+2025-09-05,P006,Notebook Pack,Stationery,49.0,6.0,346,0,0,rainy,5
+2025-09-06,P006,Notebook Pack,Stationery,23.0,6.0,323,0,0,rainy,5
+2025-09-07,P006,Notebook Pack,Stationery,45.0,6.0,278,0,0,cloudy,5
+2025-09-08,P006,Notebook Pack,Stationery,60.0,5.1,3218,1,0,rainy,5
+2025-09-09,P006,Notebook Pack,Stationery,49.0,6.0,3169,0,0,sunny,5
+2025-09-10,P006,Notebook Pack,Stationery,52.0,6.0,3117,0,0,cloudy,5
+2025-09-11,P006,Notebook Pack,Stationery,49.0,6.0,3068,0,0,rainy,5
+2025-09-12,P006,Notebook Pack,Stationery,50.0,6.0,3018,0,0,cloudy,5
+2025-09-13,P006,Notebook Pack,Stationery,37.0,6.0,2981,0,0,cloudy,5
+2025-09-14,P006,Notebook Pack,Stationery,28.0,6.0,2953,0,0,cloudy,5
+2025-09-15,P006,Notebook Pack,Stationery,59.0,6.0,2894,0,0,cloudy,5
+2025-09-16,P006,Notebook Pack,Stationery,51.0,6.0,2843,0,0,rainy,5
+2025-09-17,P006,Notebook Pack,Stationery,52.0,6.0,2791,0,0,cloudy,5
+2025-09-18,P006,Notebook Pack,Stationery,35.0,6.0,2756,0,0,sunny,5
+2025-09-19,P006,Notebook Pack,Stationery,54.0,6.0,2702,0,0,sunny,5
+2025-09-20,P006,Notebook Pack,Stationery,33.0,6.0,2669,0,0,rainy,5
+2025-09-21,P006,Notebook Pack,Stationery,39.0,6.0,2630,0,0,cloudy,5
+2025-09-22,P006,Notebook Pack,Stationery,41.0,6.0,2589,0,0,sunny,5
+2025-09-23,P006,Notebook Pack,Stationery,49.0,6.0,2540,0,0,sunny,5
+2025-09-24,P006,Notebook Pack,Stationery,51.0,6.0,2489,0,0,sunny,5
+2025-09-25,P006,Notebook Pack,Stationery,61.0,6.0,2428,0,0,sunny,5
+2025-09-26,P006,Notebook Pack,Stationery,50.0,6.0,2378,0,0,rainy,5
+2025-09-27,P006,Notebook Pack,Stationery,39.0,6.0,2339,0,0,cloudy,5
+2025-09-28,P006,Notebook Pack,Stationery,41.0,6.0,2298,0,0,cloudy,5
+2025-09-29,P006,Notebook Pack,Stationery,49.0,6.0,2249,0,0,sunny,5
+2025-09-30,P006,Notebook Pack,Stationery,69.0,6.0,2180,0,0,rainy,5
+2025-10-01,P006,Notebook Pack,Stationery,53.0,6.0,2127,0,0,rainy,5
+2025-10-02,P006,Notebook Pack,Stationery,58.0,6.0,2069,0,1,rainy,5
+2025-10-03,P006,Notebook Pack,Stationery,48.0,6.0,2021,0,0,cloudy,5
+2025-10-04,P006,Notebook Pack,Stationery,43.0,6.0,1978,0,0,cloudy,5
+2025-10-05,P006,Notebook Pack,Stationery,38.0,6.0,1940,0,0,sunny,5
+2025-10-06,P006,Notebook Pack,Stationery,56.0,6.0,1884,0,0,rainy,5
+2025-10-07,P006,Notebook Pack,Stationery,42.0,6.0,1842,0,0,rainy,5
+2025-10-08,P006,Notebook Pack,Stationery,52.0,6.0,1790,0,0,sunny,5
+2025-10-09,P006,Notebook Pack,Stationery,44.0,6.0,1746,0,0,cloudy,5
+2025-10-10,P006,Notebook Pack,Stationery,48.0,6.0,1698,0,0,sunny,5
+2025-10-11,P006,Notebook Pack,Stationery,45.0,5.1,1653,1,0,cloudy,5
+2025-10-12,P006,Notebook Pack,Stationery,27.0,6.0,1626,0,0,sunny,5
+2025-10-13,P006,Notebook Pack,Stationery,52.0,6.0,1574,0,0,rainy,5
+2025-10-14,P006,Notebook Pack,Stationery,48.0,6.0,1526,0,0,rainy,5
+2025-10-15,P006,Notebook Pack,Stationery,52.0,6.0,1474,0,0,rainy,5
+2025-10-16,P006,Notebook Pack,Stationery,53.0,6.0,1421,0,0,sunny,5
+2025-10-17,P006,Notebook Pack,Stationery,39.0,6.0,1382,0,0,sunny,5
+2025-10-18,P006,Notebook Pack,Stationery,34.0,6.0,1348,0,0,rainy,5
+2025-10-19,P006,Notebook Pack,Stationery,28.0,6.0,1320,0,0,sunny,5
+2025-10-20,P006,Notebook Pack,Stationery,46.0,6.0,1274,0,0,cloudy,5
+2025-10-21,P006,Notebook Pack,Stationery,55.0,6.0,1219,0,0,rainy,5
+2025-10-22,P006,Notebook Pack,Stationery,47.0,6.0,1172,0,0,cloudy,5
+2025-10-23,P006,Notebook Pack,Stationery,55.0,6.0,1117,0,0,sunny,5
+2025-10-24,P006,Notebook Pack,Stationery,,6.0,1060,0,0,rainy,5
+2025-10-25,P006,Notebook Pack,Stationery,38.0,6.0,1022,0,0,rainy,5
+2025-10-26,P006,Notebook Pack,Stationery,43.0,6.0,979,0,0,sunny,5
+2025-10-27,P006,Notebook Pack,Stationery,42.0,6.0,937,0,0,cloudy,5
+2025-10-28,P006,Notebook Pack,Stationery,50.0,6.0,887,0,0,cloudy,5
+2025-10-29,P006,Notebook Pack,Stationery,55.0,6.0,832,0,0,cloudy,5
+2025-10-30,P006,Notebook Pack,Stationery,56.0,6.0,776,0,0,rainy,5
+2025-10-31,P006,Notebook Pack,Stationery,53.0,6.0,723,0,0,rainy,5
+2025-11-01,P006,Notebook Pack,Stationery,39.0,6.0,684,0,1,sunny,5
+2025-11-02,P006,Notebook Pack,Stationery,23.0,6.0,661,0,0,rainy,5
+2025-11-03,P006,Notebook Pack,Stationery,56.0,6.0,605,0,0,rainy,5
+2025-11-04,P006,Notebook Pack,Stationery,51.0,6.0,554,0,0,sunny,5
+2025-11-05,P006,Notebook Pack,Stationery,50.0,6.0,504,0,0,sunny,5
+2025-11-06,P006,Notebook Pack,Stationery,55.0,6.0,449,0,0,cloudy,5
+2025-11-07,P006,Notebook Pack,Stationery,79.0,6.0,370,0,0,rainy,5
+2025-11-08,P006,Notebook Pack,Stationery,37.0,6.0,333,0,0,rainy,5
+2025-11-09,P006,Notebook Pack,Stationery,39.0,6.0,294,0,0,cloudy,5
+2025-11-10,P006,Notebook Pack,Stationery,38.0,6.0,256,0,0,sunny,5
+2025-11-11,P006,Notebook Pack,Stationery,52.0,6.0,3204,0,0,sunny,5
+2025-11-12,P006,Notebook Pack,Stationery,58.0,6.0,3146,0,0,rainy,5
+2025-11-13,P006,Notebook Pack,Stationery,69.0,5.1,3077,1,0,cloudy,5
+2025-11-14,P006,Notebook Pack,Stationery,46.0,6.0,3031,0,0,cloudy,5
+2025-11-15,P006,Notebook Pack,Stationery,43.0,6.0,2988,0,0,rainy,5
+2025-11-16,P006,Notebook Pack,Stationery,33.0,6.0,2955,0,0,sunny,5
+2025-11-17,P006,Notebook Pack,Stationery,71.0,5.1,2884,1,0,sunny,5
+2025-11-18,P006,Notebook Pack,Stationery,48.0,6.0,2836,0,0,rainy,5
+2025-11-19,P006,Notebook Pack,Stationery,42.0,6.0,2794,0,0,sunny,5
+2025-11-20,P006,Notebook Pack,Stationery,40.0,6.0,2754,0,0,rainy,5
+2025-11-21,P006,Notebook Pack,Stationery,41.0,6.0,2713,0,0,rainy,5
+2025-11-22,P006,Notebook Pack,Stationery,33.0,6.0,2680,0,0,sunny,5
+2025-11-23,P006,Notebook Pack,Stationery,28.0,6.0,2652,0,0,cloudy,5
+2025-11-24,P006,Notebook Pack,Stationery,45.0,6.0,2607,0,0,rainy,5
+2025-11-25,P006,Notebook Pack,Stationery,55.0,6.0,2552,0,0,cloudy,5
+2025-11-26,P006,Notebook Pack,Stationery,61.0,6.0,2491,0,0,sunny,5
+2025-11-27,P006,Notebook Pack,Stationery,53.0,6.0,2438,0,0,sunny,5
+2025-11-28,P006,Notebook Pack,Stationery,46.0,6.0,2392,0,0,sunny,5
+2025-11-29,P006,Notebook Pack,Stationery,28.0,6.0,2364,0,0,sunny,5
+2025-11-30,P006,Notebook Pack,Stationery,33.0,5.1,2331,1,0,sunny,5
+2025-12-01,P006,Notebook Pack,Stationery,78.0,5.1,2253,1,0,sunny,5
+2025-12-02,P006,Notebook Pack,Stationery,37.0,6.0,2216,0,0,rainy,5
+2025-12-03,P006,Notebook Pack,Stationery,47.0,6.0,2169,0,0,cloudy,5
+2025-12-04,P006,Notebook Pack,Stationery,54.0,6.0,2115,0,0,sunny,5
+2025-12-05,P006,Notebook Pack,Stationery,50.0,6.0,2065,0,0,sunny,5
+2025-12-06,P006,Notebook Pack,Stationery,39.0,6.0,2026,0,0,sunny,5
+2025-12-07,P006,Notebook Pack,Stationery,30.0,6.0,1996,0,0,sunny,5
+2025-12-08,P006,Notebook Pack,Stationery,50.0,6.0,1946,0,0,rainy,5
+2025-12-09,P006,Notebook Pack,Stationery,52.0,6.0,1894,0,0,sunny,5
+2025-12-10,P006,Notebook Pack,Stationery,63.0,6.0,1831,0,0,cloudy,5
+2025-12-11,P006,Notebook Pack,Stationery,61.0,6.0,1770,0,0,cloudy,5
+2025-12-12,P006,Notebook Pack,Stationery,56.0,6.0,1714,0,0,sunny,5
+2025-12-13,P006,Notebook Pack,Stationery,30.0,6.0,1684,0,0,sunny,5
+2025-12-14,P006,Notebook Pack,Stationery,36.0,6.0,1648,0,0,sunny,5
+2025-12-15,P006,Notebook Pack,Stationery,54.0,6.0,1594,0,0,sunny,5
+2025-12-16,P006,Notebook Pack,Stationery,48.0,6.0,1546,0,0,rainy,5
+2025-12-17,P006,Notebook Pack,Stationery,40.0,6.0,1506,0,0,rainy,5
+2025-12-18,P006,Notebook Pack,Stationery,61.0,6.0,1445,0,0,cloudy,5
+2025-12-19,P006,Notebook Pack,Stationery,56.0,6.0,1389,0,0,rainy,5
+2025-12-20,P006,Notebook Pack,Stationery,34.0,6.0,1355,0,0,rainy,5
+2025-12-21,P006,Notebook Pack,Stationery,29.0,6.0,1326,0,0,rainy,5
+2025-12-22,P006,Notebook Pack,Stationery,39.0,6.0,1287,0,0,sunny,5
+2025-12-23,P006,Notebook Pack,Stationery,42.0,6.0,1245,0,0,rainy,5
+2025-12-24,P006,Notebook Pack,Stationery,42.0,6.0,1203,0,0,cloudy,5
+2025-12-25,P006,Notebook Pack,Stationery,57.0,6.0,1146,0,1,cloudy,5
+2025-12-26,P006,Notebook Pack,Stationery,49.0,6.0,1097,0,0,rainy,5
+2025-12-27,P006,Notebook Pack,Stationery,38.0,6.0,1059,0,0,cloudy,5
+2025-12-28,P006,Notebook Pack,Stationery,38.0,6.0,1021,0,0,sunny,5
+2025-12-29,P006,Notebook Pack,Stationery,45.0,6.0,976,0,0,sunny,5
+2025-12-30,P006,Notebook Pack,Stationery,43.0,6.0,933,0,0,sunny,5
+2025-12-31,P006,Notebook Pack,Stationery,47.0,6.0,886,0,0,sunny,5
+2026-01-01,P006,Notebook Pack,Stationery,115.0,6.0,771,0,1,cloudy,5
+2026-01-02,P006,Notebook Pack,Stationery,83.0,6.0,688,0,0,rainy,5
+2026-01-03,P006,Notebook Pack,Stationery,37.0,6.0,651,0,0,cloudy,5
+2026-01-04,P006,Notebook Pack,Stationery,47.0,6.0,604,0,0,cloudy,5
+2026-01-05,P006,Notebook Pack,Stationery,79.0,6.0,525,0,0,sunny,5
+2026-01-06,P006,Notebook Pack,Stationery,79.0,6.0,446,0,0,cloudy,5
+2026-01-07,P006,Notebook Pack,Stationery,104.0,5.1,342,1,0,rainy,5
+2026-01-08,P006,Notebook Pack,Stationery,90.0,6.0,252,0,0,sunny,5
+2026-01-09,P006,Notebook Pack,Stationery,76.0,6.0,3176,0,0,cloudy,5
+2026-01-10,P006,Notebook Pack,Stationery,75.0,5.1,3101,1,0,rainy,5
+2026-01-11,P006,Notebook Pack,Stationery,56.0,6.0,3045,0,0,cloudy,5
+2026-01-12,P006,Notebook Pack,Stationery,76.0,6.0,2969,0,0,cloudy,5
+2026-01-13,P006,Notebook Pack,Stationery,109.0,5.1,2860,1,0,sunny,5
+2026-01-14,P006,Notebook Pack,Stationery,91.0,6.0,2769,0,0,rainy,5
+2026-01-15,P006,Notebook Pack,Stationery,78.0,6.0,2691,0,0,cloudy,5
+2026-01-16,P006,Notebook Pack,Stationery,76.0,6.0,2615,0,0,sunny,5
+2026-01-17,P006,Notebook Pack,Stationery,48.0,6.0,2567,0,0,cloudy,5
+2026-01-18,P006,Notebook Pack,Stationery,47.0,6.0,2520,0,0,rainy,5
+2026-01-19,P006,Notebook Pack,Stationery,82.0,6.0,2438,0,0,rainy,5
+2026-01-20,P006,Notebook Pack,Stationery,112.0,5.1,2326,1,0,sunny,5
+2026-01-21,P006,Notebook Pack,Stationery,102.0,5.1,2224,1,0,cloudy,5
+2026-01-22,P006,Notebook Pack,Stationery,80.0,6.0,2144,0,0,rainy,5
+2026-01-23,P006,Notebook Pack,Stationery,80.0,6.0,2064,0,0,rainy,5
+2026-01-24,P006,Notebook Pack,Stationery,59.0,6.0,2005,0,0,cloudy,5
+2026-01-25,P006,Notebook Pack,Stationery,94.0,5.1,1911,1,0,sunny,5
+2026-01-26,P006,Notebook Pack,Stationery,122.0,6.0,1789,0,1,rainy,5
+2026-01-27,P006,Notebook Pack,Stationery,78.0,6.0,1711,0,0,cloudy,5
+2026-01-28,P006,Notebook Pack,Stationery,80.0,6.0,1631,0,0,cloudy,5
+2026-01-29,P006,Notebook Pack,Stationery,83.0,6.0,1548,0,0,rainy,5
+2026-01-30,P006,Notebook Pack,Stationery,106.0,5.1,1442,1,0,cloudy,5
+2026-01-31,P006,Notebook Pack,Stationery,50.0,6.0,1392,0,0,cloudy,5
+2026-02-01,P006,Notebook Pack,Stationery,35.0,6.0,1357,0,0,sunny,5
+2026-02-02,P006,Notebook Pack,Stationery,43.0,6.0,1314,0,0,rainy,5
+2026-02-03,P006,Notebook Pack,Stationery,44.0,6.0,1270,0,0,cloudy,5
+2026-02-04,P006,Notebook Pack,Stationery,43.0,6.0,1227,0,0,rainy,5
+2026-02-05,P006,Notebook Pack,Stationery,43.0,6.0,1184,0,0,sunny,5
+2026-02-06,P006,Notebook Pack,Stationery,59.0,6.0,1125,0,0,rainy,5
+2026-02-07,P006,Notebook Pack,Stationery,30.0,6.0,1095,0,0,cloudy,5
+2026-02-08,P006,Notebook Pack,Stationery,34.0,6.0,1061,0,0,sunny,5
+2026-02-09,P006,Notebook Pack,Stationery,46.0,6.0,1015,0,0,sunny,5
+2026-02-10,P006,Notebook Pack,Stationery,47.0,6.0,968,0,0,sunny,5
+2026-02-11,P006,Notebook Pack,Stationery,52.0,6.0,916,0,0,sunny,5
+2026-02-12,P006,Notebook Pack,Stationery,56.0,6.0,860,0,0,cloudy,5
+2026-02-13,P006,Notebook Pack,Stationery,50.0,6.0,810,0,0,rainy,5
+2026-02-14,P006,Notebook Pack,Stationery,22.0,6.0,788,0,0,rainy,5
+2026-02-15,P006,Notebook Pack,Stationery,33.0,6.0,755,0,0,rainy,5
+2026-02-16,P006,Notebook Pack,Stationery,47.0,6.0,708,0,0,cloudy,5
+2026-02-17,P006,Notebook Pack,Stationery,52.0,6.0,656,0,0,cloudy,5
+2026-02-18,P006,Notebook Pack,Stationery,57.0,6.0,599,0,0,sunny,5
+2026-02-19,P006,Notebook Pack,Stationery,48.0,6.0,551,0,0,sunny,5
+2026-02-20,P006,Notebook Pack,Stationery,55.0,6.0,496,0,0,cloudy,5
+2026-02-21,P006,Notebook Pack,Stationery,29.0,6.0,467,0,0,rainy,5
+2026-02-22,P006,Notebook Pack,Stationery,37.0,6.0,430,0,0,sunny,5
+2026-02-23,P006,Notebook Pack,Stationery,66.0,6.0,364,0,0,sunny,5
+2026-02-24,P006,Notebook Pack,Stationery,42.0,6.0,322,0,0,sunny,5
+2026-02-25,P006,Notebook Pack,Stationery,46.0,6.0,276,0,0,sunny,5
+2026-02-26,P006,Notebook Pack,Stationery,49.0,6.0,3227,0,0,sunny,5
+2026-02-27,P006,Notebook Pack,Stationery,59.0,6.0,3168,0,0,sunny,5
+2026-02-28,P006,Notebook Pack,Stationery,35.0,6.0,3133,0,0,sunny,5
+2026-03-01,P006,Notebook Pack,Stationery,33.0,6.0,3100,0,0,cloudy,5
+2026-03-02,P006,Notebook Pack,Stationery,53.0,6.0,3047,0,0,rainy,5
+2026-03-03,P006,Notebook Pack,Stationery,44.0,6.0,3003,0,0,sunny,5
+2026-03-04,P006,Notebook Pack,Stationery,58.0,5.1,2945,1,0,sunny,5
+2026-03-05,P006,Notebook Pack,Stationery,52.0,6.0,2893,0,0,rainy,5
+2026-03-06,P006,Notebook Pack,Stationery,49.0,6.0,2844,0,0,sunny,5
+2026-03-07,P006,Notebook Pack,Stationery,42.0,6.0,2802,0,0,rainy,5
+2026-03-08,P006,Notebook Pack,Stationery,39.0,6.0,2763,0,0,cloudy,5
+2026-03-09,P006,Notebook Pack,Stationery,59.0,6.0,2704,0,0,rainy,5
+2026-03-10,P006,Notebook Pack,Stationery,48.0,6.0,2656,0,0,sunny,5
+2026-03-11,P006,Notebook Pack,Stationery,41.0,6.0,2615,0,0,sunny,5
+2026-03-12,P006,Notebook Pack,Stationery,47.0,6.0,2568,0,0,cloudy,5
+2026-03-13,P006,Notebook Pack,Stationery,38.0,6.0,2530,0,0,sunny,5
+2026-03-14,P006,Notebook Pack,Stationery,40.0,6.0,2490,0,0,sunny,5
+2026-03-15,P006,Notebook Pack,Stationery,27.0,6.0,2463,0,0,rainy,5
+2026-03-16,P006,Notebook Pack,Stationery,43.0,6.0,2420,0,0,sunny,5
+2026-03-17,P006,Notebook Pack,Stationery,43.0,6.0,2377,0,0,cloudy,5
+2026-03-18,P006,Notebook Pack,Stationery,54.0,6.0,2323,0,0,rainy,5
+2026-03-19,P006,Notebook Pack,Stationery,51.0,6.0,2272,0,0,sunny,5
+2026-03-20,P006,Notebook Pack,Stationery,49.0,6.0,2223,0,0,sunny,5
+2026-03-21,P006,Notebook Pack,Stationery,38.0,6.0,2185,0,0,cloudy,5
+2026-03-22,P006,Notebook Pack,Stationery,164.0,6.0,2021,0,0,sunny,5
+2026-03-23,P006,Notebook Pack,Stationery,53.0,6.0,1968,0,0,rainy,5
+2026-03-24,P006,Notebook Pack,Stationery,49.0,6.0,1919,0,0,sunny,5
+2026-03-25,P006,Notebook Pack,Stationery,60.0,5.1,1859,1,0,sunny,5
+2026-03-26,P006,Notebook Pack,Stationery,45.0,6.0,1814,0,0,sunny,5
+2026-03-27,P006,Notebook Pack,Stationery,57.0,6.0,1757,0,0,sunny,5
+2026-03-28,P006,Notebook Pack,Stationery,45.0,6.0,1712,0,0,sunny,5
+2026-03-29,P006,Notebook Pack,Stationery,33.0,6.0,1679,0,0,cloudy,5
+2026-03-30,P006,Notebook Pack,Stationery,44.0,6.0,1635,0,0,cloudy,5
+2026-03-31,P006,Notebook Pack,Stationery,38.0,6.0,1597,0,0,cloudy,5
+2026-04-01,P006,Notebook Pack,Stationery,60.0,6.0,1537,0,0,sunny,5
+2026-04-02,P006,Notebook Pack,Stationery,50.0,6.0,1487,0,0,sunny,5
+2026-04-03,P006,Notebook Pack,Stationery,54.0,6.0,1433,0,0,sunny,5
+2026-04-04,P006,Notebook Pack,Stationery,41.0,5.1,1392,1,0,sunny,5
+2026-04-05,P006,Notebook Pack,Stationery,39.0,6.0,1353,0,0,rainy,5
+2026-04-06,P006,Notebook Pack,Stationery,55.0,6.0,1298,0,0,sunny,5
+2026-04-07,P006,Notebook Pack,Stationery,46.0,6.0,1252,0,0,sunny,5
+2026-04-08,P006,Notebook Pack,Stationery,43.0,6.0,1209,0,0,cloudy,5
+2026-04-09,P006,Notebook Pack,Stationery,51.0,6.0,1158,0,0,sunny,5
+2026-04-10,P006,Notebook Pack,Stationery,44.0,6.0,1114,0,0,cloudy,5
+2026-04-11,P006,Notebook Pack,Stationery,28.0,6.0,1086,0,0,cloudy,5
+2026-04-12,P006,Notebook Pack,Stationery,28.0,6.0,1058,0,0,rainy,5
+2026-04-13,P006,Notebook Pack,Stationery,51.0,6.0,1007,0,0,sunny,5
+2026-04-14,P006,Notebook Pack,Stationery,49.0,6.0,958,0,0,sunny,5
+2026-04-15,P006,Notebook Pack,Stationery,66.0,6.0,892,0,0,rainy,5
+2026-04-16,P006,Notebook Pack,Stationery,51.0,6.0,841,0,0,cloudy,5
+2026-04-17,P006,Notebook Pack,Stationery,53.0,6.0,788,0,0,sunny,5
+2026-04-18,P006,Notebook Pack,Stationery,36.0,6.0,752,0,0,cloudy,5
+2026-04-19,P006,Notebook Pack,Stationery,36.0,6.0,716,0,0,cloudy,5
+2026-04-20,P006,Notebook Pack,Stationery,43.0,6.0,673,0,0,rainy,5
+2026-04-21,P006,Notebook Pack,Stationery,48.0,6.0,625,0,0,rainy,5
+2026-04-22,P006,Notebook Pack,Stationery,47.0,6.0,578,0,0,cloudy,5
+2026-04-23,P006,Notebook Pack,Stationery,50.0,6.0,528,0,0,sunny,5
+2026-04-24,P006,Notebook Pack,Stationery,48.0,6.0,480,0,0,rainy,5
+2026-04-25,P006,Notebook Pack,Stationery,43.0,5.1,437,1,0,sunny,5
+2026-04-26,P006,Notebook Pack,Stationery,30.0,6.0,407,0,0,rainy,5
+2026-04-27,P006,Notebook Pack,Stationery,47.0,6.0,360,0,0,cloudy,5
+2026-04-28,P006,Notebook Pack,Stationery,84.0,5.1,276,1,0,cloudy,5
+2026-04-29,P006,Notebook Pack,Stationery,43.0,6.0,3233,0,0,rainy,5
+2026-04-30,P006,Notebook Pack,Stationery,49.0,6.0,3184,0,0,cloudy,5
+2026-05-01,P006,Notebook Pack,Stationery,62.0,6.0,3122,0,0,cloudy,5
+2026-05-02,P006,Notebook Pack,Stationery,42.0,5.1,3080,1,0,sunny,5
+2026-05-03,P006,Notebook Pack,Stationery,45.0,5.1,3035,1,0,cloudy,5
+2026-05-04,P006,Notebook Pack,Stationery,49.0,6.0,2986,0,0,sunny,5
+2026-05-05,P006,Notebook Pack,Stationery,42.0,6.0,2944,0,0,sunny,5
+2026-05-06,P006,Notebook Pack,Stationery,55.0,6.0,2889,0,0,sunny,5
+2026-05-07,P006,Notebook Pack,Stationery,46.0,6.0,2843,0,0,cloudy,5
+2026-05-08,P006,Notebook Pack,Stationery,49.0,6.0,2794,0,0,rainy,5
+2026-05-09,P006,Notebook Pack,Stationery,40.0,6.0,2754,0,0,sunny,5
+2026-05-10,P006,Notebook Pack,Stationery,33.0,6.0,2721,0,0,sunny,5
+2026-05-11,P006,Notebook Pack,Stationery,48.0,6.0,2673,0,0,cloudy,5
+2026-05-12,P006,Notebook Pack,Stationery,48.0,6.0,2625,0,0,sunny,5
+2026-05-13,P006,Notebook Pack,Stationery,42.0,6.0,2583,0,0,sunny,5
+2026-05-14,P006,Notebook Pack,Stationery,74.0,5.1,2509,1,0,cloudy,5
+2026-05-15,P006,Notebook Pack,Stationery,61.0,6.0,2448,0,0,cloudy,5
+2026-05-16,P006,Notebook Pack,Stationery,42.0,6.0,2406,0,0,sunny,5
+2026-05-17,P006,Notebook Pack,Stationery,29.0,6.0,2377,0,0,sunny,5
+2026-05-18,P006,Notebook Pack,Stationery,54.0,6.0,2323,0,0,sunny,5
+2026-05-19,P006,Notebook Pack,Stationery,75.0,5.1,2248,1,0,rainy,5
+2026-05-20,P006,Notebook Pack,Stationery,49.0,6.0,2199,0,0,cloudy,5
+2026-05-21,P006,Notebook Pack,Stationery,56.0,6.0,2143,0,0,rainy,5
+2026-05-22,P006,Notebook Pack,Stationery,52.0,6.0,2091,0,0,sunny,5
+2026-05-23,P006,Notebook Pack,Stationery,31.0,6.0,2060,0,0,rainy,5
+2026-05-24,P006,Notebook Pack,Stationery,39.0,6.0,2021,0,0,sunny,5
+2026-05-25,P006,Notebook Pack,Stationery,49.0,6.0,1972,0,0,rainy,5
+2026-05-26,P006,Notebook Pack,Stationery,53.0,6.0,1919,0,0,rainy,5
+2026-05-27,P006,Notebook Pack,Stationery,56.0,6.0,1863,0,0,cloudy,5
+2026-05-28,P006,Notebook Pack,Stationery,50.0,6.0,1813,0,0,rainy,5
+2026-05-29,P006,Notebook Pack,Stationery,50.0,6.0,1763,0,0,rainy,5
+2026-05-30,P006,Notebook Pack,Stationery,31.0,6.0,1732,0,0,rainy,5
+2026-05-31,P006,Notebook Pack,Stationery,44.0,6.0,1688,0,0,sunny,5
+2026-06-01,P006,Notebook Pack,Stationery,75.0,6.0,1613,0,0,sunny,5
+2026-06-02,P006,Notebook Pack,Stationery,78.0,6.0,1535,0,0,rainy,5
+2026-06-03,P006,Notebook Pack,Stationery,87.0,6.0,1448,0,0,rainy,5
+2026-06-04,P006,Notebook Pack,Stationery,84.0,6.0,1364,0,0,cloudy,5
+2026-06-05,P006,Notebook Pack,Stationery,79.0,6.0,1285,0,0,sunny,5
+2026-06-06,P006,Notebook Pack,Stationery,52.0,6.0,1233,0,0,cloudy,5
+2026-06-07,P006,Notebook Pack,Stationery,61.0,6.0,1172,0,0,cloudy,5
+2026-06-08,P006,Notebook Pack,Stationery,78.0,6.0,1094,0,0,cloudy,5
+2026-06-09,P006,Notebook Pack,Stationery,85.0,6.0,1009,0,0,cloudy,5
+2026-06-10,P006,Notebook Pack,Stationery,93.0,6.0,916,0,0,rainy,5
+2026-06-11,P006,Notebook Pack,Stationery,96.0,6.0,820,0,0,cloudy,5
+2026-06-12,P006,Notebook Pack,Stationery,83.0,6.0,737,0,0,rainy,5
+2026-06-13,P006,Notebook Pack,Stationery,48.0,6.0,689,0,0,sunny,5
+2026-06-14,P006,Notebook Pack,Stationery,59.0,6.0,630,0,0,rainy,5
+2026-06-15,P006,Notebook Pack,Stationery,75.0,6.0,555,0,0,rainy,5
+2026-06-16,P006,Notebook Pack,Stationery,69.0,6.0,486,0,0,cloudy,5
+2026-06-17,P006,Notebook Pack,Stationery,79.0,6.0,407,0,0,cloudy,5
+2026-06-18,P006,Notebook Pack,Stationery,74.0,6.0,333,0,0,cloudy,5
+2026-06-19,P006,Notebook Pack,Stationery,84.0,6.0,3249,0,0,cloudy,5
+2026-06-20,P006,Notebook Pack,Stationery,58.0,6.0,3191,0,0,rainy,5
+2026-06-21,P006,Notebook Pack,Stationery,51.0,6.0,3140,0,0,sunny,5
+2026-06-22,P006,Notebook Pack,Stationery,89.0,6.0,3051,0,0,cloudy,5
+2026-06-23,P006,Notebook Pack,Stationery,87.0,6.0,2964,0,0,rainy,5
+2026-06-24,P006,Notebook Pack,Stationery,81.0,6.0,2883,0,0,cloudy,5
+2026-06-25,P006,Notebook Pack,Stationery,86.0,6.0,2797,0,0,cloudy,5
+2026-06-26,P006,Notebook Pack,Stationery,84.0,6.0,2713,0,0,cloudy,5
+2026-06-27,P006,Notebook Pack,Stationery,64.0,6.0,2649,0,0,cloudy,5
+2026-06-28,P006,Notebook Pack,Stationery,47.0,6.0,2602,0,0,cloudy,5
+2026-06-29,P006,Notebook Pack,Stationery,73.0,6.0,2529,0,0,rainy,5
+2026-06-30,P006,Notebook Pack,Stationery,72.0,6.0,2457,0,0,rainy,5
+2026-07-01,P006,Notebook Pack,Stationery,80.0,6.0,2377,0,0,rainy,5
+2026-07-02,P006,Notebook Pack,Stationery,73.0,6.0,2304,0,0,cloudy,5
+2026-07-03,P006,Notebook Pack,Stationery,86.0,6.0,2218,0,0,rainy,5
+2026-07-04,P006,Notebook Pack,Stationery,50.0,6.0,2168,0,0,rainy,5
+2026-07-05,P006,Notebook Pack,Stationery,44.0,6.0,2124,0,0,sunny,5
+2026-07-06,P006,Notebook Pack,Stationery,110.0,6.0,2014,0,0,rainy,5
+2026-07-07,P006,Notebook Pack,Stationery,68.0,6.0,1946,0,0,rainy,5
+2026-07-08,P006,Notebook Pack,Stationery,84.0,6.0,1862,0,0,cloudy,5
+2026-07-09,P006,Notebook Pack,Stationery,66.0,6.0,1796,0,0,rainy,5
+2026-07-10,P006,Notebook Pack,Stationery,91.0,6.0,1705,0,0,sunny,5
+2026-07-11,P006,Notebook Pack,Stationery,72.0,6.0,1633,0,0,rainy,5
+2026-07-12,P006,Notebook Pack,Stationery,48.0,6.0,1585,0,0,cloudy,5
+2026-07-13,P006,Notebook Pack,Stationery,82.0,6.0,1503,0,0,rainy,5
+2026-07-14,P006,Notebook Pack,Stationery,76.0,6.0,1427,0,0,cloudy,5
+2026-07-15,P006,Notebook Pack,Stationery,76.0,6.0,1351,0,0,cloudy,5
+2026-07-16,P006,Notebook Pack,Stationery,68.0,6.0,1283,0,0,cloudy,5
+2026-07-17,P006,Notebook Pack,Stationery,89.0,6.0,1194,0,0,cloudy,5
+2026-07-18,P006,Notebook Pack,Stationery,51.0,6.0,1143,0,0,rainy,5
+2026-07-19,P006,Notebook Pack,Stationery,54.0,6.0,1089,0,0,rainy,5
+2026-07-20,P006,Notebook Pack,Stationery,82.0,6.0,1007,0,0,sunny,5
+2026-07-21,P006,Notebook Pack,Stationery,86.0,6.0,921,0,0,cloudy,5
+2026-07-22,P006,Notebook Pack,Stationery,68.0,6.0,853,0,0,sunny,5
+2026-07-23,P006,Notebook Pack,Stationery,75.0,6.0,778,0,0,sunny,5
+2026-07-24,P006,Notebook Pack,Stationery,68.0,6.0,710,0,0,rainy,5
+2026-07-25,P006,Notebook Pack,Stationery,51.0,6.0,659,0,0,rainy,5
+2026-07-26,P006,Notebook Pack,Stationery,40.0,6.0,619,0,0,rainy,5
+2026-07-27,P006,Notebook Pack,Stationery,87.0,6.0,532,0,0,cloudy,5
+2026-07-28,P006,Notebook Pack,Stationery,86.0,6.0,446,0,0,cloudy,5
+2026-07-29,P006,Notebook Pack,Stationery,80.0,6.0,366,0,0,rainy,5
+2026-07-30,P006,Notebook Pack,Stationery,76.0,6.0,290,0,0,sunny,5
+2026-07-31,P006,Notebook Pack,Stationery,88.0,6.0,3202,0,0,sunny,5
+2026-08-01,P006,Notebook Pack,Stationery,31.0,6.0,3171,0,0,cloudy,5
+2026-08-02,P006,Notebook Pack,Stationery,28.0,6.0,3143,0,0,cloudy,5
+2026-08-03,P006,Notebook Pack,Stationery,53.0,6.0,3090,0,0,cloudy,5
+2026-08-04,P006,Notebook Pack,Stationery,34.0,6.0,3056,0,0,sunny,5
+2026-08-05,P006,Notebook Pack,Stationery,212.0,6.0,2844,0,0,cloudy,5
+2026-08-06,P006,Notebook Pack,Stationery,41.0,6.0,2803,0,0,rainy,5
+2026-08-07,P006,Notebook Pack,Stationery,44.0,6.0,2759,0,0,sunny,5
+2026-08-08,P006,Notebook Pack,Stationery,31.0,6.0,2728,0,0,cloudy,5
+2026-08-09,P006,Notebook Pack,Stationery,51.0,5.1,2677,1,0,sunny,5
+2026-08-10,P006,Notebook Pack,Stationery,45.0,6.0,2632,0,0,sunny,5
+2026-08-11,P006,Notebook Pack,Stationery,47.0,6.0,2585,0,0,cloudy,5
+2026-08-12,P006,Notebook Pack,Stationery,58.0,6.0,2527,0,0,cloudy,5
+2026-08-13,P006,Notebook Pack,Stationery,51.0,6.0,2476,0,0,cloudy,5
+2026-08-14,P006,Notebook Pack,Stationery,45.0,6.0,2431,0,0,sunny,5
+2026-08-15,P006,Notebook Pack,Stationery,50.0,6.0,2381,0,1,cloudy,5
+2026-08-16,P006,Notebook Pack,Stationery,28.0,6.0,2353,0,0,sunny,5
+2026-08-17,P006,Notebook Pack,Stationery,41.0,6.0,2312,0,0,cloudy,5
+2026-08-18,P006,Notebook Pack,Stationery,50.0,6.0,2262,0,0,rainy,5
+2026-08-19,P006,Notebook Pack,Stationery,42.0,6.0,2220,0,0,cloudy,5
+2026-08-20,P006,Notebook Pack,Stationery,41.0,6.0,2179,0,0,rainy,5
+2026-08-21,P006,Notebook Pack,Stationery,45.0,6.0,2134,0,0,cloudy,5
+2026-08-22,P006,Notebook Pack,Stationery,33.0,6.0,2101,0,0,rainy,5
+2026-08-23,P006,Notebook Pack,Stationery,30.0,6.0,2071,0,0,rainy,5
+2026-08-24,P006,Notebook Pack,Stationery,51.0,6.0,2020,0,0,rainy,5
+2026-08-25,P006,Notebook Pack,Stationery,57.0,6.0,1963,0,0,cloudy,5
+2026-08-26,P006,Notebook Pack,Stationery,52.0,6.0,1911,0,0,sunny,5
+2026-08-27,P006,Notebook Pack,Stationery,73.0,6.0,1838,0,0,cloudy,5
+2026-08-28,P006,Notebook Pack,Stationery,53.0,6.0,1785,0,0,rainy,5
+2026-08-29,P006,Notebook Pack,Stationery,35.0,5.1,1750,1,0,cloudy,5
+2026-08-30,P006,Notebook Pack,Stationery,36.0,6.0,1714,0,0,rainy,5
+2026-08-31,P006,Notebook Pack,Stationery,60.0,6.0,4000,0,0,rainy,5
+2025-09-01,P007,Gift Hamper,Gifts,10.0,40.0,110,0,0,cloudy,8
+2025-09-02,P007,Gift Hamper,Gifts,11.0,40.0,99,0,0,rainy,8
+2025-09-03,P007,Gift Hamper,Gifts,11.0,40.0,88,0,0,cloudy,8
+2025-09-04,P007,Gift Hamper,Gifts,9.0,40.0,179,0,0,cloudy,8
+2025-09-05,P007,Gift Hamper,Gifts,11.0,40.0,168,0,0,sunny,8
+2025-09-06,P007,Gift Hamper,Gifts,11.0,40.0,157,0,0,cloudy,8
+2025-09-07,P007,Gift Hamper,Gifts,20.0,40.0,137,0,0,cloudy,8
+2025-09-08,P007,Gift Hamper,Gifts,9.0,40.0,128,0,0,rainy,8
+2025-09-09,P007,Gift Hamper,Gifts,13.0,34.0,115,1,0,rainy,8
+2025-09-10,P007,Gift Hamper,Gifts,5.0,40.0,110,0,0,rainy,8
+2025-09-11,P007,Gift Hamper,Gifts,10.0,40.0,100,0,0,rainy,8
+2025-09-12,P007,Gift Hamper,Gifts,10.0,40.0,90,0,0,rainy,8
+2025-09-13,P007,Gift Hamper,Gifts,18.0,40.0,172,0,0,rainy,8
+2025-09-14,P007,Gift Hamper,Gifts,15.0,40.0,157,0,0,rainy,8
+2025-09-15,P007,Gift Hamper,Gifts,7.0,40.0,150,0,0,sunny,8
+2025-09-16,P007,Gift Hamper,Gifts,10.0,40.0,140,0,0,sunny,8
+2025-09-17,P007,Gift Hamper,Gifts,10.0,40.0,130,0,0,cloudy,8
+2025-09-18,P007,Gift Hamper,Gifts,10.0,40.0,120,0,0,sunny,8
+2025-09-19,P007,Gift Hamper,Gifts,11.0,40.0,109,0,0,cloudy,8
+2025-09-20,P007,Gift Hamper,Gifts,21.0,40.0,88,0,0,sunny,8
+2025-09-21,P007,Gift Hamper,Gifts,12.0,40.0,176,0,0,rainy,8
+2025-09-22,P007,Gift Hamper,Gifts,19.0,34.0,157,1,0,cloudy,8
+2025-09-23,P007,Gift Hamper,Gifts,7.0,40.0,150,0,0,sunny,8
+2025-09-24,P007,Gift Hamper,Gifts,16.0,40.0,134,0,0,cloudy,8
+2025-09-25,P007,Gift Hamper,Gifts,10.0,40.0,124,0,0,rainy,8
+2025-09-26,P007,Gift Hamper,Gifts,14.0,40.0,110,0,0,sunny,8
+2025-09-27,P007,Gift Hamper,Gifts,19.0,40.0,91,0,0,rainy,8
+2025-09-28,P007,Gift Hamper,Gifts,6.0,40.0,85,0,0,rainy,8
+2025-09-29,P007,Gift Hamper,Gifts,13.0,40.0,172,0,0,rainy,8
+2025-09-30,P007,Gift Hamper,Gifts,5.0,40.0,167,0,0,sunny,8
+2025-10-01,P007,Gift Hamper,Gifts,12.0,34.0,155,1,0,cloudy,8
+2025-10-02,P007,Gift Hamper,Gifts,31.0,34.0,124,1,1,rainy,8
+2025-10-03,P007,Gift Hamper,Gifts,12.0,40.0,112,0,0,cloudy,8
+2025-10-04,P007,Gift Hamper,Gifts,13.0,40.0,99,0,0,cloudy,8
+2025-10-05,P007,Gift Hamper,Gifts,17.0,40.0,82,0,0,sunny,8
+2025-10-06,P007,Gift Hamper,Gifts,16.0,40.0,166,0,0,cloudy,8
+2025-10-07,P007,Gift Hamper,Gifts,13.0,40.0,153,0,0,rainy,8
+2025-10-08,P007,Gift Hamper,Gifts,7.0,40.0,146,0,0,sunny,8
+2025-10-09,P007,Gift Hamper,Gifts,17.0,40.0,129,0,0,rainy,8
+2025-10-10,P007,Gift Hamper,Gifts,11.0,40.0,118,0,0,rainy,8
+2025-10-11,P007,Gift Hamper,Gifts,6.0,40.0,112,0,0,sunny,8
+2025-10-12,P007,Gift Hamper,Gifts,18.0,40.0,94,0,0,rainy,8
+2025-10-13,P007,Gift Hamper,Gifts,8.0,40.0,86,0,0,cloudy,8
+2025-10-14,P007,Gift Hamper,Gifts,11.0,40.0,175,0,0,sunny,8
+2025-10-15,P007,Gift Hamper,Gifts,13.0,40.0,162,0,0,cloudy,8
+2025-10-16,P007,Gift Hamper,Gifts,12.0,40.0,150,0,0,cloudy,8
+2025-10-17,P007,Gift Hamper,Gifts,9.0,40.0,141,0,0,sunny,8
+2025-10-18,P007,Gift Hamper,Gifts,15.0,40.0,126,0,0,cloudy,8
+2025-10-19,P007,Gift Hamper,Gifts,10.0,40.0,116,0,0,cloudy,8
+2025-10-20,P007,Gift Hamper,Gifts,12.0,40.0,104,0,0,cloudy,8
+2025-10-21,P007,Gift Hamper,Gifts,11.0,40.0,93,0,0,cloudy,8
+2025-10-22,P007,Gift Hamper,Gifts,15.0,40.0,178,0,0,cloudy,8
+2025-10-23,P007,Gift Hamper,Gifts,9.0,40.0,169,0,0,cloudy,8
+2025-10-24,P007,Gift Hamper,Gifts,12.0,40.0,157,0,0,cloudy,8
+2025-10-25,P007,Gift Hamper,Gifts,21.0,34.0,136,1,0,rainy,8
+2025-10-26,P007,Gift Hamper,Gifts,14.0,40.0,122,0,0,rainy,8
+2025-10-27,P007,Gift Hamper,Gifts,17.0,34.0,105,1,0,cloudy,8
+2025-10-28,P007,Gift Hamper,Gifts,10.0,40.0,95,0,0,rainy,8
+2025-10-29,P007,Gift Hamper,Gifts,11.0,40.0,84,0,0,rainy,8
+2025-10-30,P007,Gift Hamper,Gifts,9.0,40.0,175,0,0,sunny,8
+2025-10-31,P007,Gift Hamper,Gifts,15.0,40.0,160,0,0,cloudy,8
+2025-11-01,P007,Gift Hamper,Gifts,51.0,40.0,109,0,1,rainy,8
+2025-11-02,P007,Gift Hamper,Gifts,26.0,40.0,83,0,0,sunny,8
+2025-11-03,P007,Gift Hamper,Gifts,14.0,40.0,169,0,0,cloudy,8
+2025-11-04,P007,Gift Hamper,Gifts,12.0,40.0,157,0,0,rainy,8
+2025-11-05,P007,Gift Hamper,Gifts,30.0,40.0,127,0,0,rainy,8
+2025-11-06,P007,Gift Hamper,Gifts,21.0,40.0,106,0,0,rainy,8
+2025-11-07,P007,Gift Hamper,Gifts,28.0,40.0,178,0,0,cloudy,8
+2025-11-08,P007,Gift Hamper,Gifts,26.0,40.0,152,0,0,sunny,8
+2025-11-09,P007,Gift Hamper,Gifts,13.0,40.0,139,0,0,sunny,8
+2025-11-10,P007,Gift Hamper,Gifts,24.0,40.0,115,0,0,rainy,8
+2025-11-11,P007,Gift Hamper,Gifts,30.0,40.0,85,0,0,rainy,8
+2025-11-12,P007,Gift Hamper,Gifts,21.0,40.0,164,0,0,sunny,8
+2025-11-13,P007,Gift Hamper,Gifts,21.0,40.0,143,0,0,sunny,8
+2025-11-14,P007,Gift Hamper,Gifts,21.0,40.0,122,0,0,sunny,8
+2025-11-15,P007,Gift Hamper,Gifts,34.0,40.0,88,0,0,rainy,8
+2025-11-16,P007,Gift Hamper,Gifts,27.0,40.0,161,0,0,rainy,8
+2025-11-17,P007,Gift Hamper,Gifts,17.0,40.0,144,0,0,rainy,8
+2025-11-18,P007,Gift Hamper,Gifts,32.0,40.0,112,0,0,sunny,8
+2025-11-19,P007,Gift Hamper,Gifts,16.0,40.0,96,0,0,rainy,8
+2025-11-20,P007,Gift Hamper,Gifts,12.0,40.0,84,0,0,rainy,8
+2025-11-21,P007,Gift Hamper,Gifts,11.0,40.0,173,0,0,cloudy,8
+2025-11-22,P007,Gift Hamper,Gifts,26.0,40.0,147,0,0,rainy,8
+2025-11-23,P007,Gift Hamper,Gifts,25.0,40.0,122,0,0,cloudy,8
+2025-11-24,P007,Gift Hamper,Gifts,21.0,40.0,101,0,0,sunny,8
+2025-11-25,P007,Gift Hamper,Gifts,19.0,40.0,82,0,0,cloudy,8
+2025-11-26,P007,Gift Hamper,Gifts,17.0,40.0,165,0,0,sunny,8
+2025-11-27,P007,Gift Hamper,Gifts,21.0,40.0,144,0,0,sunny,8
+2025-11-28,P007,Gift Hamper,Gifts,28.0,40.0,116,0,0,cloudy,8
+2025-11-29,P007,Gift Hamper,Gifts,20.0,40.0,96,0,0,rainy,8
+2025-11-30,P007,Gift Hamper,Gifts,21.0,40.0,175,0,0,sunny,8
+2025-12-01,P007,Gift Hamper,Gifts,16.0,40.0,159,0,0,sunny,8
+2025-12-02,P007,Gift Hamper,Gifts,22.0,40.0,137,0,0,rainy,8
+2025-12-03,P007,Gift Hamper,Gifts,28.0,40.0,109,0,0,sunny,8
+2025-12-04,P007,Gift Hamper,Gifts,15.0,40.0,94,0,0,sunny,8
+2025-12-05,P007,Gift Hamper,Gifts,17.0,40.0,177,0,0,sunny,8
+2025-12-06,P007,Gift Hamper,Gifts,36.0,40.0,141,0,0,sunny,8
+2025-12-07,P007,Gift Hamper,Gifts,28.0,40.0,113,0,0,rainy,8
+2025-12-08,P007,Gift Hamper,Gifts,23.0,40.0,90,0,0,cloudy,8
+2025-12-09,P007,Gift Hamper,Gifts,20.0,40.0,170,0,0,rainy,8
+2025-12-10,P007,Gift Hamper,Gifts,17.0,40.0,153,0,0,rainy,8
+2025-12-11,P007,Gift Hamper,Gifts,22.0,40.0,131,0,0,cloudy,8
+2025-12-12,P007,Gift Hamper,Gifts,19.0,40.0,112,0,0,rainy,8
+2025-12-13,P007,Gift Hamper,Gifts,32.0,40.0,80,0,0,sunny,8
+2025-12-14,P007,Gift Hamper,Gifts,30.0,40.0,150,0,0,sunny,8
+2025-12-15,P007,Gift Hamper,Gifts,15.0,40.0,135,0,0,rainy,8
+2025-12-16,P007,Gift Hamper,Gifts,14.0,40.0,121,0,0,cloudy,8
+2025-12-17,P007,Gift Hamper,Gifts,17.0,40.0,104,0,0,cloudy,8
+2025-12-18,P007,Gift Hamper,Gifts,18.0,40.0,86,0,0,cloudy,8
+2025-12-19,P007,Gift Hamper,Gifts,18.0,40.0,168,0,0,rainy,8
+2025-12-20,P007,Gift Hamper,Gifts,19.0,40.0,149,0,0,sunny,8
+2025-12-21,P007,Gift Hamper,Gifts,34.0,40.0,115,0,0,rainy,8
+2025-12-22,P007,Gift Hamper,Gifts,19.0,40.0,96,0,0,rainy,8
+2025-12-23,P007,Gift Hamper,Gifts,28.0,40.0,168,0,0,rainy,8
+2025-12-24,P007,Gift Hamper,Gifts,19.0,40.0,149,0,0,sunny,8
+2025-12-25,P007,Gift Hamper,Gifts,30.0,40.0,119,0,1,sunny,8
+2025-12-26,P007,Gift Hamper,Gifts,13.0,40.0,106,0,0,sunny,8
+2025-12-27,P007,Gift Hamper,Gifts,26.0,40.0,80,0,0,rainy,8
+2025-12-28,P007,Gift Hamper,Gifts,25.0,40.0,155,0,0,cloudy,8
+2025-12-29,P007,Gift Hamper,Gifts,14.0,40.0,141,0,0,rainy,8
+2025-12-30,P007,Gift Hamper,Gifts,18.0,40.0,123,0,0,sunny,8
+2025-12-31,P007,Gift Hamper,Gifts,16.0,40.0,107,0,0,cloudy,8
+2026-01-01,P007,Gift Hamper,Gifts,13.0,40.0,94,0,1,sunny,8
+2026-01-02,P007,Gift Hamper,Gifts,12.0,40.0,82,0,0,rainy,8
+2026-01-03,P007,Gift Hamper,Gifts,17.0,40.0,165,0,0,sunny,8
+2026-01-04,P007,Gift Hamper,Gifts,16.0,40.0,149,0,0,cloudy,8
+2026-01-05,P007,Gift Hamper,Gifts,5.0,40.0,144,0,0,rainy,8
+2026-01-06,P007,Gift Hamper,Gifts,13.0,40.0,131,0,0,rainy,8
+2026-01-07,P007,Gift Hamper,Gifts,8.0,40.0,123,0,0,rainy,8
+2026-01-08,P007,Gift Hamper,Gifts,15.0,34.0,108,1,0,cloudy,8
+2026-01-09,P007,Gift Hamper,Gifts,12.0,40.0,96,0,0,sunny,8
+2026-01-10,P007,Gift Hamper,Gifts,17.0,40.0,179,0,0,sunny,8
+2026-01-11,P007,Gift Hamper,Gifts,18.0,40.0,161,0,0,cloudy,8
+2026-01-12,P007,Gift Hamper,Gifts,6.0,40.0,155,0,0,cloudy,8
+2026-01-13,P007,Gift Hamper,Gifts,,40.0,146,0,0,cloudy,8
+2026-01-14,P007,Gift Hamper,Gifts,6.0,40.0,140,0,0,sunny,8
+2026-01-15,P007,Gift Hamper,Gifts,13.0,34.0,127,1,0,rainy,8
+2026-01-16,P007,Gift Hamper,Gifts,10.0,40.0,117,0,0,cloudy,8
+2026-01-17,P007,Gift Hamper,Gifts,18.0,40.0,99,0,0,sunny,8
+2026-01-18,P007,Gift Hamper,Gifts,19.0,40.0,80,0,0,rainy,8
+2026-01-19,P007,Gift Hamper,Gifts,11.0,40.0,169,0,0,cloudy,8
+2026-01-20,P007,Gift Hamper,Gifts,10.0,34.0,159,1,0,sunny,8
+2026-01-21,P007,Gift Hamper,Gifts,9.0,40.0,150,0,0,cloudy,8
+2026-01-22,P007,Gift Hamper,Gifts,13.0,40.0,137,0,0,rainy,8
+2026-01-23,P007,Gift Hamper,Gifts,8.0,40.0,129,0,0,rainy,8
+2026-01-24,P007,Gift Hamper,Gifts,14.0,40.0,115,0,0,sunny,8
+2026-01-25,P007,Gift Hamper,Gifts,15.0,40.0,100,0,0,rainy,8
+2026-01-26,P007,Gift Hamper,Gifts,21.0,40.0,179,0,1,cloudy,8
+2026-01-27,P007,Gift Hamper,Gifts,52.0,40.0,127,0,0,rainy,8
+2026-01-28,P007,Gift Hamper,Gifts,12.0,40.0,115,0,0,rainy,8
+2026-01-29,P007,Gift Hamper,Gifts,11.0,40.0,104,0,0,rainy,8
+2026-01-30,P007,Gift Hamper,Gifts,12.0,40.0,92,0,0,cloudy,8
+2026-01-31,P007,Gift Hamper,Gifts,9.0,40.0,83,0,0,cloudy,8
+2026-02-01,P007,Gift Hamper,Gifts,18.0,40.0,165,0,0,rainy,8
+2026-02-02,P007,Gift Hamper,Gifts,11.0,40.0,154,0,0,rainy,8
+2026-02-03,P007,Gift Hamper,Gifts,11.0,40.0,143,0,0,rainy,8
+2026-02-04,P007,Gift Hamper,Gifts,,40.0,132,0,0,rainy,8
+2026-02-05,P007,Gift Hamper,Gifts,16.0,40.0,116,0,0,cloudy,8
+2026-02-06,P007,Gift Hamper,Gifts,21.0,40.0,95,0,0,rainy,8
+2026-02-07,P007,Gift Hamper,Gifts,31.0,40.0,164,0,0,rainy,8
+2026-02-08,P007,Gift Hamper,Gifts,22.0,40.0,142,0,0,sunny,8
+2026-02-09,P007,Gift Hamper,Gifts,15.0,40.0,127,0,0,sunny,8
+2026-02-10,P007,Gift Hamper,Gifts,8.0,40.0,119,0,0,rainy,8
+2026-02-11,P007,Gift Hamper,Gifts,12.0,40.0,107,0,0,cloudy,8
+2026-02-12,P007,Gift Hamper,Gifts,14.0,40.0,93,0,0,rainy,8
+2026-02-13,P007,Gift Hamper,Gifts,16.0,40.0,177,0,0,sunny,8
+2026-02-14,P007,Gift Hamper,Gifts,15.0,40.0,162,0,0,cloudy,8
+2026-02-15,P007,Gift Hamper,Gifts,21.0,40.0,141,0,0,rainy,8
+2026-02-16,P007,Gift Hamper,Gifts,18.0,40.0,123,0,0,cloudy,8
+2026-02-17,P007,Gift Hamper,Gifts,22.0,34.0,101,1,0,rainy,8
+2026-02-18,P007,Gift Hamper,Gifts,12.0,40.0,89,0,0,sunny,8
+2026-02-19,P007,Gift Hamper,Gifts,15.0,40.0,174,0,0,cloudy,8
+2026-02-20,P007,Gift Hamper,Gifts,22.0,34.0,152,1,0,cloudy,8
+2026-02-21,P007,Gift Hamper,Gifts,14.0,40.0,138,0,0,rainy,8
+2026-02-22,P007,Gift Hamper,Gifts,25.0,40.0,113,0,0,cloudy,8
+2026-02-23,P007,Gift Hamper,Gifts,15.0,40.0,98,0,0,sunny,8
+2026-02-24,P007,Gift Hamper,Gifts,19.0,40.0,179,0,0,rainy,8
+2026-02-25,P007,Gift Hamper,Gifts,18.0,40.0,161,0,0,rainy,8
+2026-02-26,P007,Gift Hamper,Gifts,17.0,40.0,144,0,0,rainy,8
+2026-02-27,P007,Gift Hamper,Gifts,10.0,40.0,134,0,0,sunny,8
+2026-02-28,P007,Gift Hamper,Gifts,16.0,40.0,118,0,0,rainy,8
+2026-03-01,P007,Gift Hamper,Gifts,15.0,40.0,103,0,0,cloudy,8
+2026-03-02,P007,Gift Hamper,Gifts,8.0,40.0,95,0,0,rainy,8
+2026-03-03,P007,Gift Hamper,Gifts,9.0,40.0,86,0,0,cloudy,8
+2026-03-04,P007,Gift Hamper,Gifts,14.0,40.0,172,0,0,rainy,8
+2026-03-05,P007,Gift Hamper,Gifts,9.0,40.0,163,0,0,cloudy,8
+2026-03-06,P007,Gift Hamper,Gifts,10.0,40.0,153,0,0,cloudy,8
+2026-03-07,P007,Gift Hamper,Gifts,16.0,40.0,137,0,0,rainy,8
+2026-03-08,P007,Gift Hamper,Gifts,18.0,40.0,119,0,0,sunny,8
+2026-03-09,P007,Gift Hamper,Gifts,13.0,40.0,106,0,0,rainy,8
+2026-03-10,P007,Gift Hamper,Gifts,8.0,40.0,98,0,0,sunny,8
+2026-03-11,P007,Gift Hamper,Gifts,7.0,40.0,91,0,0,rainy,8
+2026-03-12,P007,Gift Hamper,Gifts,13.0,40.0,178,0,0,sunny,8
+2026-03-13,P007,Gift Hamper,Gifts,9.0,40.0,169,0,0,sunny,8
+2026-03-14,P007,Gift Hamper,Gifts,17.0,40.0,152,0,0,cloudy,8
+2026-03-15,P007,Gift Hamper,Gifts,17.0,40.0,135,0,0,sunny,8
+2026-03-16,P007,Gift Hamper,Gifts,12.0,40.0,123,0,0,sunny,8
+2026-03-17,P007,Gift Hamper,Gifts,14.0,34.0,109,1,0,sunny,8
+2026-03-18,P007,Gift Hamper,Gifts,5.0,40.0,104,0,0,sunny,8
+2026-03-19,P007,Gift Hamper,Gifts,9.0,40.0,95,0,0,cloudy,8
+2026-03-20,P007,Gift Hamper,Gifts,12.0,40.0,83,0,0,sunny,8
+2026-03-21,P007,Gift Hamper,Gifts,19.0,40.0,164,0,0,sunny,8
+2026-03-22,P007,Gift Hamper,Gifts,10.0,40.0,154,0,0,cloudy,8
+2026-03-23,P007,Gift Hamper,Gifts,10.0,40.0,144,0,0,sunny,8
+2026-03-24,P007,Gift Hamper,Gifts,11.0,40.0,133,0,0,rainy,8
+2026-03-25,P007,Gift Hamper,Gifts,18.0,40.0,115,0,0,rainy,8
+2026-03-26,P007,Gift Hamper,Gifts,12.0,40.0,103,0,0,sunny,8
+2026-03-27,P007,Gift Hamper,Gifts,6.0,40.0,97,0,0,rainy,8
+2026-03-28,P007,Gift Hamper,Gifts,,40.0,83,0,0,rainy,8
+2026-03-29,P007,Gift Hamper,Gifts,12.0,40.0,171,0,0,rainy,8
+2026-03-30,P007,Gift Hamper,Gifts,16.0,40.0,155,0,0,cloudy,8
+2026-03-31,P007,Gift Hamper,Gifts,17.0,34.0,138,1,0,sunny,8
+2026-04-01,P007,Gift Hamper,Gifts,10.0,40.0,128,0,0,rainy,8
+2026-04-02,P007,Gift Hamper,Gifts,12.0,40.0,116,0,0,cloudy,8
+2026-04-03,P007,Gift Hamper,Gifts,8.0,40.0,108,0,0,sunny,8
+2026-04-04,P007,Gift Hamper,Gifts,13.0,40.0,95,0,0,sunny,8
+2026-04-05,P007,Gift Hamper,Gifts,21.0,34.0,174,1,0,sunny,8
+2026-04-06,P007,Gift Hamper,Gifts,7.0,40.0,167,0,0,cloudy,8
+2026-04-07,P007,Gift Hamper,Gifts,16.0,40.0,151,0,0,cloudy,8
+2026-04-08,P007,Gift Hamper,Gifts,12.0,40.0,139,0,0,cloudy,8
+2026-04-09,P007,Gift Hamper,Gifts,11.0,40.0,128,0,0,rainy,8
+2026-04-10,P007,Gift Hamper,Gifts,15.0,40.0,113,0,0,rainy,8
+2026-04-11,P007,Gift Hamper,Gifts,18.0,40.0,95,0,0,rainy,8
+2026-04-12,P007,Gift Hamper,Gifts,11.0,40.0,84,0,0,cloudy,8
+2026-04-13,P007,Gift Hamper,Gifts,11.0,40.0,173,0,0,rainy,8
+2026-04-14,P007,Gift Hamper,Gifts,18.0,40.0,155,0,0,sunny,8
+2026-04-15,P007,Gift Hamper,Gifts,13.0,40.0,142,0,0,cloudy,8
+2026-04-16,P007,Gift Hamper,Gifts,7.0,40.0,135,0,0,cloudy,8
+2026-04-17,P007,Gift Hamper,Gifts,13.0,40.0,122,0,0,sunny,8
+2026-04-18,P007,Gift Hamper,Gifts,24.0,34.0,98,1,0,rainy,8
+2026-04-19,P007,Gift Hamper,Gifts,13.0,40.0,85,0,0,sunny,8
+2026-04-20,P007,Gift Hamper,Gifts,12.0,40.0,173,0,0,sunny,8
+2026-04-21,P007,Gift Hamper,Gifts,14.0,40.0,159,0,0,sunny,8
+2026-04-22,P007,Gift Hamper,Gifts,17.0,40.0,142,0,0,rainy,8
+2026-04-23,P007,Gift Hamper,Gifts,9.0,40.0,133,0,0,cloudy,8
+2026-04-24,P007,Gift Hamper,Gifts,7.0,40.0,126,0,0,sunny,8
+2026-04-25,P007,Gift Hamper,Gifts,14.0,40.0,112,0,0,rainy,8
+2026-04-26,P007,Gift Hamper,Gifts,22.0,40.0,90,0,0,sunny,8
+2026-04-27,P007,Gift Hamper,Gifts,9.0,40.0,81,0,0,sunny,8
+2026-04-28,P007,Gift Hamper,Gifts,10.0,40.0,171,0,0,rainy,8
+2026-04-29,P007,Gift Hamper,Gifts,12.0,40.0,159,0,0,sunny,8
+2026-04-30,P007,Gift Hamper,Gifts,8.0,40.0,151,0,0,sunny,8
+2026-05-01,P007,Gift Hamper,Gifts,5.0,40.0,146,0,0,cloudy,8
+2026-05-02,P007,Gift Hamper,Gifts,11.0,40.0,135,0,0,rainy,8
+2026-05-03,P007,Gift Hamper,Gifts,13.0,40.0,122,0,0,rainy,8
+2026-05-04,P007,Gift Hamper,Gifts,10.0,40.0,112,0,0,sunny,8
+2026-05-05,P007,Gift Hamper,Gifts,15.0,40.0,97,0,0,sunny,8
+2026-05-06,P007,Gift Hamper,Gifts,14.0,40.0,83,0,0,cloudy,8
+2026-05-07,P007,Gift Hamper,Gifts,17.0,40.0,166,0,0,cloudy,8
+2026-05-08,P007,Gift Hamper,Gifts,12.0,40.0,154,0,0,cloudy,8
+2026-05-09,P007,Gift Hamper,Gifts,16.0,40.0,138,0,0,cloudy,8
+2026-05-10,P007,Gift Hamper,Gifts,10.0,40.0,128,0,0,rainy,8
+2026-05-11,P007,Gift Hamper,Gifts,11.0,40.0,117,0,0,sunny,8
+2026-05-12,P007,Gift Hamper,Gifts,10.0,40.0,107,0,0,rainy,8
+2026-05-13,P007,Gift Hamper,Gifts,11.0,40.0,96,0,0,rainy,8
+2026-05-14,P007,Gift Hamper,Gifts,15.0,40.0,81,0,0,rainy,8
+2026-05-15,P007,Gift Hamper,Gifts,9.0,40.0,172,0,0,cloudy,8
+2026-05-16,P007,Gift Hamper,Gifts,17.0,40.0,155,0,0,cloudy,8
+2026-05-17,P007,Gift Hamper,Gifts,16.0,40.0,139,0,0,cloudy,8
+2026-05-18,P007,Gift Hamper,Gifts,12.0,40.0,127,0,0,sunny,8
+2026-05-19,P007,Gift Hamper,Gifts,17.0,40.0,110,0,0,sunny,8
+2026-05-20,P007,Gift Hamper,Gifts,15.0,40.0,95,0,0,cloudy,8
+2026-05-21,P007,Gift Hamper,Gifts,6.0,40.0,89,0,0,cloudy,8
+2026-05-22,P007,Gift Hamper,Gifts,11.0,40.0,178,0,0,cloudy,8
+2026-05-23,P007,Gift Hamper,Gifts,14.0,40.0,164,0,0,cloudy,8
+2026-05-24,P007,Gift Hamper,Gifts,15.0,40.0,149,0,0,sunny,8
+2026-05-25,P007,Gift Hamper,Gifts,15.0,40.0,134,0,0,rainy,8
+2026-05-26,P007,Gift Hamper,Gifts,10.0,40.0,124,0,0,rainy,8
+2026-05-27,P007,Gift Hamper,Gifts,10.0,40.0,114,0,0,sunny,8
+2026-05-28,P007,Gift Hamper,Gifts,16.0,40.0,98,0,0,sunny,8
+2026-05-29,P007,Gift Hamper,Gifts,16.0,40.0,82,0,0,cloudy,8
+2026-05-30,P007,Gift Hamper,Gifts,17.0,40.0,165,0,0,sunny,8
+2026-05-31,P007,Gift Hamper,Gifts,16.0,40.0,149,0,0,sunny,8
+2026-06-01,P007,Gift Hamper,Gifts,5.0,40.0,144,0,0,rainy,8
+2026-06-02,P007,Gift Hamper,Gifts,,34.0,131,1,0,sunny,8
+2026-06-03,P007,Gift Hamper,Gifts,8.0,40.0,123,0,0,cloudy,8
+2026-06-04,P007,Gift Hamper,Gifts,8.0,40.0,115,0,0,rainy,8
+2026-06-05,P007,Gift Hamper,Gifts,12.0,40.0,103,0,0,rainy,8
+2026-06-06,P007,Gift Hamper,Gifts,18.0,40.0,85,0,0,sunny,8
+2026-06-07,P007,Gift Hamper,Gifts,20.0,40.0,165,0,0,sunny,8
+2026-06-08,P007,Gift Hamper,Gifts,16.0,34.0,149,1,0,rainy,8
+2026-06-09,P007,Gift Hamper,Gifts,8.0,40.0,141,0,0,cloudy,8
+2026-06-10,P007,Gift Hamper,Gifts,8.0,40.0,133,0,0,rainy,8
+2026-06-11,P007,Gift Hamper,Gifts,9.0,40.0,124,0,0,cloudy,8
+2026-06-12,P007,Gift Hamper,Gifts,7.0,40.0,117,0,0,sunny,8
+2026-06-13,P007,Gift Hamper,Gifts,15.0,40.0,102,0,0,sunny,8
+2026-06-14,P007,Gift Hamper,Gifts,16.0,40.0,86,0,0,rainy,8
+2026-06-15,P007,Gift Hamper,Gifts,16.0,40.0,170,0,0,rainy,8
+2026-06-16,P007,Gift Hamper,Gifts,10.0,40.0,160,0,0,rainy,8
+2026-06-17,P007,Gift Hamper,Gifts,17.0,40.0,143,0,0,sunny,8
+2026-06-18,P007,Gift Hamper,Gifts,6.0,40.0,137,0,0,sunny,8
+2026-06-19,P007,Gift Hamper,Gifts,6.0,40.0,131,0,0,sunny,8
+2026-06-20,P007,Gift Hamper,Gifts,19.0,40.0,112,0,0,rainy,8
+2026-06-21,P007,Gift Hamper,Gifts,16.0,40.0,96,0,0,sunny,8
+2026-06-22,P007,Gift Hamper,Gifts,15.0,40.0,81,0,0,rainy,8
+2026-06-23,P007,Gift Hamper,Gifts,10.0,40.0,171,0,0,sunny,8
+2026-06-24,P007,Gift Hamper,Gifts,5.0,40.0,166,0,0,cloudy,8
+2026-06-25,P007,Gift Hamper,Gifts,15.0,40.0,151,0,0,sunny,8
+2026-06-26,P007,Gift Hamper,Gifts,6.0,40.0,145,0,0,cloudy,8
+2026-06-27,P007,Gift Hamper,Gifts,14.0,40.0,131,0,0,rainy,8
+2026-06-28,P007,Gift Hamper,Gifts,18.0,40.0,113,0,0,sunny,8
+2026-06-29,P007,Gift Hamper,Gifts,10.0,40.0,103,0,0,cloudy,8
+2026-06-30,P007,Gift Hamper,Gifts,9.0,40.0,94,0,0,sunny,8
+2026-07-01,P007,Gift Hamper,Gifts,12.0,40.0,82,0,0,sunny,8
+2026-07-02,P007,Gift Hamper,Gifts,14.0,40.0,168,0,0,rainy,8
+2026-07-03,P007,Gift Hamper,Gifts,15.0,40.0,153,0,0,cloudy,8
+2026-07-04,P007,Gift Hamper,Gifts,15.0,40.0,138,0,0,cloudy,8
+2026-07-05,P007,Gift Hamper,Gifts,14.0,40.0,124,0,0,sunny,8
+2026-07-06,P007,Gift Hamper,Gifts,6.0,40.0,118,0,0,sunny,8
+2026-07-07,P007,Gift Hamper,Gifts,11.0,40.0,107,0,0,cloudy,8
+2026-07-08,P007,Gift Hamper,Gifts,11.0,40.0,96,0,0,sunny,8
+2026-07-09,P007,Gift Hamper,Gifts,13.0,34.0,83,1,0,rainy,8
+2026-07-10,P007,Gift Hamper,Gifts,15.0,40.0,168,0,0,sunny,8
+2026-07-11,P007,Gift Hamper,Gifts,22.0,40.0,146,0,0,rainy,8
+2026-07-12,P007,Gift Hamper,Gifts,16.0,40.0,130,0,0,sunny,8
+2026-07-13,P007,Gift Hamper,Gifts,14.0,40.0,116,0,0,cloudy,8
+2026-07-14,P007,Gift Hamper,Gifts,13.0,40.0,103,0,0,sunny,8
+2026-07-15,P007,Gift Hamper,Gifts,15.0,40.0,88,0,0,sunny,8
+2026-07-16,P007,Gift Hamper,Gifts,15.0,40.0,173,0,0,cloudy,8
+2026-07-17,P007,Gift Hamper,Gifts,18.0,34.0,155,1,0,sunny,8
+2026-07-18,P007,Gift Hamper,Gifts,15.0,40.0,140,0,0,sunny,8
+2026-07-19,P007,Gift Hamper,Gifts,19.0,40.0,121,0,0,rainy,8
+2026-07-20,P007,Gift Hamper,Gifts,7.0,40.0,114,0,0,cloudy,8
+2026-07-21,P007,Gift Hamper,Gifts,16.0,40.0,98,0,0,cloudy,8
+2026-07-22,P007,Gift Hamper,Gifts,8.0,40.0,90,0,0,cloudy,8
+2026-07-23,P007,Gift Hamper,Gifts,12.0,40.0,178,0,0,cloudy,8
+2026-07-24,P007,Gift Hamper,Gifts,14.0,40.0,164,0,0,cloudy,8
+2026-07-25,P007,Gift Hamper,Gifts,19.0,40.0,145,0,0,rainy,8
+2026-07-26,P007,Gift Hamper,Gifts,15.0,40.0,130,0,0,cloudy,8
+2026-07-27,P007,Gift Hamper,Gifts,6.0,40.0,124,0,0,cloudy,8
+2026-07-28,P007,Gift Hamper,Gifts,10.0,40.0,114,0,0,sunny,8
+2026-07-29,P007,Gift Hamper,Gifts,16.0,40.0,98,0,0,rainy,8
+2026-07-30,P007,Gift Hamper,Gifts,17.0,40.0,81,0,0,cloudy,8
+2026-07-31,P007,Gift Hamper,Gifts,16.0,40.0,165,0,0,cloudy,8
+2026-08-01,P007,Gift Hamper,Gifts,16.0,40.0,149,0,0,rainy,8
+2026-08-02,P007,Gift Hamper,Gifts,22.0,40.0,127,0,0,sunny,8
+2026-08-03,P007,Gift Hamper,Gifts,,40.0,119,0,0,sunny,8
+2026-08-04,P007,Gift Hamper,Gifts,12.0,40.0,107,0,0,sunny,8
+2026-08-05,P007,Gift Hamper,Gifts,9.0,40.0,98,0,0,sunny,8
+2026-08-06,P007,Gift Hamper,Gifts,10.0,40.0,88,0,0,cloudy,8
+2026-08-07,P007,Gift Hamper,Gifts,13.0,34.0,175,1,0,cloudy,8
+2026-08-08,P007,Gift Hamper,Gifts,16.0,40.0,159,0,0,sunny,8
+2026-08-09,P007,Gift Hamper,Gifts,19.0,34.0,140,1,0,sunny,8
+2026-08-10,P007,Gift Hamper,Gifts,11.0,40.0,129,0,0,rainy,8
+2026-08-11,P007,Gift Hamper,Gifts,7.0,40.0,122,0,0,sunny,8
+2026-08-12,P007,Gift Hamper,Gifts,11.0,40.0,111,0,0,rainy,8
+2026-08-13,P007,Gift Hamper,Gifts,10.0,40.0,101,0,0,rainy,8
+2026-08-14,P007,Gift Hamper,Gifts,14.0,40.0,87,0,0,cloudy,8
+2026-08-15,P007,Gift Hamper,Gifts,34.0,40.0,153,0,1,cloudy,8
+2026-08-16,P007,Gift Hamper,Gifts,13.0,40.0,140,0,0,cloudy,8
+2026-08-17,P007,Gift Hamper,Gifts,13.0,40.0,127,0,0,sunny,8
+2026-08-18,P007,Gift Hamper,Gifts,16.0,40.0,111,0,0,cloudy,8
+2026-08-19,P007,Gift Hamper,Gifts,8.0,40.0,103,0,0,cloudy,8
+2026-08-20,P007,Gift Hamper,Gifts,15.0,40.0,88,0,0,cloudy,8
+2026-08-21,P007,Gift Hamper,Gifts,16.0,40.0,172,0,0,sunny,8
+2026-08-22,P007,Gift Hamper,Gifts,15.0,40.0,157,0,0,rainy,8
+2026-08-23,P007,Gift Hamper,Gifts,15.0,40.0,142,0,0,cloudy,8
+2026-08-24,P007,Gift Hamper,Gifts,6.0,40.0,136,0,0,sunny,8
+2026-08-25,P007,Gift Hamper,Gifts,12.0,40.0,124,0,0,rainy,8
+2026-08-26,P007,Gift Hamper,Gifts,6.0,40.0,118,0,0,rainy,8
+2026-08-27,P007,Gift Hamper,Gifts,12.0,40.0,106,0,0,cloudy,8
+2026-08-28,P007,Gift Hamper,Gifts,16.0,40.0,90,0,0,sunny,8
+2026-08-29,P007,Gift Hamper,Gifts,17.0,40.0,173,0,0,rainy,8
+2026-08-30,P007,Gift Hamper,Gifts,,40.0,157,0,0,sunny,8
+2026-08-31,P007,Gift Hamper,Gifts,4.0,40.0,153,0,0,sunny,8
+2025-09-01,P008,Chocolate Box,Gifts,26.0,14.0,334,0,0,rainy,5
+2025-09-02,P008,Chocolate Box,Gifts,34.0,14.0,300,0,0,rainy,5
+2025-09-03,P008,Chocolate Box,Gifts,34.0,14.0,266,0,0,rainy,5
+2025-09-04,P008,Chocolate Box,Gifts,30.0,14.0,236,0,0,cloudy,5
+2025-09-05,P008,Chocolate Box,Gifts,25.0,14.0,211,0,0,rainy,5
+2025-09-06,P008,Chocolate Box,Gifts,63.0,11.9,568,1,0,cloudy,5
+2025-09-07,P008,Chocolate Box,Gifts,35.0,14.0,533,0,0,cloudy,5
+2025-09-08,P008,Chocolate Box,Gifts,29.0,14.0,504,0,0,rainy,5
+2025-09-09,P008,Chocolate Box,Gifts,28.0,14.0,476,0,0,rainy,5
+2025-09-10,P008,Chocolate Box,Gifts,28.0,14.0,448,0,0,cloudy,5
+2025-09-11,P008,Chocolate Box,Gifts,38.0,14.0,410,0,0,rainy,5
+2025-09-12,P008,Chocolate Box,Gifts,32.0,14.0,378,0,0,cloudy,5
+2025-09-13,P008,Chocolate Box,Gifts,32.0,14.0,346,0,0,sunny,5
+2025-09-14,P008,Chocolate Box,Gifts,25.0,14.0,321,0,0,cloudy,5
+2025-09-15,P008,Chocolate Box,Gifts,37.0,14.0,284,0,0,rainy,5
+2025-09-16,P008,Chocolate Box,Gifts,29.0,14.0,255,0,0,cloudy,5
+2025-09-17,P008,Chocolate Box,Gifts,25.0,14.0,230,0,0,cloudy,5
+2025-09-18,P008,Chocolate Box,Gifts,32.0,14.0,198,0,0,rainy,5
+2025-09-19,P008,Chocolate Box,Gifts,20.0,14.0,178,0,0,rainy,5
+2025-09-20,P008,Chocolate Box,Gifts,37.0,14.0,561,0,0,cloudy,5
+2025-09-21,P008,Chocolate Box,Gifts,40.0,14.0,521,0,0,rainy,5
+2025-09-22,P008,Chocolate Box,Gifts,38.0,14.0,483,0,0,cloudy,5
+2025-09-23,P008,Chocolate Box,Gifts,36.0,14.0,447,0,0,cloudy,5
+2025-09-24,P008,Chocolate Box,Gifts,30.0,14.0,417,0,0,rainy,5
+2025-09-25,P008,Chocolate Box,Gifts,27.0,14.0,390,0,0,sunny,5
+2025-09-26,P008,Chocolate Box,Gifts,35.0,14.0,355,0,0,sunny,5
+2025-09-27,P008,Chocolate Box,Gifts,32.0,14.0,323,0,0,sunny,5
+2025-09-28,P008,Chocolate Box,Gifts,39.0,14.0,284,0,0,rainy,5
+2025-09-29,P008,Chocolate Box,Gifts,30.0,14.0,254,0,0,sunny,5
+2025-09-30,P008,Chocolate Box,Gifts,29.0,14.0,225,0,0,rainy,5
+2025-10-01,P008,Chocolate Box,Gifts,32.0,14.0,193,0,0,rainy,5
+2025-10-02,P008,Chocolate Box,Gifts,59.0,14.0,554,0,1,rainy,5
+2025-10-03,P008,Chocolate Box,Gifts,27.0,14.0,527,0,0,rainy,5
+2025-10-04,P008,Chocolate Box,Gifts,43.0,11.9,484,1,0,rainy,5
+2025-10-05,P008,Chocolate Box,Gifts,44.0,14.0,440,0,0,sunny,5
+2025-10-06,P008,Chocolate Box,Gifts,24.0,14.0,416,0,0,rainy,5
+2025-10-07,P008,Chocolate Box,Gifts,29.0,14.0,387,0,0,sunny,5
+2025-10-08,P008,Chocolate Box,Gifts,30.0,14.0,357,0,0,cloudy,5
+2025-10-09,P008,Chocolate Box,Gifts,25.0,14.0,332,0,0,rainy,5
+2025-10-10,P008,Chocolate Box,Gifts,24.0,14.0,308,0,0,sunny,5
+2025-10-11,P008,Chocolate Box,Gifts,38.0,14.0,270,0,0,sunny,5
+2025-10-12,P008,Chocolate Box,Gifts,31.0,14.0,239,0,0,rainy,5
+2025-10-13,P008,Chocolate Box,Gifts,35.0,14.0,204,0,0,sunny,5
+2025-10-14,P008,Chocolate Box,Gifts,25.0,14.0,179,0,0,sunny,5
+2025-10-15,P008,Chocolate Box,Gifts,21.0,14.0,158,0,0,sunny,5
+2025-10-16,P008,Chocolate Box,Gifts,38.0,14.0,540,0,0,sunny,5
+2025-10-17,P008,Chocolate Box,Gifts,26.0,14.0,514,0,0,cloudy,5
+2025-10-18,P008,Chocolate Box,Gifts,31.0,14.0,483,0,0,rainy,5
+2025-10-19,P008,Chocolate Box,Gifts,35.0,14.0,448,0,0,cloudy,5
+2025-10-20,P008,Chocolate Box,Gifts,28.0,14.0,420,0,0,sunny,5
+2025-10-21,P008,Chocolate Box,Gifts,28.0,14.0,392,0,0,rainy,5
+2025-10-22,P008,Chocolate Box,Gifts,30.0,14.0,362,0,0,cloudy,5
+2025-10-23,P008,Chocolate Box,Gifts,36.0,14.0,326,0,0,sunny,5
+2025-10-24,P008,Chocolate Box,Gifts,34.0,14.0,292,0,0,cloudy,5
+2025-10-25,P008,Chocolate Box,Gifts,45.0,14.0,247,0,0,sunny,5
+2025-10-26,P008,Chocolate Box,Gifts,40.0,14.0,207,0,0,cloudy,5
+2025-10-27,P008,Chocolate Box,Gifts,40.0,11.9,167,1,0,rainy,5
+2025-10-28,P008,Chocolate Box,Gifts,29.0,14.0,558,0,0,cloudy,5
+2025-10-29,P008,Chocolate Box,Gifts,31.0,14.0,527,0,0,rainy,5
+2025-10-30,P008,Chocolate Box,Gifts,22.0,14.0,505,0,0,rainy,5
+2025-10-31,P008,Chocolate Box,Gifts,34.0,14.0,471,0,0,cloudy,5
+2025-11-01,P008,Chocolate Box,Gifts,124.0,14.0,347,0,1,rainy,5
+2025-11-02,P008,Chocolate Box,Gifts,52.0,14.0,295,0,0,rainy,5
+2025-11-03,P008,Chocolate Box,Gifts,47.0,14.0,248,0,0,cloudy,5
+2025-11-04,P008,Chocolate Box,Gifts,43.0,14.0,205,0,0,rainy,5
+2025-11-05,P008,Chocolate Box,Gifts,49.0,14.0,156,0,0,cloudy,5
+2025-11-06,P008,Chocolate Box,Gifts,43.0,14.0,533,0,0,rainy,5
+2025-11-07,P008,Chocolate Box,Gifts,44.0,14.0,489,0,0,sunny,5
+2025-11-08,P008,Chocolate Box,Gifts,52.0,14.0,437,0,0,cloudy,5
+2025-11-09,P008,Chocolate Box,Gifts,64.0,14.0,373,0,0,sunny,5
+2025-11-10,P008,Chocolate Box,Gifts,48.0,14.0,325,0,0,sunny,5
+2025-11-11,P008,Chocolate Box,Gifts,56.0,14.0,269,0,0,cloudy,5
+2025-11-12,P008,Chocolate Box,Gifts,55.0,14.0,214,0,0,sunny,5
+2025-11-13,P008,Chocolate Box,Gifts,48.0,14.0,166,0,0,sunny,5
+2025-11-14,P008,Chocolate Box,Gifts,41.0,14.0,545,0,0,rainy,5
+2025-11-15,P008,Chocolate Box,Gifts,48.0,14.0,497,0,0,sunny,5
+2025-11-16,P008,Chocolate Box,Gifts,64.0,14.0,433,0,0,rainy,5
+2025-11-17,P008,Chocolate Box,Gifts,44.0,14.0,389,0,0,sunny,5
+2025-11-18,P008,Chocolate Box,Gifts,46.0,14.0,343,0,0,cloudy,5
+2025-11-19,P008,Chocolate Box,Gifts,46.0,14.0,297,0,0,sunny,5
+2025-11-20,P008,Chocolate Box,Gifts,45.0,14.0,252,0,0,sunny,5
+2025-11-21,P008,Chocolate Box,Gifts,61.0,14.0,191,0,0,rainy,5
+2025-11-22,P008,Chocolate Box,Gifts,58.0,14.0,553,0,0,sunny,5
+2025-11-23,P008,Chocolate Box,Gifts,55.0,14.0,498,0,0,rainy,5
+2025-11-24,P008,Chocolate Box,Gifts,42.0,14.0,456,0,0,cloudy,5
+2025-11-25,P008,Chocolate Box,Gifts,56.0,14.0,400,0,0,cloudy,5
+2025-11-26,P008,Chocolate Box,Gifts,57.0,11.9,343,1,0,rainy,5
+2025-11-27,P008,Chocolate Box,Gifts,59.0,11.9,284,1,0,cloudy,5
+2025-11-28,P008,Chocolate Box,Gifts,53.0,14.0,231,0,0,cloudy,5
+2025-11-29,P008,Chocolate Box,Gifts,47.0,14.0,184,0,0,cloudy,5
+2025-11-30,P008,Chocolate Box,Gifts,53.0,14.0,551,0,0,cloudy,5
+2025-12-01,P008,Chocolate Box,Gifts,59.0,14.0,492,0,0,rainy,5
+2025-12-02,P008,Chocolate Box,Gifts,51.0,14.0,441,0,0,cloudy,5
+2025-12-03,P008,Chocolate Box,Gifts,70.0,11.9,371,1,0,sunny,5
+2025-12-04,P008,Chocolate Box,Gifts,59.0,14.0,312,0,0,rainy,5
+2025-12-05,P008,Chocolate Box,Gifts,33.0,14.0,279,0,0,cloudy,5
+2025-12-06,P008,Chocolate Box,Gifts,83.0,11.9,196,1,0,rainy,5
+2025-12-07,P008,Chocolate Box,Gifts,69.0,14.0,547,0,0,cloudy,5
+2025-12-08,P008,Chocolate Box,Gifts,55.0,14.0,492,0,0,sunny,5
+2025-12-09,P008,Chocolate Box,Gifts,58.0,14.0,434,0,0,rainy,5
+2025-12-10,P008,Chocolate Box,Gifts,176.0,14.0,258,0,0,rainy,5
+2025-12-11,P008,Chocolate Box,Gifts,48.0,14.0,210,0,0,sunny,5
+2025-12-12,P008,Chocolate Box,Gifts,44.0,14.0,166,0,0,rainy,5
+2025-12-13,P008,Chocolate Box,Gifts,72.0,14.0,514,0,0,sunny,5
+2025-12-14,P008,Chocolate Box,Gifts,80.0,11.9,434,1,0,rainy,5
+2025-12-15,P008,Chocolate Box,Gifts,156.0,14.0,278,0,0,cloudy,5
+2025-12-16,P008,Chocolate Box,Gifts,51.0,14.0,227,0,0,cloudy,5
+2025-12-17,P008,Chocolate Box,Gifts,66.0,14.0,161,0,0,sunny,5
+2025-12-18,P008,Chocolate Box,Gifts,45.0,14.0,536,0,0,sunny,5
+2025-12-19,P008,Chocolate Box,Gifts,38.0,14.0,498,0,0,rainy,5
+2025-12-20,P008,Chocolate Box,Gifts,80.0,11.9,418,1,0,cloudy,5
+2025-12-21,P008,Chocolate Box,Gifts,65.0,14.0,353,0,0,sunny,5
+2025-12-22,P008,Chocolate Box,Gifts,50.0,14.0,303,0,0,cloudy,5
+2025-12-23,P008,Chocolate Box,Gifts,52.0,14.0,251,0,0,rainy,5
+2025-12-24,P008,Chocolate Box,Gifts,52.0,14.0,199,0,0,sunny,5
+2025-12-25,P008,Chocolate Box,Gifts,80.0,14.0,539,0,1,rainy,5
+2025-12-26,P008,Chocolate Box,Gifts,38.0,14.0,501,0,0,rainy,5
+2025-12-27,P008,Chocolate Box,Gifts,64.0,14.0,437,0,0,cloudy,5
+2025-12-28,P008,Chocolate Box,Gifts,53.0,14.0,384,0,0,sunny,5
+2025-12-29,P008,Chocolate Box,Gifts,47.0,14.0,337,0,0,rainy,5
+2025-12-30,P008,Chocolate Box,Gifts,48.0,14.0,289,0,0,rainy,5
+2025-12-31,P008,Chocolate Box,Gifts,51.0,14.0,238,0,0,cloudy,5
+2026-01-01,P008,Chocolate Box,Gifts,59.0,14.0,179,0,1,cloudy,5
+2026-01-02,P008,Chocolate Box,Gifts,26.0,14.0,153,0,0,rainy,5
+2026-01-03,P008,Chocolate Box,Gifts,45.0,14.0,528,0,0,sunny,5
+2026-01-04,P008,Chocolate Box,Gifts,29.0,14.0,499,0,0,sunny,5
+2026-01-05,P008,Chocolate Box,Gifts,28.0,14.0,471,0,0,cloudy,5
+2026-01-06,P008,Chocolate Box,Gifts,32.0,14.0,439,0,0,cloudy,5
+2026-01-07,P008,Chocolate Box,Gifts,26.0,14.0,413,0,0,cloudy,5
+2026-01-08,P008,Chocolate Box,Gifts,33.0,14.0,380,0,0,cloudy,5
+2026-01-09,P008,Chocolate Box,Gifts,34.0,14.0,346,0,0,rainy,5
+2026-01-10,P008,Chocolate Box,Gifts,52.0,11.9,294,1,0,cloudy,5
+2026-01-11,P008,Chocolate Box,Gifts,30.0,14.0,264,0,0,cloudy,5
+2026-01-12,P008,Chocolate Box,Gifts,30.0,14.0,234,0,0,rainy,5
+2026-01-13,P008,Chocolate Box,Gifts,36.0,14.0,198,0,0,sunny,5
+2026-01-14,P008,Chocolate Box,Gifts,38.0,14.0,160,0,0,rainy,5
+2026-01-15,P008,Chocolate Box,Gifts,26.0,14.0,554,0,0,rainy,5
+2026-01-16,P008,Chocolate Box,Gifts,28.0,14.0,526,0,0,cloudy,5
+2026-01-17,P008,Chocolate Box,Gifts,37.0,14.0,489,0,0,cloudy,5
+2026-01-18,P008,Chocolate Box,Gifts,70.0,11.9,419,1,0,cloudy,5
+2026-01-19,P008,Chocolate Box,Gifts,30.0,14.0,389,0,0,sunny,5
+2026-01-20,P008,Chocolate Box,Gifts,24.0,14.0,365,0,0,cloudy,5
+2026-01-21,P008,Chocolate Box,Gifts,31.0,14.0,334,0,0,rainy,5
+2026-01-22,P008,Chocolate Box,Gifts,37.0,14.0,297,0,0,cloudy,5
+2026-01-23,P008,Chocolate Box,Gifts,24.0,14.0,273,0,0,sunny,5
+2026-01-24,P008,Chocolate Box,Gifts,37.0,14.0,236,0,0,cloudy,5
+2026-01-25,P008,Chocolate Box,Gifts,29.0,14.0,207,0,0,sunny,5
+2026-01-26,P008,Chocolate Box,Gifts,70.0,11.9,557,1,1,rainy,5
+2026-01-27,P008,Chocolate Box,Gifts,27.0,14.0,530,0,0,cloudy,5
+2026-01-28,P008,Chocolate Box,Gifts,32.0,14.0,498,0,0,sunny,5
+2026-01-29,P008,Chocolate Box,Gifts,24.0,14.0,474,0,0,cloudy,5
+2026-01-30,P008,Chocolate Box,Gifts,29.0,14.0,445,0,0,cloudy,5
+2026-01-31,P008,Chocolate Box,Gifts,30.0,14.0,415,0,0,cloudy,5
+2026-02-01,P008,Chocolate Box,Gifts,59.0,14.0,356,0,0,cloudy,5
+2026-02-02,P008,Chocolate Box,Gifts,48.0,14.0,308,0,0,rainy,5
+2026-02-03,P008,Chocolate Box,Gifts,39.0,14.0,269,0,0,rainy,5
+2026-02-04,P008,Chocolate Box,Gifts,43.0,14.0,226,0,0,sunny,5
+2026-02-05,P008,Chocolate Box,Gifts,52.0,14.0,174,0,0,sunny,5
+2026-02-06,P008,Chocolate Box,Gifts,56.0,14.0,538,0,0,rainy,5
+2026-02-07,P008,Chocolate Box,Gifts,69.0,14.0,469,0,0,cloudy,5
+2026-02-08,P008,Chocolate Box,Gifts,47.0,14.0,422,0,0,sunny,5
+2026-02-09,P008,Chocolate Box,Gifts,48.0,14.0,374,0,0,cloudy,5
+2026-02-10,P008,Chocolate Box,Gifts,43.0,14.0,331,0,0,sunny,5
+2026-02-11,P008,Chocolate Box,Gifts,50.0,14.0,281,0,0,sunny,5
+2026-02-12,P008,Chocolate Box,Gifts,54.0,14.0,227,0,0,sunny,5
+2026-02-13,P008,Chocolate Box,Gifts,33.0,14.0,194,0,0,sunny,5
+2026-02-14,P008,Chocolate Box,Gifts,62.0,14.0,552,0,0,sunny,5
+2026-02-15,P008,Chocolate Box,Gifts,51.0,14.0,501,0,0,rainy,5
+2026-02-16,P008,Chocolate Box,Gifts,42.0,14.0,459,0,0,cloudy,5
+2026-02-17,P008,Chocolate Box,Gifts,47.0,14.0,412,0,0,cloudy,5
+2026-02-18,P008,Chocolate Box,Gifts,40.0,14.0,372,0,0,rainy,5
+2026-02-19,P008,Chocolate Box,Gifts,44.0,14.0,328,0,0,rainy,5
+2026-02-20,P008,Chocolate Box,Gifts,55.0,14.0,273,0,0,rainy,5
+2026-02-21,P008,Chocolate Box,Gifts,54.0,14.0,219,0,0,sunny,5
+2026-02-22,P008,Chocolate Box,Gifts,48.0,14.0,171,0,0,rainy,5
+2026-02-23,P008,Chocolate Box,Gifts,43.0,14.0,548,0,0,rainy,5
+2026-02-24,P008,Chocolate Box,Gifts,45.0,14.0,503,0,0,sunny,5
+2026-02-25,P008,Chocolate Box,Gifts,48.0,14.0,455,0,0,rainy,5
+2026-02-26,P008,Chocolate Box,Gifts,45.0,14.0,410,0,0,rainy,5
+2026-02-27,P008,Chocolate Box,Gifts,47.0,14.0,363,0,0,rainy,5
+2026-02-28,P008,Chocolate Box,Gifts,59.0,14.0,304,0,0,cloudy,5
+2026-03-01,P008,Chocolate Box,Gifts,36.0,14.0,268,0,0,sunny,5
+2026-03-02,P008,Chocolate Box,Gifts,45.0,11.9,223,1,0,rainy,5
+2026-03-03,P008,Chocolate Box,Gifts,32.0,14.0,191,0,0,cloudy,5
+2026-03-04,P008,Chocolate Box,Gifts,29.0,14.0,162,0,0,rainy,5
+2026-03-05,P008,Chocolate Box,Gifts,33.0,14.0,549,0,0,sunny,5
+2026-03-06,P008,Chocolate Box,Gifts,31.0,14.0,518,0,0,sunny,5
+2026-03-07,P008,Chocolate Box,Gifts,38.0,14.0,480,0,0,rainy,5
+2026-03-08,P008,Chocolate Box,Gifts,52.0,11.9,428,1,0,cloudy,5
+2026-03-09,P008,Chocolate Box,Gifts,25.0,14.0,403,0,0,rainy,5
+2026-03-10,P008,Chocolate Box,Gifts,43.0,11.9,360,1,0,rainy,5
+2026-03-11,P008,Chocolate Box,Gifts,33.0,14.0,327,0,0,cloudy,5
+2026-03-12,P008,Chocolate Box,Gifts,36.0,14.0,291,0,0,sunny,5
+2026-03-13,P008,Chocolate Box,Gifts,39.0,14.0,252,0,0,rainy,5
+2026-03-14,P008,Chocolate Box,Gifts,47.0,14.0,205,0,0,rainy,5
+2026-03-15,P008,Chocolate Box,Gifts,49.0,14.0,156,0,0,cloudy,5
+2026-03-16,P008,Chocolate Box,Gifts,34.0,14.0,542,0,0,rainy,5
+2026-03-17,P008,Chocolate Box,Gifts,34.0,14.0,508,0,0,sunny,5
+2026-03-18,P008,Chocolate Box,Gifts,26.0,14.0,482,0,0,cloudy,5
+2026-03-19,P008,Chocolate Box,Gifts,23.0,14.0,459,0,0,sunny,5
+2026-03-20,P008,Chocolate Box,Gifts,49.0,11.9,410,1,0,cloudy,5
+2026-03-21,P008,Chocolate Box,Gifts,53.0,11.9,357,1,0,cloudy,5
+2026-03-22,P008,Chocolate Box,Gifts,36.0,14.0,321,0,0,cloudy,5
+2026-03-23,P008,Chocolate Box,Gifts,27.0,14.0,294,0,0,sunny,5
+2026-03-24,P008,Chocolate Box,Gifts,27.0,14.0,267,0,0,rainy,5
+2026-03-25,P008,Chocolate Box,Gifts,36.0,14.0,231,0,0,cloudy,5
+2026-03-26,P008,Chocolate Box,Gifts,26.0,14.0,205,0,0,cloudy,5
+2026-03-27,P008,Chocolate Box,Gifts,24.0,14.0,181,0,0,rainy,5
+2026-03-28,P008,Chocolate Box,Gifts,59.0,11.9,542,1,0,cloudy,5
+2026-03-29,P008,Chocolate Box,Gifts,45.0,14.0,497,0,0,rainy,5
+2026-03-30,P008,Chocolate Box,Gifts,26.0,14.0,471,0,0,sunny,5
+2026-03-31,P008,Chocolate Box,Gifts,21.0,14.0,450,0,0,rainy,5
+2026-04-01,P008,Chocolate Box,Gifts,37.0,14.0,413,0,0,rainy,5
+2026-04-02,P008,Chocolate Box,Gifts,28.0,14.0,385,0,0,rainy,5
+2026-04-03,P008,Chocolate Box,Gifts,19.0,14.0,366,0,0,rainy,5
+2026-04-04,P008,Chocolate Box,Gifts,52.0,14.0,314,0,0,rainy,5
+2026-04-05,P008,Chocolate Box,Gifts,38.0,14.0,276,0,0,cloudy,5
+2026-04-06,P008,Chocolate Box,Gifts,33.0,14.0,243,0,0,rainy,5
+2026-04-07,P008,Chocolate Box,Gifts,33.0,14.0,210,0,0,rainy,5
+2026-04-08,P008,Chocolate Box,Gifts,27.0,14.0,183,0,0,cloudy,5
+2026-04-09,P008,Chocolate Box,Gifts,25.0,14.0,158,0,0,rainy,5
+2026-04-10,P008,Chocolate Box,Gifts,32.0,14.0,546,0,0,sunny,5
+2026-04-11,P008,Chocolate Box,Gifts,40.0,14.0,506,0,0,rainy,5
+2026-04-12,P008,Chocolate Box,Gifts,42.0,14.0,464,0,0,rainy,5
+2026-04-13,P008,Chocolate Box,Gifts,21.0,14.0,443,0,0,sunny,5
+2026-04-14,P008,Chocolate Box,Gifts,23.0,14.0,420,0,0,sunny,5
+2026-04-15,P008,Chocolate Box,Gifts,38.0,11.9,382,1,0,sunny,5
+2026-04-16,P008,Chocolate Box,Gifts,40.0,14.0,342,0,0,sunny,5
+2026-04-17,P008,Chocolate Box,Gifts,23.0,14.0,319,0,0,rainy,5
+2026-04-18,P008,Chocolate Box,Gifts,40.0,14.0,279,0,0,cloudy,5
+2026-04-19,P008,Chocolate Box,Gifts,47.0,11.9,232,1,0,cloudy,5
+2026-04-20,P008,Chocolate Box,Gifts,29.0,14.0,203,0,0,rainy,5
+2026-04-21,P008,Chocolate Box,Gifts,29.0,14.0,174,0,0,cloudy,5
+2026-04-22,P008,Chocolate Box,Gifts,29.0,14.0,565,0,0,rainy,5
+2026-04-23,P008,Chocolate Box,Gifts,29.0,14.0,536,0,0,rainy,5
+2026-04-24,P008,Chocolate Box,Gifts,34.0,14.0,502,0,0,sunny,5
+2026-04-25,P008,Chocolate Box,Gifts,34.0,14.0,468,0,0,cloudy,5
+2026-04-26,P008,Chocolate Box,Gifts,32.0,14.0,436,0,0,cloudy,5
+2026-04-27,P008,Chocolate Box,Gifts,36.0,14.0,400,0,0,cloudy,5
+2026-04-28,P008,Chocolate Box,Gifts,44.0,14.0,356,0,0,rainy,5
+2026-04-29,P008,Chocolate Box,Gifts,23.0,14.0,333,0,0,cloudy,5
+2026-04-30,P008,Chocolate Box,Gifts,38.0,14.0,295,0,0,sunny,5
+2026-05-01,P008,Chocolate Box,Gifts,27.0,14.0,268,0,0,cloudy,5
+2026-05-02,P008,Chocolate Box,Gifts,41.0,14.0,227,0,0,cloudy,5
+2026-05-03,P008,Chocolate Box,Gifts,45.0,14.0,182,0,0,sunny,5
+2026-05-04,P008,Chocolate Box,Gifts,37.0,14.0,565,0,0,rainy,5
+2026-05-05,P008,Chocolate Box,Gifts,37.0,14.0,528,0,0,sunny,5
+2026-05-06,P008,Chocolate Box,Gifts,39.0,14.0,489,0,0,sunny,5
+2026-05-07,P008,Chocolate Box,Gifts,25.0,14.0,464,0,0,cloudy,5
+2026-05-08,P008,Chocolate Box,Gifts,37.0,14.0,427,0,0,sunny,5
+2026-05-09,P008,Chocolate Box,Gifts,41.0,14.0,386,0,0,rainy,5
+2026-05-10,P008,Chocolate Box,Gifts,32.0,14.0,354,0,0,sunny,5
+2026-05-11,P008,Chocolate Box,Gifts,35.0,14.0,319,0,0,cloudy,5
+2026-05-12,P008,Chocolate Box,Gifts,39.0,14.0,280,0,0,sunny,5
+2026-05-13,P008,Chocolate Box,Gifts,27.0,14.0,253,0,0,cloudy,5
+2026-05-14,P008,Chocolate Box,Gifts,32.0,14.0,221,0,0,rainy,5
+2026-05-15,P008,Chocolate Box,Gifts,28.0,14.0,193,0,0,cloudy,5
+2026-05-16,P008,Chocolate Box,Gifts,48.0,14.0,565,0,0,cloudy,5
+2026-05-17,P008,Chocolate Box,Gifts,46.0,14.0,519,0,0,sunny,5
+2026-05-18,P008,Chocolate Box,Gifts,23.0,14.0,496,0,0,sunny,5
+2026-05-19,P008,Chocolate Box,Gifts,42.0,11.9,454,1,0,cloudy,5
+2026-05-20,P008,Chocolate Box,Gifts,22.0,14.0,432,0,0,cloudy,5
+2026-05-21,P008,Chocolate Box,Gifts,31.0,14.0,401,0,0,sunny,5
+2026-05-22,P008,Chocolate Box,Gifts,29.0,14.0,372,0,0,rainy,5
+2026-05-23,P008,Chocolate Box,Gifts,56.0,11.9,316,1,0,cloudy,5
+2026-05-24,P008,Chocolate Box,Gifts,34.0,14.0,282,0,0,sunny,5
+2026-05-25,P008,Chocolate Box,Gifts,25.0,14.0,257,0,0,sunny,5
+2026-05-26,P008,Chocolate Box,Gifts,31.0,14.0,226,0,0,cloudy,5
+2026-05-27,P008,Chocolate Box,Gifts,30.0,14.0,196,0,0,cloudy,5
+2026-05-28,P008,Chocolate Box,Gifts,35.0,14.0,161,0,0,rainy,5
+2026-05-29,P008,Chocolate Box,Gifts,43.0,11.9,538,1,0,cloudy,5
+2026-05-30,P008,Chocolate Box,Gifts,26.0,14.0,512,0,0,cloudy,5
+2026-05-31,P008,Chocolate Box,Gifts,46.0,14.0,466,0,0,rainy,5
+2026-06-01,P008,Chocolate Box,Gifts,35.0,14.0,431,0,0,cloudy,5
+2026-06-02,P008,Chocolate Box,Gifts,,14.0,398,0,0,rainy,5
+2026-06-03,P008,Chocolate Box,Gifts,32.0,14.0,366,0,0,cloudy,5
+2026-06-04,P008,Chocolate Box,Gifts,23.0,14.0,343,0,0,rainy,5
+2026-06-05,P008,Chocolate Box,Gifts,39.0,14.0,304,0,0,cloudy,5
+2026-06-06,P008,Chocolate Box,Gifts,40.0,14.0,264,0,0,rainy,5
+2026-06-07,P008,Chocolate Box,Gifts,44.0,14.0,220,0,0,rainy,5
+2026-06-08,P008,Chocolate Box,Gifts,42.0,11.9,178,1,0,cloudy,5
+2026-06-09,P008,Chocolate Box,Gifts,27.0,14.0,151,0,0,sunny,5
+2026-06-10,P008,Chocolate Box,Gifts,45.0,14.0,526,0,0,sunny,5
+2026-06-11,P008,Chocolate Box,Gifts,23.0,14.0,503,0,0,sunny,5
+2026-06-12,P008,Chocolate Box,Gifts,29.0,14.0,474,0,0,sunny,5
+2026-06-13,P008,Chocolate Box,Gifts,31.0,14.0,443,0,0,cloudy,5
+2026-06-14,P008,Chocolate Box,Gifts,37.0,14.0,406,0,0,sunny,5
+2026-06-15,P008,Chocolate Box,Gifts,30.0,14.0,376,0,0,sunny,5
+2026-06-16,P008,Chocolate Box,Gifts,33.0,14.0,343,0,0,sunny,5
+2026-06-17,P008,Chocolate Box,Gifts,40.0,11.9,303,1,0,sunny,5
+2026-06-18,P008,Chocolate Box,Gifts,28.0,14.0,275,0,0,cloudy,5
+2026-06-19,P008,Chocolate Box,Gifts,35.0,14.0,240,0,0,rainy,5
+2026-06-20,P008,Chocolate Box,Gifts,48.0,14.0,192,0,0,rainy,5
+2026-06-21,P008,Chocolate Box,Gifts,35.0,14.0,157,0,0,rainy,5
+2026-06-22,P008,Chocolate Box,Gifts,28.0,14.0,549,0,0,rainy,5
+2026-06-23,P008,Chocolate Box,Gifts,20.0,14.0,529,0,0,rainy,5
+2026-06-24,P008,Chocolate Box,Gifts,47.0,11.9,482,1,0,sunny,5
+2026-06-25,P008,Chocolate Box,Gifts,35.0,14.0,447,0,0,sunny,5
+2026-06-26,P008,Chocolate Box,Gifts,29.0,14.0,418,0,0,cloudy,5
+2026-06-27,P008,Chocolate Box,Gifts,48.0,14.0,370,0,0,sunny,5
+2026-06-28,P008,Chocolate Box,Gifts,39.0,14.0,331,0,0,sunny,5
+2026-06-29,P008,Chocolate Box,Gifts,30.0,14.0,301,0,0,rainy,5
+2026-06-30,P008,Chocolate Box,Gifts,34.0,14.0,267,0,0,cloudy,5
+2026-07-01,P008,Chocolate Box,Gifts,37.0,14.0,230,0,0,rainy,5
+2026-07-02,P008,Chocolate Box,Gifts,27.0,14.0,203,0,0,cloudy,5
+2026-07-03,P008,Chocolate Box,Gifts,36.0,11.9,167,1,0,cloudy,5
+2026-07-04,P008,Chocolate Box,Gifts,27.0,14.0,560,0,0,sunny,5
+2026-07-05,P008,Chocolate Box,Gifts,47.0,14.0,513,0,0,sunny,5
+2026-07-06,P008,Chocolate Box,Gifts,29.0,14.0,484,0,0,sunny,5
+2026-07-07,P008,Chocolate Box,Gifts,30.0,14.0,454,0,0,rainy,5
+2026-07-08,P008,Chocolate Box,Gifts,26.0,14.0,428,0,0,rainy,5
+2026-07-09,P008,Chocolate Box,Gifts,29.0,14.0,399,0,0,sunny,5
+2026-07-10,P008,Chocolate Box,Gifts,27.0,14.0,372,0,0,cloudy,5
+2026-07-11,P008,Chocolate Box,Gifts,36.0,14.0,336,0,0,cloudy,5
+2026-07-12,P008,Chocolate Box,Gifts,148.0,14.0,188,0,0,cloudy,5
+2026-07-13,P008,Chocolate Box,Gifts,41.0,14.0,567,0,0,sunny,5
+2026-07-14,P008,Chocolate Box,Gifts,41.0,14.0,526,0,0,sunny,5
+2026-07-15,P008,Chocolate Box,Gifts,26.0,14.0,500,0,0,sunny,5
+2026-07-16,P008,Chocolate Box,Gifts,33.0,14.0,467,0,0,sunny,5
+2026-07-17,P008,Chocolate Box,Gifts,31.0,14.0,436,0,0,sunny,5
+2026-07-18,P008,Chocolate Box,Gifts,47.0,14.0,389,0,0,cloudy,5
+2026-07-19,P008,Chocolate Box,Gifts,39.0,14.0,350,0,0,rainy,5
+2026-07-20,P008,Chocolate Box,Gifts,36.0,14.0,314,0,0,rainy,5
+2026-07-21,P008,Chocolate Box,Gifts,25.0,14.0,289,0,0,cloudy,5
+2026-07-22,P008,Chocolate Box,Gifts,37.0,14.0,252,0,0,sunny,5
+2026-07-23,P008,Chocolate Box,Gifts,32.0,14.0,220,0,0,cloudy,5
+2026-07-24,P008,Chocolate Box,Gifts,31.0,14.0,189,0,0,sunny,5
+2026-07-25,P008,Chocolate Box,Gifts,45.0,14.0,564,0,0,sunny,5
+2026-07-26,P008,Chocolate Box,Gifts,38.0,14.0,526,0,0,rainy,5
+2026-07-27,P008,Chocolate Box,Gifts,34.0,14.0,492,0,0,cloudy,5
+2026-07-28,P008,Chocolate Box,Gifts,22.0,14.0,470,0,0,cloudy,5
+2026-07-29,P008,Chocolate Box,Gifts,34.0,14.0,436,0,0,cloudy,5
+2026-07-30,P008,Chocolate Box,Gifts,33.0,14.0,403,0,0,sunny,5
+2026-07-31,P008,Chocolate Box,Gifts,28.0,14.0,375,0,0,cloudy,5
+2026-08-01,P008,Chocolate Box,Gifts,37.0,14.0,338,0,0,cloudy,5
+2026-08-02,P008,Chocolate Box,Gifts,41.0,14.0,297,0,0,rainy,5
+2026-08-03,P008,Chocolate Box,Gifts,37.0,14.0,260,0,0,cloudy,5
+2026-08-04,P008,Chocolate Box,Gifts,34.0,14.0,226,0,0,sunny,5
+2026-08-05,P008,Chocolate Box,Gifts,36.0,14.0,190,0,0,rainy,5
+2026-08-06,P008,Chocolate Box,Gifts,31.0,14.0,159,0,0,sunny,5
+2026-08-07,P008,Chocolate Box,Gifts,22.0,14.0,557,0,0,sunny,5
+2026-08-08,P008,Chocolate Box,Gifts,42.0,14.0,515,0,0,cloudy,5
+2026-08-09,P008,Chocolate Box,Gifts,34.0,14.0,481,0,0,rainy,5
+2026-08-10,P008,Chocolate Box,Gifts,24.0,14.0,457,0,0,sunny,5
+2026-08-11,P008,Chocolate Box,Gifts,31.0,14.0,426,0,0,sunny,5
+2026-08-12,P008,Chocolate Box,Gifts,28.0,14.0,398,0,0,sunny,5
+2026-08-13,P008,Chocolate Box,Gifts,38.0,14.0,360,0,0,rainy,5
+2026-08-14,P008,Chocolate Box,Gifts,32.0,14.0,328,0,0,rainy,5
+2026-08-15,P008,Chocolate Box,Gifts,83.0,14.0,245,0,1,rainy,5
+2026-08-16,P008,Chocolate Box,Gifts,47.0,14.0,198,0,0,sunny,5
+2026-08-17,P008,Chocolate Box,Gifts,30.0,14.0,168,0,0,rainy,5
+2026-08-18,P008,Chocolate Box,Gifts,25.0,14.0,563,0,0,sunny,5
+2026-08-19,P008,Chocolate Box,Gifts,27.0,14.0,536,0,0,rainy,5
+2026-08-20,P008,Chocolate Box,Gifts,21.0,14.0,515,0,0,rainy,5
+2026-08-21,P008,Chocolate Box,Gifts,35.0,14.0,480,0,0,rainy,5
+2026-08-22,P008,Chocolate Box,Gifts,34.0,14.0,446,0,0,rainy,5
+2026-08-23,P008,Chocolate Box,Gifts,43.0,14.0,403,0,0,sunny,5
+2026-08-24,P008,Chocolate Box,Gifts,28.0,14.0,375,0,0,cloudy,5
+2026-08-25,P008,Chocolate Box,Gifts,41.0,14.0,334,0,0,sunny,5
+2026-08-26,P008,Chocolate Box,Gifts,36.0,14.0,298,0,0,cloudy,5
+2026-08-27,P008,Chocolate Box,Gifts,41.0,11.9,257,1,0,cloudy,5
+2026-08-28,P008,Chocolate Box,Gifts,34.0,14.0,223,0,0,rainy,5
+2026-08-29,P008,Chocolate Box,Gifts,48.0,11.9,175,1,0,cloudy,5
+2026-08-30,P008,Chocolate Box,Gifts,34.0,14.0,561,0,0,rainy,5
+2026-08-31,P008,Chocolate Box,Gifts,22.0,14.0,539,0,0,sunny,5
